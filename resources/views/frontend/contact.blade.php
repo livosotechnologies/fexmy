@@ -28,7 +28,8 @@
     </div>
 
     <!-- Contact Section Start -->
-    <section class="contact-section fix section-padding">
+   <div class="contactsec">
+   <section class="contact-section fix section-padding">
         <div class="container">
             <div class="contact-wrapper-2">
                 <div class="row g-4 align-items-center">
@@ -120,22 +121,42 @@
                                 <div class="row g-4">
                                     <div class="col-lg-6 wow fadeInUp" data-wow-delay=".3s">
                                         <div class="form-clt">
-                                            <span>Your name*</span>
+                                            <span>Full name*</span>
                                             <input type="text" name="name" id="name" placeholder="Your Name">
                                         </div>
                                     </div>
                                     <div class="col-lg-6 wow fadeInUp" data-wow-delay=".5s">
                                         <div class="form-clt">
-                                            <span>Your Email*</span>
+                                            <span>Phone Number*</span>
                                             <input type="email" name="email" id="email" placeholder="Your Email">
                                         </div>
                                     </div>
-                                    <div class="col-lg-12 wow fadeInUp" data-wow-delay=".5s">
+                                    <div class="col-lg-6 wow fadeInUp" data-wow-delay=".3s">
                                         <div class="form-clt">
-                                            <span>Your Phone*</span>
-                                            <input type="text" name="phone" id="email" placeholder="Your Phone">
+                                            <span>Email*</span>
+                                            <input type="text" name="name" id="name" placeholder="Your Name">
                                         </div>
                                     </div>
+                                    <div class="col-lg-6 wow fadeInUp" data-wow-delay=".3s">
+                                        <div class="form-clt">
+                                            <span>Email*</span>
+                                            <input type="text" name="name" id="name" placeholder="Your Name">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 wow fadeInUp" data-wow-delay=".3s">
+                                        <div class="form-clt">
+                                            <span>Email*</span>
+                                            <input type="text" name="name" id="name" placeholder="Your Name">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 wow fadeInUp" data-wow-delay=".3s">
+                                        <div class="form-clt">
+                                            <span>Email*</span>
+                                            <input type="text" name="name" id="name" placeholder="Your Name">
+                                        </div>
+                                    </div>
+                                 
+                                 
                                     <div class="col-lg-12 wow fadeInUp" data-wow-delay=".7s">
                                         <div class="form-clt">
                                             <span>Write Message*</span>
@@ -156,6 +177,7 @@
             </div>
         </div>
     </section>
+   </div>
 
     <!--<< Map Section Start >>-->
     <div class="map-section">

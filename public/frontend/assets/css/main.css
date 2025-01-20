@@ -5682,7 +5682,7 @@ h6 {
   line-height: 70px;
   text-align: center;
   border-radius: 50%;
-  background: linear-gradient(180deg, #3C72FC -210.71%, #00060C 100%);
+  background: linear-gradient(180deg, #bbc7e7 -210.71%, #d8e1e9 100%);
   margin: 0 auto;
   margin-top: -35px;
   transition: all 0.4s ease-in-out;
@@ -7232,7 +7232,7 @@ h6 {
   width: 100%;
   height: 100%;
   content: "";
-  background-image: linear-gradient(270.07deg, #002B98 0.07%, #00060C 99.95%);
+  background-image: linear-gradient(270.07deg, #ff8202 0.09%, #00060C 99.95%);
   opacity: 0.75;
 }
 .breadcrumb-wrapper .page-heading {
@@ -14759,4 +14759,25 @@ background: linear-gradient(228deg,
 .content-part .desc {
   font-size: 14px;
   color: #777;
+}
+.abnew{
+  background: rgb(255, 255, 255);
+  background: linear-gradient(228deg, 
+      rgba(255, 255, 255, 1) 0%, 
+      rgba(255, 193, 128, 1) 35%, 
+      rgba(255, 161, 65, 1) 65%, 
+      rgba(255, 130, 2, 1) 100%
+  );
+  padding-top: 30px;
+  padding-bottom: 30px;
+  height:auto;
+ 
+}
+body{
+  overflow-x: hidden !important;
+}
+.contactsec{
+  background-color:var(--header);
+  padding-top: 30px;
+  padding-bottom: 30px;
 }

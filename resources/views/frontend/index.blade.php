@@ -473,7 +473,7 @@
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script>
 
-    <section class="tesimonial-section-3 section-padding section-bg-2 bg-cover mt-3 mb-5">
+    <section class="tesimonial-section-3 section-padding section-bg-2 bg-cover mt-3">
         <div class="line-shape">
             <img src="{{asset('frontend/assets/img/team/line-shape.png')}}" alt="shape-img">
         </div>
@@ -482,7 +482,7 @@
         </div>
       
         <div class="container">
-            <div class="section-title title-area  mx-auto mb-20">
+            <div class="section-title title-area  mx-auto ">
                 <div class="subtitle d-flex justify-content-center"> <img src="{{asset('frontend/assets/img/icon/arrowLeftWhite.svg')}}"
                         alt="icon"> <span class=" text-white"> <h4>Start Your Business Today</h4>
                     </span><img src="{{asset('frontend/assets/img/icon/arrowRightWhite.svg')}}" alt="icon"></div>
@@ -492,7 +492,7 @@
                 <div class="container">
                   
                     <div class="row">
-                        <div class="col-lg-4 col-md-6 md-mb-30">
+                        <div class="col-lg-4 col-md-6 ">
                             <div class="flip-card">
                                 <!-- Front of the card (only the country name) -->
                                 <div class="flip-card-inner">
@@ -789,11 +789,27 @@
                         <div class="swiper-slide">
                             <div class="project-items style-2">
                                 <div class="project-image">
-                                    <img src="{{asset('frontend/assets/img/services/services-4.jpg')}}" alt="project-img">
+                                    <img src="{{asset('frontend/assets/img/services/services-5.jpg')}}" alt="project-img">
                                     <div class="project-content style3">
                                        
                                         <h4>
-                                            <a href="project-details.html">Software Development</a>
+                                            <a href="project-details.html">Office Space</a>
+                                        </h4>
+                                        <a href="project-details.html" class="arrow-icon-2">
+                                            <i class="fa-solid fa-arrow-right"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="project-items style-2">
+                                <div class="project-image">
+                                    <img src="{{asset('frontend/assets/img/services/services-6.jpg')}}" alt="project-img">
+                                    <div class="project-content style3">
+                                       
+                                        <h4>
+                                            <a href="project-details.html">Trade License</a>
                                         </h4>
                                         <a href="project-details.html" class="arrow-icon-2">
                                             <i class="fa-solid fa-arrow-right"></i>
