@@ -18,8 +18,33 @@ Route::get('/blogdetail/{id}', [App\Http\Controllers\FrontendController::class, 
 Route::get('/servicedetail/{id}', [App\Http\Controllers\FrontendController::class, 'servicedetail'])->name('service.details');
 Route::get('/contacts', [App\Http\Controllers\FrontendController::class, 'contacts'])->name('contacts');
 Route::get('/subservicedetail/{id}', [App\Http\Controllers\FrontendController::class, 'subservicedetail'])->name('subservice.details');
-
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('dashboard');
+Route::get('visa', function () {
+    return view('frontend/visa');
+});
+Route::get('commonform', function () {
+    return view('frontend/commonform');
+});
+Route::get('commonsection', function () {
+    return view('frontend/commonsection');
+});
+Route::get('UAE-Mainland', function () {
+    return view('frontend/UAE-Mainland');
+});
+Route::get('Dubai-mainland', function () {
+    return view('frontend/Dubai-mainland');
+});
+Route::get('Abu-Dhabi-mainland', function () {
+    return view('frontend/Abu-Dhabi-mainland');
+});
+Route::get('Ajman-mainland', function () {
+    return view('frontend/Ajman-mainland');
+});
+Route::get('Sharjah-mainland', function () {
+    return view('frontend/Sharjah-mainland');
+});
+
+
 
 //Banner
 Route::get('/banner', [App\Http\Controllers\HomeController::class, 'view'])->name('banner.index');

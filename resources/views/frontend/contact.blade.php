@@ -1,35 +1,35 @@
 @extends('frontend.layouts.app')
 @section('content')
 <div class="breadcrumb-wrapper bg-cover" style="background-image: url('frontend/assets/img/breadcrumb.jpg');">
-        <div class="border-shape">
-            <img src="{{asset('frontend/assets/img/element.png')}}" alt="shape-img">
-        </div>
-        <div class="line-shape">
-            <img src="{{asset('frontend/assets/img/line-element.png')}}" alt="shape-img">
-        </div>
-        <div class="container">
-            <div class="page-heading">
-                <h1 class="wow fadeInUp" data-wow-delay=".3s">Contact Us</h1>
-                <ul class="breadcrumb-items wow fadeInUp" data-wow-delay=".5s">
-                    <li>
-                        <a href="/">
-                            Home
-                        </a>
-                    </li>
-                    <li>
-                        <i class="fas fa-chevron-right"></i>
-                    </li>
-                    <li>
-                        Contact Us
-                    </li>
-                </ul>
-            </div>
+    <div class="border-shape">
+        <img src="{{asset('frontend/assets/img/element.png')}}" alt="shape-img">
+    </div>
+    <div class="line-shape">
+        <img src="{{asset('frontend/assets/img/line-element.png')}}" alt="shape-img">
+    </div>
+    <div class="container">
+        <div class="page-heading">
+            <h1 class="wow fadeInUp" data-wow-delay=".3s">Contact Us</h1>
+            <ul class="breadcrumb-items wow fadeInUp" data-wow-delay=".5s">
+                <li>
+                    <a href="/">
+                        Home
+                    </a>
+                </li>
+                <li>
+                    <i class="fas fa-chevron-right"></i>
+                </li>
+                <li>
+                    Contact Us
+                </li>
+            </ul>
         </div>
     </div>
+</div>
 
-    <!-- Contact Section Start -->
-   <div class="contactsec">
-   <section class="contact-section fix section-padding">
+<!-- Contact Section Start -->
+<div class="contactsec">
+    <section class="contact-section fix section-padding">
         <div class="container">
             <div class="contact-wrapper-2">
                 <div class="row g-4 align-items-center">
@@ -155,8 +155,8 @@
                                             <input type="text" name="name" id="name" placeholder="Your Name">
                                         </div>
                                     </div>
-                                 
-                                 
+
+
                                     <div class="col-lg-12 wow fadeInUp" data-wow-delay=".7s">
                                         <div class="form-clt">
                                             <span>Write Message*</span>
@@ -177,16 +177,16 @@
             </div>
         </div>
     </section>
-   </div>
+</div>
 
-    <!--<< Map Section Start >>-->
-    <div class="map-section">
-        <div class="map-items">
-            <div class="googpemap">
-               
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d239388.68158236492!2d85.81790289999998!3d20.3644041!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1730542174190!5m2!1sen!2sin" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-            </div>
+<!--<< Map Section Start >>-->
+<div class="map-section">
+    <div class="map-items">
+        <div class="googpemap">
+
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d239388.68158236492!2d85.81790289999998!3d20.3644041!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1730542174190!5m2!1sen!2sin" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
         </div>
     </div>
+</div>
 
 @endsection

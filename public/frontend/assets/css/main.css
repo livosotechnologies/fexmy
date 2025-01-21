@@ -1324,7 +1324,7 @@ Version: 1.0.0
   position: relative;
   z-index: 1;
   line-height: 1;
-  padding: 18px 28px;
+  padding: 12px 22px;
   cursor: pointer;
   border-radius: 100px;
   -webkit-border-radius: 100px;
@@ -7476,11 +7476,12 @@ h6 {
   background-color: transparent;
   width: unset;
   outline: none;
-  border-bottom: 2px solid var(--border-color) !important;
-  padding-bottom: 20px !important;
+  border: 1px solid var(--border-color) !important;
+  padding-bottom: 8px !important;
   border: none;
-  border-radius: 0;
+  border-radius:7px;
   padding: 0;
+  margin-top: 44px;
 }
 .nice-select:hover {
   border-bottom: 2px solid transparent;
@@ -8635,8 +8636,9 @@ h6 {
   .container-sm,
   .container {
     max-width: calc(var(--main-container) + var(--container-gutters));
-    padding-left: calc(var(--container-gutters) / 2);
-    padding-right: calc(var(--container-gutters) / 2);
+    padding-left: calc(var(--container-gutters) / 2 + 40px);
+    padding-right: calc(var(--container-gutters) / 2 + 40px);
+    
   }
   .container-xxl.px-0,
   .container-xl.px-0,
@@ -8649,8 +8651,8 @@ h6 {
 }
 @media only screen and (max-width: 1600px) {
   .container-fluid.px-0 {
-    padding-left: 15px !important;
-    padding-right: 15px !important;
+    padding-left: 35px !important;
+    padding-right: 35px !important;
   }
   .container-fluid.px-0 .row {
     margin-left: 0 !important;
@@ -14780,4 +14782,114 @@ body{
   background-color:var(--header);
   padding-top: 30px;
   padding-bottom: 30px;
+}
+.service-icon img {
+  max-width: 40px;
+}
+.prcard{
+  border: none;
+  background-color: rgb(229, 241, 248);
+  padding: 10px;
+}
+.uaepic{
+  border-radius: 30px;
+}
+.listul li{
+  padding-bottom: 10px;
+}
+
+/* faq section */
+.rs-faq .faq-content .accordion {
+  border-width: 12px;
+}
+.rs-faq .faq-content .accordion .card {
+  margin-bottom: 15px;
+  border: none;
+  background-color: #fff;
+}
+.rs-faq .faq-content .accordion .card:last-child {
+  margin-bottom: 0;
+}
+.rs-faq .faq-content .accordion .card .card-header {
+  display: flex;
+  align-items: center;
+  padding: 0 !important;
+  border: none;
+  box-shadow: 0 0 10px #efefef;
+  background: #fff;
+}
+.rs-faq .faq-content .accordion .card .card-header .card-link {
+  position: relative;
+  display: block;
+  width: 100%;
+  padding: 20px 30px 0 30px;
+  line-height: 1.3;
+  font-size: 15px;
+  font-weight: 600;
+  background: #ffffff;
+  box-shadow: 0 0 10px #efefef;
+  color: #0a0a0a;
+}
+.rs-faq .faq-content .accordion .card .card-header .card-link:after {
+  position: absolute;
+  font-family: FontAwesome;
+  content: "\f068";
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+  font-size: 12px;
+  color: #ffffff;
+  background: #ff8202;
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  border-radius: 100%;
+}
+.rs-faq .faq-content .accordion .card .card-header .card-link.collapsed:after {
+  color: #ffffff;
+  content: "\f067";
+}
+.rs-faq .faq-content .accordion .card .card-body {
+  color: #0a0a0a;
+  padding: 20px 30px 30px 30px !important;
+  width: 100%;
+  background: #fff;
+  box-shadow: 0 4px 10px #efefef;
+}
+.rs-faq.faq-home-style5 .faq-content .accordion .card .card-header .card-link:after {
+  left: 13px;
+  font-size: 12px;
+  color: #0a0a0a;
+  box-shadow: unset;
+  background: unset;
+}
+.rs-faq.faq-home-style5 .faq-content .accordion .card .card-header {
+  box-shadow: unset;
+}
+.rs-faq.faq-home-style5 .faq-content .accordion .card .card-header .card-link {
+  padding: 22px 36px 0 60px;
+  font-size: 16px;
+  font-weight: 600;
+  background: #ffffff;
+  box-shadow: unset;
+}
+.rs-faq.faq-home-style5 .faq-content .accordion .card .card-header.active .card-link {
+  background: #4caf50;
+  color: #ffffff;
+  padding: 22px 36px 0 60px;
+}
+.rs-faq.faq-home-style5 .faq-content .accordion .card .card-header.active .card-link:after {
+  color: #ffffff;
+}
+.rs-faq.faq-home-style5 .faq-content .accordion .card .card-body {
+  background: #fff;
+  box-shadow: unset;
+}
+.cd{
+   min-height: 200px;
+   max-height: auto;
+}
+.shaimg{
+  width: 70px;
 }
