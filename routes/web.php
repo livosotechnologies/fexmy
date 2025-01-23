@@ -84,6 +84,12 @@ Route::get('Ras-al-khaimah-Offshore', function () {
 });
 
 
+//serveses pages routes
+
+Route::get('Business-Licenses', function () {
+    return view('frontend/Business-Licenses');
+});
+
 
 //Banner
 Route::get('/banner', [App\Http\Controllers\HomeController::class, 'view'])->name('banner.index');
