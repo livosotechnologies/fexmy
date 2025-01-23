@@ -43,6 +43,45 @@ Route::get('Ajman-mainland', function () {
 Route::get('Sharjah-mainland', function () {
     return view('frontend/Sharjah-mainland');
 });
+Route::get('UAE-Freezone', function () {
+    return view('frontend/UAE-Freezone');
+});
+Route::get('Dubai-Freezone', function () {
+    return view('frontend/Dubai-Freezone');
+});
+Route::get('Abudhabi-Freezone', function () {
+    return view('frontend/Abudhabi-Freezone');
+});
+Route::get('Ajman-Freezone', function () {
+    return view('frontend/Ajman-Freezone');
+});
+Route::get('Sharjah-Freezone', function () {
+    return view('frontend/Sharjah-Freezone');
+});
+Route::get('RAKEZ-Freezone', function () {
+    return view('frontend/RAKEZ-Freezone');
+});
+Route::get('IFZA-Freezone', function () {
+    return view('frontend/IFZA-Freezone');
+});
+Route::get('Ras-al-khaimah-Freezone', function () {
+    return view('frontend/Ras-al-khaimah-Freezone');
+});
+Route::get('UAE-Offshore', function () {
+    return view('frontend/UAE-Offshore');
+});
+Route::get('Dubai-Offshore', function () {
+    return view('frontend/Dubai-Offshore');
+});
+Route::get('Sharjah-Offshore', function () {
+    return view('frontend/Sharjah-Offshore');
+});
+Route::get('Jebel-ali-Offshore', function () {
+    return view('frontend/Jebel-ali-Offshore');
+});
+Route::get('Ras-al-khaimah-Offshore', function () {
+    return view('frontend/Ras-al-khaimah-Offshore');
+});
 
 
 

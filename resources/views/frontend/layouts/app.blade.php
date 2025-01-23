@@ -12,9 +12,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <!-- ======== Page title ============ -->
-    <title>Lealava Technology </title>
+    <title>FexMy </title>
     <!--<< Favcion >>-->
-    <link rel="shortcut icon" href="{{asset('frontend/assets/img/favicon.svg')}}">
+    <!-- <link rel="shortcut icon" href="{{asset('frontend/assets/img/favicon.svg')}}"> -->
     <!--<< Bootstrap min.css >>-->
     <link rel="stylesheet" href="{{asset('frontend/assets/css/bootstrap.min.css')}}">
     <!--<< All Min Css >>-->

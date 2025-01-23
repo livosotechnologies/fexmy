@@ -6,238 +6,14 @@
         <div class="col-lg-6">
             <div class="page-heading">
                 <h3 class="wow fadeInUp text-white text-start" data-wow-delay=".3s">
-                    Proceed With Your Mainland
-                    Company Formation
-                    In the Dubai.
+                    Free Zone
+                    Business Setup in UAE
                 </h3>
                 <h6 class="wow fadeInUp text-white text-start pt-4" data-wow-delay=".3s">
-                    Is a Dubai mainland firm good for you? Invest in any of the
-                    Dubai's business activities and do business in the country or across the world.
+                    Step into the World of Opportunities with a Free Zone Business
                 </h6>
 
             </div>
-        </div>
-    </div>
-</div>
-<div class="container">
-    <div class="card prcard p-lg-5 mb-5 mt-4" style="background-color:#ff8202">
-        <div class="row">
-
-            <div class="col-lg-6 col-sm-12">
-                <h5 class="text-white">
-                    Benefits of Dubai Mainland Company Formation
-                </h5>
-                <div class="pt-5">
-                    <ul class="listul text-white">
-                        <li>
-                            <i class="fa-solid fa-check"></i>
-                            Availability of commercial space for lease in any location
-                        </li>
-                        <li>
-                            <i class="fa-solid fa-check"></i>
-                            Capacity to engage in a variety of commercial operations
-                        </li>
-                        <li>
-                            <i class="fa-solid fa-check"></i>
-                            100% foreign ownership, with the option to trade anywhere in the Dubai.
-                        </li>
-                        <li>
-                            <i class="fa-solid fa-check"></i>
-                            No restrictions on currency
-                        </li>
-                        <li>
-                            <i class="fa-solid fa-check"></i>
-                            Processing work visas is simple
-                        </li>
-                        <li>
-                            <i class="fa-solid fa-check"></i>
-                            Ease of opening a corporate bank account
-                        </li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-6 col-sm-12 m-auto" style="max-width:500px;">
-                <img src="frontend/assets/img/service/mainland1.jpg" class="img-fluid uaepic">
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="container mt-4">
-    <div class="col-lg-7">
-        <h3>
-            Types of Mainland Company Formation in Dubai
-        </h3>
-        <p class="pt-4">
-        Dubai offers a variety of business resources to financial professionals that may be combined successfully.
-        </p>
-    </div>
-    <div class="card prcard pb-3 mb-5 mt-4">
-        <div class="row">
-            <div class="col-lg-6 col-sm-12">
-                <img src="frontend/assets/img/service/mainland1.jpg" class="img-fluid uaepic">
-            </div>
-            <div class="col-lg-6 col-sm-12 m-auto">
-                <h4>Branch of Foreign Office</h4>
-                <p class="mt-4">
-                    Dubai offers opportunities to financial experts looking for a platform to expand their firm. You might use Mainland business creation to incorporate your branch office if you’re looking for a platform to expand. to learn more about the consolidation of branch offices.
-                </p>
-                <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
-                        Explore More
-                        <i class="fa-solid fa-arrow-right-long"></i>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="card prcard pb-3 mb-5">
-        <div class="row">
-            <div class="col-lg-6 col-sm-12">
-                <img src="frontend/assets/img/service/mainland2.jpg" class="img-fluid uaepic">
-            </div>
-            <div class="col-lg-6 col-sm-12 m-auto">
-                <h4>Professional Companies</h4>
-                <p class="mt-4">
-                    Additionally referred to as common organisations, they are committed to a certain vocation to carry out the professional practise specific to their field. </p>
-                <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
-                        Explore More
-                        <i class="fa-solid fa-arrow-right-long"></i>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="card prcard pb-3 mb-5">
-        <div class="row">
-            <div class="col-lg-6 col-sm-12">
-                <img src="frontend/assets/img/service/mainland3.jpg" class="img-fluid uaepic">
-            </div>
-            <div class="col-lg-6 col-sm-12 m-auto">
-                <h4>LLC</h4>
-                <p class="mt-4">
-                    One of the most well-known forms of business entities is the limited liability company (LLC), which may be formed with the participation of at least two investors and up to a maximum of fifty. The percentage of individual shares determines how much responsibility each accomplice must take. </p>
-                <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
-                        Explore More
-                        <i class="fa-solid fa-arrow-right-long"></i>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="card prcard pb-3 mb-5">
-        <div class="row">
-            <div class="col-lg-6 col-sm-12">
-                <img src="frontend/assets/img/service/mainland4.jpg" class="img-fluid uaepic">
-            </div>
-            <div class="col-lg-6 col-sm-12 m-auto">
-                <h4>Representative Office</h4>
-                <p class="mt-4">
-                    The Dubai allows financial experts from outside to establish a delegate office without the presence of an investor. A delegate office refrains from corporate operating activities and is more inclined to do research and develop promotional activities. </p>
-                <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
-                        Explore More
-                        <i class="fa-solid fa-arrow-right-long"></i>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="container">
-    <div class="container card prcard p-lg-5 mb-5 mt-4" style="background-color:#ff8202">
-        <h2 class="text-white pb-5">
-        Why Choose FexMy for Dubai Mainland Company Formation?
-        </h2>
-
-        <div class="row mt-4" style="display:flex;justify-content:center;">
-
-            <div class="col-lg-4 col-sm-12 m-auto">
-                <div class="card p-4 mb-3">
-                    <div class="shaimg text-center">
-                        <img src="frontend/assets/img/service/sharjah1.png">
-                    </div>
-                    <div class="mt-3">
-                        <h6>
-                        Dedicated Business Consultants
-                        </h6>
-                       
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-12 m-auto">
-                <div class="card p-4 mb-3">
-                    <div class="shaimg text-center">
-                        <img src="frontend/assets/img/service/sharjah2.png">
-                    </div>
-                    <div class="mt-3">
-                        <h6>
-                        Hassle-Free PRO Services
-                        </h6>
-                       
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-12 m-auto">
-                <div class="card p-4 mb-3">
-                    <div class="shaimg text-center">
-                        <img src="frontend/assets/img/service/sharjah3.png">
-                    </div>
-                    <div class="mt-3">
-                        <h6>
-                        Affordable Business Packages
-                        </h6>
-                       
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-12 m-auto">
-                <div class="card p-4 mb-3">
-                    <div class="shaimg text-center">
-                        <img src="frontend/assets/img/service/sharjah4.png">
-                    </div>
-                    <div class="mt-3">
-                        <h6>
-                        Expert Guidance
-                        </h6>
-                       
-                      
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-12 m-auto">
-                <div class="card p-4 mb-3">
-                    <div class="shaimg text-center">
-                        <img src="frontend/assets/img/service/sharjah5.png">
-                    </div>
-                    <div class="mt-3">
-                        <h6>
-                        Excellent Customer Support
-                        </h6>
-                      
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-12 m-auto">
-                <div class="card p-4 mb-3">
-                    <div class="shaimg text-center">
-                        <img src="frontend/assets/img/service/sharjah6.png">
-                    </div>
-                    <div class="mt-3">
-                        <h6>
-                        Strong Local Presence and Network
-                        </h6>
-                       
-                    </div>
-                </div>
-            </div>
-
         </div>
     </div>
 </div>
@@ -245,26 +21,27 @@
         <div class="container custom pb-50">
             <div class="row">
                 <div class="col-lg-6 pl-60 md-pl-15 m-auto">
-                    <div>
+                    <div class="sec-title">
                         <h2 class="title pb-22">
-                            Benefits of Mainland Company Formation in Dubai
+                           SET UP A FREE ZONE COMPANY IN THE UAE
                         </h2>
-                        <b>A mainland company setup Dubai presents itself with various benefits to the company. These include:</b>
-                        <ul style="color:black;">
-                        <li>
-                        <i class="fa-solid fa-check"></i> Mainland companies are granted the flexibility to conduct business activities and trade freely, with local and governmental authorities, in any part of the UAE or outside UAE.</li>
-                        <li> <i class="fa-solid fa-check"></i> There is no minimum capital requirement for mainland company formation</li>
-                        <li> <i class="fa-solid fa-check"></i> The registration process for this is simple and prompt.</li>
-                        <li> <i class="fa-solid fa-check"></i> Can repatriate the capital and the profits from the business up to 100%</li>
-                        <li> <i class="fa-solid fa-check"></i> Corporate and income taxes are exempted</li>
-                        <li> <i class="fa-solid fa-check"></i> Annual audits are not mandatory</li>
-                        <li> <i class="fa-solid fa-check"></i> Offers the ability to expand the business and related activities to various industries.</li>
-                        <li> <i class="fa-solid fa-check"></i> Issuing visas does not have any number limit and depends upon the size or area of the office space.</li>
-                        <li> <i class="fa-solid fa-check"></i> The physical office can be set up anywhere in the UAE mainland.</li>
-                        <li> <i class="fa-solid fa-check"></i> Presents more options on the type of business activities.</li>
-                        <li> <i class="fa-solid fa-check"></i> Lesser nationality restrictions in ownership and for visas as compared to other jurisdictions</li>
-                    <li> <i class="fa-solid fa-check"></i> As per the new amendments in company laws of UAE, no requirement for local sponsors or Emirati on board.</li>
-                        </ul>
+                        <p class="pb-4">
+                        Welcome to FexMy Business Setup, your gateway to company incorporation in over 80 UAE-free zones! With so many options to choose from, we understand the excitement and challenges you might be facing. But fear not! Our expert team is here to guide you through this thrilling journey, ensuring you find the perfect free zone that aligns with your business needs. We’ve got you covered, from location and pricing to flexible desk options and share capital requirements. Let us take the wheel, save you money, and make the whole process a breeze. Say goodbye to stress and hello to success with FexMy Business Setup!
+                        </p>
+                        <b>
+                        FexMy's Company Setup-Related Services with Utmost Proficiency, Includes:
+                        </b>
+                       <ul style="color:black;">
+                       <li><i class="fa-solid fa-check"></i> Establishing a UAE Freezone Company </li>
+                        <li><i class="fa-solid fa-check"></i> Acquiring a Trade License </li>
+                        <li><i class="fa-solid fa-check"></i> Registering with the Chamber of Commerce </li>
+                        <li><i class="fa-solid fa-check"></i> Facilitating the Bank Account opening process </li>
+                        <li><i class="fa-solid fa-check"></i> Securing Director Visas for both company and family 
+                        </li>
+                        <li><i class="fa-solid fa-check"></i> Organising office staff and accounting services and fulfilling all other company requirements</li>
+                       
+                       
+                       </ul>
                     </div>
 
                 </div>
@@ -282,13 +59,281 @@
         </div>
     </div>
 <div class="container">
+    <div class="card prcard p-lg-5 mb-5 mt-4" style="background-color:#ff8202">
+        <div class="row">
+
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                <h4 class="text-white">
+                    Required Documents for Setting Up a Business in the UAE
+                </h4>
+                <div class="pt-5">
+                    <h5 class="text-white">
+                        General Documents:
+                    </h5>
+                    <ul class="listul text-white">
+                        <li>
+                            <i class="fa-solid fa-check"></i>
+                            Passport copies of the partners and business managers
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-check"></i>
+                            Passport size photograph
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-check"></i>
+                            Trade names
+                        </li>
+
+                    </ul>
+                    <h5 class="text-white mt-4">
+                        Documents for Branch of Companies:
+                    </h5>
+                    <ul class="listul text-white">
+                        <li>
+                            <i class="fa-solid fa-check"></i>
+                            Attested copy of the registration certificate, incorporation certificate, and the Memorandum and Articles of Association (MAA)
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-check"></i>
+                            Original Board Resolution that guarantees the financial commitment of the branch
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-check"></i>
+                            passport copy of the shareholder
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-check"></i>
+                            Passport size photograph
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 m-auto">
+                <img src="frontend/assets/img/service/mainland1.jpg" class="img-fluid uaepic">
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="col-lg-7">
+        <h3>
+            Steps to Set Up a Business in the UAE Free Zones
+        </h3>
+
+    </div>
+    <div class="card prcard plg-5 mb-5 mt-4">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                <img src="frontend/assets/img/service/abudhabi8.webp" class="img-fluid uaepic">
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 m-auto">
+                <h4>Choose Legal Entity</h4>
+                <p class="mt-4">
+                Decide on the type of entity you want to establish in the free zone, considering the capital requirement for that particular
+                zone.
+                </p>
+                <div class="pt-3">
+                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                        data-delay=".9s" class="theme-btn hover-white">
+                        Explore More
+                        <i class="fa-solid fa-arrow-right-long"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="card prcard p-lg-5 mb-5">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                <img src="frontend/assets/img/service/abudhabi9.webp" class="img-fluid uaepic">
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 m-auto">
+                <h4>Select a Trade Name</h4>
+                <p class="mt-4">
+                Pick your company’s unique and permissible trade name, ensuring it is not already registered.
+             </p>
+                <div class="pt-3">
+                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                        data-delay=".9s" class="theme-btn hover-white">
+                        Explore More
+                        <i class="fa-solid fa-arrow-right-long"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="card prcard p-lg-5 mb-5">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                <img src="frontend/assets/img/service/abudhabi10.jpg" class="img-fluid uaepic">
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 m-auto">
+                <h4>Apply for a Business License</h4>
+                <p class="mt-4">
+                Submit the required documents and apply for the appropriate business license based on your company’s primary activity.
+            </p>
+                <div class="pt-3">
+                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                        data-delay=".9s" class="theme-btn hover-white">
+                        Explore More
+                        <i class="fa-solid fa-arrow-right-long"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="card prcard p-lg-5 mb-5">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                <img src="frontend/assets/img/service/abudhabi11.webp" class="img-fluid uaepic">
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 m-auto">
+                <h4>Secure Office Spacee</h4>
+                <p class="mt-4">
+                Determine the suitable office space, either through purchasing or leasing, depending on your business’s needs.  </p>
+                <div class="pt-3">
+                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                        data-delay=".9s" class="theme-btn hover-white">
+                        Explore More
+                        <i class="fa-solid fa-arrow-right-long"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="card prcard p-lg-5 mb-5">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                <img src="frontend/assets/img/service/abudhabi12.webp" class="img-fluid uaepic">
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 m-auto">
+                <h4>Obtain Approvals and Register
+                 </h4>
+                <p class="mt-4">
+                Get initial approval, business approvals, and register your company on the free zone authority’s portal.
+             </p>
+                <div class="pt-3">
+                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                        data-delay=".9s" class="theme-btn hover-white">
+                        Explore More
+                        <i class="fa-solid fa-arrow-right-long"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="card prcard p-lg-5 mb-5">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                <img src="frontend/assets/img/service/abudhabi13.jpg" class="img-fluid uaepic">
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 m-auto">
+                <h4>Obtain the License
+                </h4>
+                <p class="mt-4">
+                Once the process is completed, you will receive your business license to start your operations within 2-4 weeks.
+             </p>
+                <div class="pt-3">
+                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                        data-delay=".9s" class="theme-btn hover-white">
+                        Explore More
+                        <i class="fa-solid fa-arrow-right-long"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="container card prcard p-lg-5 mb-5 mt-4" style="background-color:whitesmoke;">
+        <h2 class="pb-5">
+        Variety of Business Licenses Offered in the UAE Free Zones
+        </h2>
+        <p>Obtaining a business license is an essential step in the process of setting up a business in the UAE free zones. Applicants have the option to obtain various types of licenses based on their specific business activities: </p>
+
+        <div class="row mt-4" style="display:flex;justify-content:center;">
+
+            <div class="col-sm m-auto">
+                <div class="card prcard cd p-4 mb-3  text-center" style="background-color:#ff8202;">
+                    <div>
+                        <img src="frontend/assets/img/service/uaefreezone1.webp" class="shaimg">
+                    </div>
+                    <div class="mt-3">
+                        <h6>
+                             Trading License
+                        </h6>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm m-auto">
+                <div class="card prcard cd p-4 mb-3 text-center" style="background-color:#ff8202">
+                    <div>
+                        <img src="frontend/assets/img/service/uaefreezone2.webp" class="shaimg">
+                    </div>
+                    <div class="mt-3">
+                        <h6>
+                        Commercial License
+                        </h6>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm m-auto">
+                <div class="card prcard cd p-4 mb-3  text-center" style="background-color:#ff8202">
+                    <div>
+                        <img src="frontend/assets/img/service/uaefreezone3.webp" class="shaimg">
+                    </div>
+                    <div class="mt-3">
+                        <h6>
+                            Industrial License
+                        </h6>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm  m-auto">
+                <div class="card prcard cd p-4 mb-3 text-center"style="background-color:#ff8202">
+                    <div>
+                        <img src="frontend/assets/img/service/uaefreezone4.webp" class="shaimg">
+                    </div>
+                    <div class="mt-3">
+                        <h6>
+                            Service License
+                        </h6>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm m-auto">
+                <div class="card prcard cd p-4 mb-3 text-center"style="background-color:#ff8202">
+                    <div>
+                        <img src="frontend/assets/img/service/uaefreezone5.webp" class="shaimg">
+                    </div>
+                    <div class="mt-3">
+                        <h6>
+                        Manufacturing License
+                        </h6>
+
+                    </div>
+                </div>
+            </div>
+     
+
+
+        </div>
+    </div>
+</div>
+<div class="container">
     <div id="rs-faq" class="rs-faq pt-5 pb-100 md-pt-70 md-pb-70">
         <div class="container">
             <div class="row y-middle">
                 <div class="col-lg-12  md-mb-50">
                     <div class="sec-title">
                         <h2 class="title pb-30">
-                            Mainland Company Formation in Dubai; FAQs
+                            Mainland Company Formation in UAE; FAQs
                         </h2>
 
                     </div>
@@ -308,7 +353,7 @@
                                         <p>Previously foreign investors or entrepreneurs were not allowed to form a business in the UAE mainland with 100% ownership. It was mandatory to have a local sponsor with 51% of company shares allotted to them. This obligation has been revoked as per the new UAE company law. This allows foreign entrepreneurs to own 100% of their company shares in the UAE mainland.</p>
                                         <p>Another major advantage differentiating mainland companies from others is the office space requirement and setup. Physical office space is required to obtain a mainland business setup license in Dubai. Mainland businesses have the advantage of setting up office spaces anywhere that suits them.</p>
                                         <p>Mainland companies also do not have any restrictions when it comes to visa eligibility. The number of visas issued is directly proportional to the area of workspace/office space that the company has.</p>
-                                        <p>Dubai mainland companies also have business aids, tax exemptions, and other benefits in compliance with the latest laws.</p>
+                                        <p>UAE mainland companies also have business aids, tax exemptions, and other benefits in compliance with the latest laws.</p>
                                     </div>
                                 </div>
                             </div>
@@ -317,7 +362,7 @@
                                     <a class="card-link collapsed" href="#" data-bs-toggle="collapse"
                                         data-bs-target="#collapseTwo" aria-expanded="false">Q: What are the procedures of Mainland Company Formation?</a>
                                 </div>
-                                <div id="collapseTwo" class="collapse" data-bs-parent="#accordion" >
+                                <div id="collapseTwo" class="collapse" data-bs-parent="#accordion" style="">
                                     <div class="card-body pt-2">
                                         <p>You must follow the following procedure for mainland company formation in Dubai. </p>
                                         <li>Complete the prerequisites for a Local Liability Company (LLC) or Local business startup if you choose to start an LLC.</li>
@@ -335,7 +380,7 @@
                                     <a class="card-link collapsed" href="#" data-bs-toggle="collapse"
                                         data-bs-target="#collapseThree" aria-expanded="false">Q: Which are the documents required for Mainland business setup?</a>
                                 </div>
-                                <div id="collapseThree" class="collapse" data-bs-parent="#accordion" >
+                                <div id="collapseThree" class="collapse" data-bs-parent="#accordion" style="">
                                     <div class="card-body pt-2">
                                         <p>Here is the list of documents that you will initially need to apply for mainland business setup: </p>
                                         <li>Trade Name (At least Three name choices)</li>
@@ -351,11 +396,11 @@
                                 <div class="card-header">
 
                                     <a class="card-link collapsed" href="#" data-bs-toggle="collapse"
-                                        data-bs-target="#collapsefour" aria-expanded="false">Q: How does Dubai’s amended company law benefit mainland business setup?</a>
+                                        data-bs-target="#collapsefour" aria-expanded="false">Q: How does UAE’s amended company law benefit mainland business setup?</a>
                                 </div>
-                                <div id="collapsefour" class="collapse" data-bs-parent="#accordion" >
+                                <div id="collapsefour" class="collapse" data-bs-parent="#accordion" style="">
                                     <div class="card-body pt-2">
-                                        <p>The latest amendments in Dubai company laws benefit foreign businesses set up on the mainland in various ways. The law allows the foreign entrepreneur to have 100% ownership as opposed to the mandatory local sponsor requirement. Another major benefit is the significant tax exemption and government-funded business aid.</p>
+                                        <p>The latest amendments in UAE company laws benefit foreign businesses set up on the mainland in various ways. The law allows the foreign entrepreneur to have 100% ownership as opposed to the mandatory local sponsor requirement. Another major benefit is the significant tax exemption and government-funded business aid.</p>
                                     </div>
                                 </div>
                             </div>

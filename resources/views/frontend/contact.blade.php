@@ -116,61 +116,7 @@
                                 Nullam varius, erat quis iaculis dictum, eros urna varius eros, ut blandit felis odio in
                                 turpis. Quisque rhoncus, eros in auctor ultrices,
                             </p>
-                            <form action="/contact/store" id="contact-form" method="POST" class="contact-form-items">
-                                @csrf
-                                <div class="row g-4">
-                                    <div class="col-lg-6 wow fadeInUp" data-wow-delay=".3s">
-                                        <div class="form-clt">
-                                            <span>Full name*</span>
-                                            <input type="text" name="name" id="name" placeholder="Your Name">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 wow fadeInUp" data-wow-delay=".5s">
-                                        <div class="form-clt">
-                                            <span>Phone Number*</span>
-                                            <input type="email" name="email" id="email" placeholder="Your Email">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 wow fadeInUp" data-wow-delay=".3s">
-                                        <div class="form-clt">
-                                            <span>Email*</span>
-                                            <input type="text" name="name" id="name" placeholder="Your Name">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 wow fadeInUp" data-wow-delay=".3s">
-                                        <div class="form-clt">
-                                            <span>Email*</span>
-                                            <input type="text" name="name" id="name" placeholder="Your Name">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 wow fadeInUp" data-wow-delay=".3s">
-                                        <div class="form-clt">
-                                            <span>Email*</span>
-                                            <input type="text" name="name" id="name" placeholder="Your Name">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 wow fadeInUp" data-wow-delay=".3s">
-                                        <div class="form-clt">
-                                            <span>Email*</span>
-                                            <input type="text" name="name" id="name" placeholder="Your Name">
-                                        </div>
-                                    </div>
-
-
-                                    <div class="col-lg-12 wow fadeInUp" data-wow-delay=".7s">
-                                        <div class="form-clt">
-                                            <span>Write Message*</span>
-                                            <textarea name="message" id="message"
-                                                placeholder="Write Message"></textarea>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-7 wow fadeInUp" data-wow-delay=".9s">
-                                        <button type="submit" class="theme-btn">
-                                            Send Message <i class="fa-solid fa-arrow-right-long"></i>
-                                        </button>
-                                    </div>
-                                </div>
-                            </form>
+                           @include('frontend/commonform')
                         </div>
                     </div>
                 </div>

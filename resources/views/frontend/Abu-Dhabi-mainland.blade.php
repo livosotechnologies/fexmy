@@ -11,7 +11,7 @@
                     In the AbuDhabi.
                 </h3>
                 <h6 class="wow fadeInUp text-white text-start pt-4" data-wow-delay=".3s">
-                Elevate Your Business in Abu Dhabi Mainland with Shuraa's Expertise
+                Elevate Your Business in Abu Dhabi Mainland with FexMy's Expertise
                 </h6>
 
             </div>
@@ -24,11 +24,11 @@
             <h4 class="text-white pb-5">
                 Benefits of Company Formation in Abu Dhabi
             </h4>
-            <div class="col-lg-6 col-sm-12 m-auto" style="max-width:500px;">
+            <div class="col-lg-6 col-md-6 col-sm-12 m-auto" style="max-width:500px;">
 
                 <img src="frontend/assets/img/service/abudhabi1.webp" class="img-fluid uaepic">
             </div>
-            <div class="col-lg-6 col-sm-12 m-auto">
+            <div class="col-lg-6 col-md-6 col-sm-12 m-auto">
 
                 <div class="pt-5">
                     <ul class="listul text-white">
@@ -179,12 +179,12 @@
             Setting up a business in Abu Dhabi Mainland offers unique advantages but requires strategic planning and precise steps. Here’s a streamlined guide to help you navigate the process:
         </p>
     </div>
-    <div class="card prcard pb-3 mb-5 mt-4">
+    <div class="card prcard p-lg-5 mb-5 mt-4">
         <div class="row">
-            <div class="col-lg-6 col-sm-12">
+            <div class="col-lg-6 col-md-6 col-sm-12">
                 <img src="frontend/assets/img/service/abudhabi8.webp" class="img-fluid uaepic">
             </div>
-            <div class="col-lg-6 col-sm-12 m-auto">
+            <div class="col-lg-6 col-md-6 col-sm-12 m-auto">
                 <h4>Select a Legal Structure for Your Company</h4>
                 <p class="mt-4">
                     Our company formation consultants in Abu Dhabi help you choose the most suitable legal structure for your business, whether it’s a Limited Liability Company (LLC), Sole Proprietorship, joint ventures, public shareholding company, or others.
@@ -199,12 +199,12 @@
             </div>
         </div>
     </div>
-    <div class="card prcard pb-3 mb-5">
+    <div class="card prcard p-lg-5 mb-5">
         <div class="row">
-            <div class="col-lg-6 col-sm-12">
+            <div class="col-lg-6 col-md-6 col-sm-12">
                 <img src="frontend/assets/img/service/abudhabi9.webp" class="img-fluid uaepic">
             </div>
-            <div class="col-lg-6 col-sm-12 m-auto">
+            <div class="col-lg-6 col-md-6 col-sm-12 m-auto">
                 <h4>Reserve a Trade Name and Initial Approvals</h4>
                 <p class="mt-4">
                     We assist you in securing your business name and obtaining the necessary initial approvals from government authorities. </p>
@@ -218,12 +218,12 @@
             </div>
         </div>
     </div>
-    <div class="card prcard pb-3 mb-5">
+    <div class="card prcard p-lg-5 mb-5">
         <div class="row">
-            <div class="col-lg-6 col-sm-12">
+            <div class="col-lg-6 col-md-6 col-sm-12">
                 <img src="frontend/assets/img/service/abudhabi10.jpg" class="img-fluid uaepic">
             </div>
-            <div class="col-lg-6 col-sm-12 m-auto">
+            <div class="col-lg-6 col-md-6 col-sm-12 m-auto">
                 <h4>Obtaining Necessary Licenses and Permits</h4>
                 <p class="mt-4">
                     Our team handles the complex process of obtaining the Abu Dhabi mainland license and permits for your specific business activity. </p>
@@ -237,12 +237,12 @@
             </div>
         </div>
     </div>
-    <div class="card prcard pb-3 mb-5">
+    <div class="card prcard p-lg-5 mb-5">
         <div class="row">
-            <div class="col-lg-6 col-sm-12">
+            <div class="col-lg-6 col-md-6 col-sm-12">
                 <img src="frontend/assets/img/service/abudhabi11.webp" class="img-fluid uaepic">
             </div>
-            <div class="col-lg-6 col-sm-12 m-auto">
+            <div class="col-lg-6 col-md-6 col-sm-12 m-auto">
                 <h4>Drafting Legal Documents and Contracts</h4>
                 <p class="mt-4">
                     We ensure all legal documents and contracts are professionally drafted and comply with the AbuDhabi’s regulatory requirements. </p>
@@ -256,12 +256,12 @@
             </div>
         </div>
     </div>
-    <div class="card prcard pb-3 mb-5">
+    <div class="card prcard p-lg-5 mb-5">
         <div class="row">
-            <div class="col-lg-6 col-sm-12">
+            <div class="col-lg-6 col-md-6 col-sm-12">
                 <img src="frontend/assets/img/service/abudhabi12.webp" class="img-fluid uaepic">
             </div>
-            <div class="col-lg-6 col-sm-12 m-auto">
+            <div class="col-lg-6 col-md-6 col-sm-12 m-auto">
                 <h4>Opening a Corporate Bank Account</h4>
                 <p class="mt-4">
                     Our experts guide you through the process of opening a corporate bank account to facilitate your financial transactions. </p>
@@ -275,12 +275,12 @@
             </div>
         </div>
     </div>
-    <div class="card prcard pb-3 mb-5">
+    <div class="card prcard p-lg-5  mb-5">
         <div class="row">
-            <div class="col-lg-6 col-sm-12">
+            <div class="col-lg-6 col-md-6 col-sm-12">
                 <img src="frontend/assets/img/service/abudhabi13.jpg" class="img-fluid uaepic">
             </div>
-            <div class="col-lg-6 col-sm-12 m-auto">
+            <div class="col-lg-6 col-md-6 col-sm-12 m-auto">
                 <h4>Acquiring Office Space and Tenancy Contracts</h4>
                 <p class="mt-4">
                     We offer a variety of office space solutions to cater to your business needs, complete with tenancy contract support.
@@ -295,12 +295,12 @@
             </div>
         </div>
     </div>
-    <div class="card prcard pb-3 mb-5">
+    <div class="card prcard p-lg-5 mb-5">
         <div class="row">
-            <div class="col-lg-6 col-sm-12">
+            <div class="col-lg-6 col-md-6 col-sm-12">
                 <img src="frontend/assets/img/service/abudhabi14.webp" class="img-fluid uaepic">
             </div>
-            <div class="col-lg-6 col-sm-12 m-auto">
+            <div class="col-lg-6 col-md-6 col-sm-12 m-auto">
                 <h4>Visa and Immigration Procedures</h4>
                 <p class="mt-4">
                     Our PRO executives take care of visa processing and immigration procedures for you and your employees, making the relocation process seamless.
@@ -326,19 +326,19 @@
             </h6>
         <div class="row mt-4" style="display:flex;justify-content:center;">
            
-            <div class="col-lg-4 col-sm-12 m-auto">
+            <div class="col-lg-4 col-md-4 col-sm-12 m-auto">
                 <div class="card p-4">
                     <h4 class="text-center">1500+</h4>
                     <h6 class="text-center pt-3">Businesses Formed</h6>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-12 m-auto">
+            <div class="col-lg-4 col-md-4 col-sm-12 m-auto">
             <div class="card p-4">
                     <h4 class="text-center">8+</h4>
                     <h6 class="text-center pt-3">Years Industry Leaders From</h6>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-12 m-auto">
+            <div class="col-lg-4 col-md-4 col-sm-12 m-auto">
             <div class="card p-4">
                     <h4 class="text-center">10+</h4>
                     <h6 class="text-center pt-3">Transparent & Hassle Free Process</h6>

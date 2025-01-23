@@ -14887,9 +14887,32 @@ body{
   box-shadow: unset;
 }
 .cd{
-   min-height: 200px;
+   min-height: 180px;
    max-height: auto;
 }
 .shaimg{
   width: 70px;
+}
+.noimg{
+  width: 20px;
+}
+.scrollable-col {
+  max-height: 500px; 
+  overflow-y: auto; 
+ 
+}
+.journeysec1{
+   background-color: #f7bf87;
+}
+.journeysec2{
+  background-color:#ff8202;
+}
+.tickrow{
+  display: flex;
+  column-gap: 9px;
+}
+.tickmark i{
+   color:#ff8202;
+   font-size:22px;
+   margin-right: 5px;
 }

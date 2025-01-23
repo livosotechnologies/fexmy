@@ -1,5 +1,24 @@
+<div class="journeysec1">
+    <div class="col-lg-8 m-auto p-5">
+        <div class="card journeysec2 m-auto p-lg-5 text-center">
+            <h4 class="text-white">
+                Embark on Your Journey to Success Today!
+            </h4>
+            <h6 class="pt-3 text-white">
+                The clock is ticking, and opportunities are knocking at your door. Embrace the limitless potential of  Free Zones with FexMy Business Setup by your side.
+            </h6>
+            <div class="pt-3">
+                <a href="/about" data-animation="slideInRight" data-duration="2s"
+                    data-delay=".9s" class="theme-btn hover-black" style="background-color:white;color:black;">
+                    Explore More
+                    <i class="fa-solid fa-arrow-right-long"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
 <div>
-<section class="tesimonial-section-3 section-padding section-bg-2 bg-cover mt-3">
+<section class="tesimonial-section-3 section-padding section-bg-2 bg-cover">
         <div class="line-shape">
             <img src="{{asset('frontend/assets/img/team/line-shape.png')}}" alt="shape-img">
         </div>
