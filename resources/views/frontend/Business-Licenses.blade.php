@@ -41,7 +41,7 @@
                         getting a business trade license in Dubai, UAE involves getting approvals from the government
                         and the economic department. You also need to get all your company formation documents cleared
                         from different UAE agencies within a short time period. For first-time investors, this process
-                        can be confusing and expensive.
+                        can be confusing and expensivee.
                     </p>
                     <p class="pb-2">
                         With a wealth of experience and a passion for growth, Shuraa Business Setup is your one-stop
