@@ -89,6 +89,10 @@ Route::get('Ras-al-khaimah-Offshore', function () {
 Route::get('Business-Licenses', function () {
     return view('frontend/Business-Licenses');
 });
+Route::get('Commercial-trade-license', function () {
+    return view('frontend/Commercial-trade-license');
+});
+
 
 
 //Banner

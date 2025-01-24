@@ -6,11 +6,10 @@
         <div class="col-lg-6">
             <div class="page-heading">
                 <h2 class="wow fadeInUp text-white text-start" data-wow-delay=".3s">
-
-                    Business Trade License in Dubai
+                    Commercial Trade License in Dubai
                 </h2>
                 <h6 class="wow fadeInUp text-white text-start pt-4" data-wow-delay=".3s">
-                    Dubai Business Trade Licenses Made Easy - Partner with Shuraa!
+                    Partner with Shuraa & Open a Door to Dubai's Thriving Business Environment.
                 </h6>
 
                 <div class="pt-3 text-start">
@@ -72,6 +71,31 @@
         </div>
     </div>
 </div>
+
+
+<div class="journeysec1">
+    <div class="col-lg-10 m-auto p-5">
+        <div class="card journeysec2 m-auto p-lg-5">
+            <div class="row">
+                <div class="col-lg-9 col-md-9 col-sm-12">
+                    <h4 class="text-white">
+                        Simplify Your Dubai Business Setup </h4>
+
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-12">
+                    <div class="pt-3">
+                        <a href="/contacts" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
+                            class="theme-btn hover-black" style="background-color:white;">
+                            Explore More
+                            <i class="fa-solid fa-arrow-right-long"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
 <div class="container">
     <div class="card prcard p-lg-5 mb-5 mt-4" style="background-color:#ff8202">
         <div class="row">
@@ -118,29 +142,7 @@
         </div>
     </div>
 </div>
-<div class="journeysec1">
-    <div class="col-lg-10 m-auto p-5">
-        <div class="card journeysec2 m-auto p-lg-5">
-            <div class="row">
-                <div class="col-lg-9 col-md-9 col-sm-12">
-                    <h4 class="text-white">
-                        Simplify Your Dubai Business Setup </h4>
 
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-12">
-                    <div class="pt-3">
-                        <a href="/contacts" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
-                            class="theme-btn hover-black" style="background-color:white;">
-                            Explore More
-                            <i class="fa-solid fa-arrow-right-long"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-    </div>
-</div>
 <div class="rs-about pt-100  md-pt-70 md-pb-70" style="background-color:#ff8202;">
     <div class="container custom pb-50">
         <div class="row">
@@ -391,106 +393,112 @@
         Benefits of Business Setup in the Sharjah Free Zone?
     </h3> -->
     <div class="container">
-    <div class="container card prcard p-lg-5 mb-5 mt-4" style="background-color:#ff8202">
-        <h2 class="text-white pb-5">
-            Why Requirements for Obtaining a Business
-            Trade License in Dubai, UAE
-        </h2>
+        <div class="container card prcard p-lg-5 mb-5 mt-4" style="background-color:#ff8202">
+            <h2 class="text-white pb-5">
+                Why Requirements for Obtaining a Business
+                Trade License in Dubai, UAE
+            </h2>
 
-        <div class="row mt-4" style="display:flex;justify-content:center;">
+            <div class="row mt-4" style="display:flex;justify-content:center;">
 
-            <div class="col-lg-4 col-sm-12 m-auto">
-                <div class="card p-4 mb-3">
-                    <div class="shaimg text-center">
-                        <img src="frontend/assets/img/service/sharjah1.png">
-                    </div>
-                    <div class="mt-3">
-                        <h6>
-                        A business plan
-                        </h6>
-                        <p class="pt-3">
-                        The business plan should provide details about the business's activities, products or services, marketing strategy, and financial projections.                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-12 m-auto">
-                <div class="card p-4 mb-3">
-                    <div class="shaimg text-center">
-                        <img src="frontend/assets/img/service/sharjah2.png">
-                    </div>
-                    <div class="mt-3">
-                        <h6>
-                        Essential Documents
-                        </h6>
-                        <p class="pt-3">
-                        1) Proof of identity and residence for all shareholders or partners
-2) Lease agreement for the business premises
-3) Business plan
-                </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-12 m-auto">
-                <div class="card p-4 mb-3">
-                    <div class="shaimg text-center">
-                        <img src="frontend/assets/img/service/sharjah3.png">
-                    </div>
-                    <div class="mt-3">
-                        <h6>
-                        A Virtual lease agreement
-                        </h6>
-                        <p class="pt-3">
-                        The lease agreement should be for a commercial property that is suitable for the business's activities. However, in most cases, physical space is not required, </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-12 m-auto">
-                <div class="card p-4 mb-3">
-                    <div class="shaimg text-center">
-                        <img src="frontend/assets/img/service/sharjah4.png">
-                    </div>
-                    <div class="mt-3">
-                        <h6>
-                        A trade name
-                        </h6>
-                        <p class="pt-3">
-                            Mainland companiesThe trade name is the name that  companies, including tax exemption and no minimum capital.
-                        </p>
+                <div class="col-lg-4 col-sm-12 m-auto">
+                    <div class="card p-4 mb-3">
+                        <div class="shaimg text-center">
+                            <img src="frontend/assets/img/service/sharjah1.png">
+                        </div>
+                        <div class="mt-3">
+                            <h6>
+                                A business plan
+                            </h6>
+                            <p class="pt-3">
+                                The business plan should provide details about the business's activities, products or
+                                services, marketing strategy, and financial projections. </p>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-4 col-sm-12 m-auto">
-                <div class="card p-4 mb-3">
-                    <div class="shaimg text-center">
-                        <img src="frontend/assets/img/service/sharjah5.png">
-                    </div>
-                    <div class="mt-3">
-                        <h6>
-                            Freedom to Operate Anywhere
-                        </h6>
-                        <p class="pt-3">
-                            Sharjah Mainland companies can operate anywhere in the Sharjah, including free zones and outside the country.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-12 m-auto">
-                <div class="card p-4 mb-3">
-                    <div class="shaimg text-center">
-                        <img src="frontend/assets/img/service/sharjah6.png">
-                    </div>
-                    <div class="mt-3">
-                        <h6>
-                            Stronger Market Presence
-                        </h6>
-                        <p class="pt-3">
-                            Open physical offices anywhere in the Sharjah. This can help you build relationships with local customers.
-                        </p>
+                <div class="col-lg-4 col-sm-12 m-auto">
+                    <div class="card p-4 mb-3">
+                        <div class="shaimg text-center">
+                            <img src="frontend/assets/img/service/sharjah2.png">
+                        </div>
+                        <div class="mt-3">
+                            <h6>
+                                Essential Documents
+                            </h6>
+                            <p class="pt-3">
+                                1) Proof of identity and residence for all shareholders or partners
+                                2) Lease agreement for the business premises
+                                3) Business plan
+                        </div>
                     </div>
                 </div>
-            </div>
+                <div class="col-lg-4 col-sm-12 m-auto">
+                    <div class="card p-4 mb-3">
+                        <div class="shaimg text-center">
+                            <img src="frontend/assets/img/service/sharjah3.png">
+                        </div>
+                        <div class="mt-3">
+                            <h6>
+                                A Virtual lease agreement
+                            </h6>
+                            <p class="pt-3">
+                                The lease agreement should be for a commercial property that is suitable for the
+                                business's activities. However, in most cases, physical space is not required,
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-12 m-auto">
+                    <div class="card p-4 mb-3">
+                        <div class="shaimg text-center">
+                            <img src="frontend/assets/img/service/sharjah4.png">
+                        </div>
+                        <div class="mt-3">
+                            <h6>
+                                A trade name
+                            </h6>
+                            <p class="pt-3">
+                                Mainland companiesThe trade name is the name that companies, including tax exemption and
+                                no minimum capital.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-12 m-auto">
+                    <div class="card p-4 mb-3">
+                        <div class="shaimg text-center">
+                            <img src="frontend/assets/img/service/sharjah5.png">
+                        </div>
+                        <div class="mt-3">
+                            <h6>
+                                Freedom to Operate Anywhere
+                            </h6>
+                            <p class="pt-3">
+                                Sharjah Mainland companies can operate anywhere in the Sharjah, including free zones and
+                                outside the country.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-12 m-auto">
+                    <div class="card p-4 mb-3">
+                        <div class="shaimg text-center">
+                            <img src="frontend/assets/img/service/sharjah6.png">
+                        </div>
+                        <div class="mt-3">
+                            <h6>
+                                Stronger Market Presence
+                            </h6>
+                            <p class="pt-3">
+                                Open physical offices anywhere in the Sharjah. This can help you build relationships
+                                with local customers.
+                            </p>
+                        </div>
+                    </div>
+                </div>
 
+            </div>
         </div>
     </div>
-</div>
 </div>
 
 <div class="container">

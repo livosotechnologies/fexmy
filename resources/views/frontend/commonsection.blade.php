@@ -9,7 +9,7 @@
             </h6>
             <div class="pt-3">
                 <a href="/about" data-animation="slideInRight" data-duration="2s"
-                    data-delay=".9s" class="theme-btn hover-black" style="background-color:white;color:black;">
+                    data-delay=".9s" class="theme-btn hover-black" style="background-color:white;">
                     Explore More
                     <i class="fa-solid fa-arrow-right-long"></i>
                 </a>

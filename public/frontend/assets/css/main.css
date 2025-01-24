@@ -1314,7 +1314,7 @@ Version: 1.0.0
 .theme-btn {
   overflow: hidden;
   background-color: var(--theme);
-  color: var(--white);
+  
   display: inline-block;
   font-size: 16px;
   font-weight: 600;
@@ -1346,6 +1346,7 @@ Version: 1.0.0
 .theme-btn::after {
   content: "";
   background-color: var(--header);
+  
   width: 0;
   height: 50%;
   position: absolute;
@@ -1358,7 +1359,7 @@ Version: 1.0.0
   margin-left: 10px;
 }
 .theme-btn:hover {
-  color: var(--white);
+  color: white;
   border-radius: 100px;
   -webkit-border-radius: 100px;
   -moz-border-radius: 100px;
@@ -1415,6 +1416,9 @@ Version: 1.0.0
 }
 .theme-btn-2:hover {
   color: var(--theme);
+}
+.bookbtn{
+  color: white;
 }
 
 .gt-btn {
