@@ -1,18 +1,24 @@
 @extends('frontend.layouts.app')
 @section('content')
-<div class="breadcrumb-wrapper bg-cover" style="background-image: url('frontend/assets/img/service/Sharjah-Mainland.jpg');">
+<div class="breadcrumb-wrapper bg-cover" style="background-image: url('frontend/assets/img/service/UAE-Mainland.jpg');">
 
     <div class="container">
         <div class="col-lg-6">
             <div class="page-heading">
-                <h3 class="wow fadeInUp text-white text-start" data-wow-delay=".3s">
+                <h2 class="wow fadeInUp text-white text-start" data-wow-delay=".3s">
                     Setup Your Company in
                     Sharjah Mainland
-                </h3>
+                </h2>
                 <h6 class="wow fadeInUp text-white text-start pt-4" data-wow-delay=".3s">
                     Sharjah's business activities and do business in the country or across the world.
                 </h6>
-
+                <div class="pt-3 text-start">
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
+                        data-delay=".9s" class="theme-btn hover-white">
+                        Explore More
+                        <i class="fa-solid fa-arrow-right-long"></i>
+                    </a>
+                </div>
             </div>
         </div>
     </div>
@@ -26,7 +32,7 @@
                     Essential Documents for Sharjah Mainland
                 </h5>
                 <div class="pt-5">
-                    <ul class="listul text-white">
+                    <ul class="listul">
                         <li>
                             <i class="fa-solid fa-check"></i>
                             Completed application for business registration in Sharjah

@@ -19,6 +19,8 @@ Route::get('/servicedetail/{id}', [App\Http\Controllers\FrontendController::clas
 Route::get('/contacts', [App\Http\Controllers\FrontendController::class, 'contacts'])->name('contacts');
 Route::get('/subservicedetail/{id}', [App\Http\Controllers\FrontendController::class, 'subservicedetail'])->name('subservice.details');
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('dashboard');
+
+//new route
 Route::get('visa', function () {
     return view('frontend/visa');
 });
@@ -73,8 +75,8 @@ Route::get('UAE-Offshore', function () {
 Route::get('Dubai-Offshore', function () {
     return view('frontend/Dubai-Offshore');
 });
-Route::get('Sharjah-Offshore', function () {
-    return view('frontend/Sharjah-Offshore');
+Route::get('Ajman-Offshore', function () {
+    return view('frontend/Ajman-Offshore');
 });
 Route::get('Jebel-ali-Offshore', function () {
     return view('frontend/Jebel-ali-Offshore');
@@ -82,6 +84,119 @@ Route::get('Jebel-ali-Offshore', function () {
 Route::get('Ras-al-khaimah-Offshore', function () {
     return view('frontend/Ras-al-khaimah-Offshore');
 });
+Route::get('Bank-Gurantee', function () {
+    return view('frontend/Bank-Gurantee');
+});
+
+//visa route
+Route::get('visitor-visa-canada', function () {
+    return view('frontend/visitor-visa-canada');
+});
+Route::get('visitor-visa-Australia', function () {
+    return view('frontend/visitor-visa-Australia');
+});
+Route::get('visitor-visa-Germany', function () {
+    return view('frontend/visitor-visa-Germany');
+});
+Route::get('visitor-visa-USA', function () {
+    return view('frontend/visitor-visa-USA');
+});
+Route::get('visitor-visa-UK', function () {
+    return view('frontend/visitor-visa-UK');
+});
+Route::get('tourist-visa-UAE', function () {
+    return view('frontend/tourist-visa-UAE');
+});
+
+Route::get('student-visa-Australia', function () {
+    return view('frontend/student-visa-Australia');
+});
+Route::get('student-visa-canada', function () {
+    return view('frontend/student-visa-canada');
+});
+Route::get('student-visa-Germany', function () {
+    return view('frontend/student-visa-Germany');
+});
+Route::get('student-visa-UAE', function () {
+    return view('frontend/student-visa-UAE');
+});
+Route::get('student-visa-UK', function () {
+    return view('frontend/student-visa-UK');
+});
+Route::get('student-visa-USA', function () {
+    return view('frontend/student-visa-USA');
+});
+Route::get('work-visa-canada', function () {
+    return view('frontend/work-visa-canada');
+});
+Route::get('business-visa-Australia', function () {
+    return view('frontend/business-visa-Australia');
+});
+Route::get('business-visa-Germany', function () {
+    return view('frontend/business-visa-Germany');
+});
+Route::get('business-visa-USA', function () {
+    return view('frontend/business-visa-USA');
+});
+Route::get('business-visa-UK', function () {
+    return view('frontend/business-visa-UK');
+});
+Route::get('work-visa-UAE', function () {
+    return view('frontend/work-visa-UAE');
+});
+
+Route::get('business-visa-canada', function () {
+    return view('frontend/business-visa-canada');
+});
+Route::get('subclass-189-Australia', function () {
+    return view('frontend/subclass-189-Australia');
+});
+Route::get('jobseeker-visa-Germany', function () {
+    return view('frontend/jobseeker-visa-Germany');
+});
+Route::get('work-visa-USA', function () {
+    return view('frontend/work-visa-USA');
+});
+Route::get('work-visa-UK', function () {
+    return view('frontend/work-visa-UK');
+});
+Route::get('golden-visa-UAE', function () {
+    return view('frontend/golden-visa-UAE');
+});
+
+Route::get('PR-visa-canada', function () {
+    return view('frontend/PR-visa-canada');
+});
+Route::get('TSS-visa-Australia', function () {
+    return view('frontend/TSS-visa-Australia');
+});
+Route::get('work-visa-Germany', function () {
+    return view('frontend/work-visa-Germany');
+});
+Route::get('innovator-visa-UK', function () {
+    return view('frontend/innovator-visa-UK');
+});
+
+Route::get('PNP-canada', function () {
+    return view('frontend/PNP-canada');
+});
+Route::get('PR-visa-Australia', function () {
+    return view('frontend/PR-visa-Australia');
+});
+Route::get('js-visa-Germany', function () {
+    return view('frontend/js-visa-Germany');
+});
+Route::get('tier-visa-UK', function () {
+    return view('frontend/tier-visa-UK');
+});
+Route::get('srartup-visa-canada', function () {
+    return view('frontend/srartup-visa-canada');
+});
+Route::get('gti-visa-Australia', function () {
+    return view('frontend/gti-visa-Australia');
+});
+
+
 
 
 

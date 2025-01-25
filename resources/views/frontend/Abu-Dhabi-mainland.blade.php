@@ -1,6 +1,6 @@
 @extends('frontend.layouts.app')
 @section('content')
-<div class="breadcrumb-wrapper bg-cover" style="background-image: url('frontend/assets/img/service/AbuDhabi-Mainland.jpg');">
+<div class="breadcrumb-wrapper bg-cover" style="background-image: url('frontend/assets/img/service/UAE-Mainland.jpg');">
 
     <div class="container">
         <div class="col-lg-6">
@@ -13,6 +13,13 @@
                 <h6 class="wow fadeInUp text-white text-start pt-4" data-wow-delay=".3s">
                 Elevate Your Business in Abu Dhabi Mainland with FexMy's Expertise
                 </h6>
+                <div class="pt-3 text-start">
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
+                        data-delay=".9s" class="theme-btn hover-white">
+                        Explore More
+                        <i class="fa-solid fa-arrow-right-long"></i>
+                    </a>
+                </div>
 
             </div>
         </div>
@@ -59,7 +66,7 @@
                     </ul>
                     <div class="pt-3">
                         <a href="/about" data-animation="slideInRight" data-duration="2s"
-                            data-delay=".9s" class="theme-btn" style="background-color:white;color:black;">
+                            data-delay=".9s" class="theme-btn bookbtn" style="background-color:white;">
                             Explore More
                             <i class="fa-solid fa-arrow-right-long"></i>
                         </a>
