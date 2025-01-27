@@ -54,12 +54,12 @@
                                     </p>
                                     <div class="hero-button">
                                         <a href="/about" data-animation="slideInRight" data-duration="2s"
-                                            data-delay=".9s" class="theme-btn hover-white">
+                                            data-delay=".9s" class="theme-btn bookbtn1  hover-black" >
                                             Explore More
                                             <i class="fa-solid fa-arrow-right-long"></i>
                                         </a>
                                         <a href="/contacts" data-animation="slideInRight" data-duration="2s"
-                                            data-delay=".9s" class="theme-btn border-white">
+                                            data-delay=".9s" class="theme-btn bookbtn1 hover-black" >
                                             Contact Us
                                             <i class="fa-solid fa-arrow-right-long"></i>
                                         </a>

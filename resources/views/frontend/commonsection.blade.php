@@ -8,8 +8,7 @@
                 The clock is ticking, and opportunities are knocking at your door. Embrace the limitless potential of  Free Zones with FexMy Business Setup by your side.
             </h6>
             <div class="pt-3">
-                <a href="/about" data-animation="slideInRight" data-duration="2s"
-                    data-delay=".9s" class="theme-btn hover-black" style="background-color:white;   ">
+
                     Explore More
                     <i class="fa-solid fa-arrow-right-long"></i>
                 </a>
@@ -41,9 +40,9 @@
                             <div class="flip-card">
                                 <!-- Front of the card (only the country name) -->
                                 <div class="flip-card-inner">
-                                    <div class="flip-card-front f1">
-                                        <h1 class="table-title mt-10">UK</h1>
-                                    </div>
+                                <div class="flip-card-front f1" style="background-image: url('https://fexmy.co/assets/images/blog/1.jpg');">
+                                    <h1 class="table-title mt-10">UK</h1>
+                                </div>
                                     <!-- Back of the card (pricing details) -->
                                     <div class="flip-card-back pb-5">
                                         
@@ -56,7 +55,7 @@
                                             <p>100% business ownership</p>
                                         </div>
                                         <div class="pricing-table-body">
-                                            <ul class="listing-style">
+                                            <ul class="listing-style listul">
                                                 <li>
                                                     <i class="fa fa-check-circle"></i>
                                                     <span>Professional trade license</span>
@@ -81,7 +80,11 @@
                                         </div>
 
                                     <div class="m-auto">
-                                            <a class="readon price price2 mb-2" href="consultation">Inquire Now</a>
+                                    <a href="/contacts" data-animation="slideInRight" data-duration="2s"
+                                            data-delay=".9s" class="theme-btn bookbtn1 hover-black" >
+                                            Contact Us
+                                            <i class="fa-solid fa-arrow-right-long"></i>
+                                        </a>
                                     </div>
                                     
                                     </div>
@@ -92,7 +95,7 @@
                             <div class="flip-card">
                                 <!-- Front of the card (only the country name) -->
                                 <div class="flip-card-inner">
-                                    <div class="flip-card-front f2">
+                                    <div class="flip-card-front f2" style="background-image: url('https://fexmy.co/assets/images/blog/2.jpg');">
                                         <h1 class="table-title mt-10">Dubai</h1>
                                     </div>
                                     <!-- Back of the card (pricing details) -->
@@ -107,7 +110,7 @@
                                             <p>100% business ownership</p>
                                         </div>
                                         <div class="pricing-table-body">
-                                        <ul class="listing-style">
+                                        <ul class="listing-style listul">
                                         <li>
                                             <i class="fa fa-check-circle"></i>
                                             <span>Professional trade license </span>
@@ -132,7 +135,11 @@
                                         </div>
 
                                         <div class="m-auto">
-                                            <a class="readon price price2 mb-2" href="consultation">Inquire Now</a>
+                                        <a href="/contacts" data-animation="slideInRight" data-duration="2s"
+                                            data-delay=".9s" class="theme-btn bookbtn1 hover-black" >
+                                            Contact Us
+                                            <i class="fa-solid fa-arrow-right-long"></i>
+                                        </a>
                                     </div>
                                     
                                     </div>
@@ -143,7 +150,7 @@
                             <div class="flip-card">
                                 <!-- Front of the card (only the country name) -->
                                 <div class="flip-card-inner">
-                                    <div class="flip-card-front f3">
+                                    <div class="flip-card-front f3" style="background-image: url('https://fexmy.co/assets/images/blog/3.jpg');">
                                         <h1 class="table-title mt-10">Singapore</h1>
                                     </div>
                                     <!-- Back of the card (pricing details) -->
@@ -158,7 +165,7 @@
                                             <p>100% business ownership</p>
                                         </div>
                                         <div class="pricing-table-body">
-                                        <ul class="listing-style">
+                                        <ul class="listing-style listul">
                                         <li>
                                             <i class="fa fa-check-circle"></i>
                                             <span>Free VAT consultation</span>
@@ -183,7 +190,11 @@
                                         </div>
 
                                         <div class="m-auto">
-                                            <a class="readon price price2 mb-2" href="consultation">Inquire Now</a>
+                                        <a href="/contacts" data-animation="slideInRight" data-duration="2s"
+                                            data-delay=".9s" class="theme-btn bookbtn1 hover-black" >
+                                            Contact Us
+                                            <i class="fa-solid fa-arrow-right-long"></i>
+                                        </a>
                                     </div>
                                     
                                     </div>

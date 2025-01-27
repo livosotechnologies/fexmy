@@ -5,13 +5,20 @@
     <div class="container">
         <div class="col-lg-6">
             <div class="page-heading">
-                <h3 class="wow fadeInUp text-white text-start" data-wow-delay=".3s">
+                <h2 class="wow fadeInUp text-white text-start" data-wow-delay=".3s">
                     Offshore Company Formation
                     in Dubai
-                </h3>
+                </h2>
                 <h6 class="wow fadeInUp text-white text-start pt-4" data-wow-delay=".3s">
                     Hassle-free, Tax-free Business Setup in Dubai
                 </h6>
+                <div class="pt-3 text-start">
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
+                        data-delay=".9s" class="theme-btn hover-white">
+                        Explore More
+                        <i class="fa-solid fa-arrow-right-long"></i>
+                    </a>
+                </div>
 
             </div>
         </div>
@@ -124,14 +131,14 @@
             <div class="row">
                 <div class="col-lg-9 col-md-9 col-sm-12">
                     <h4 class="text-white">
-                        Consult FexMy Business Setup - Your Trusted Partner in Sharjah Free Zone Business Setup!
+                             Phrase - Ready to embark on your offshore adventure?
                     </h4>
 
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-12">
                     <div class="pt-3">
-                        <a href="/about" data-animation="slideInRight" data-duration="2s"
-                            data-delay=".9s" class="theme-btn hover-black" style="background-color:white;color:black;">
+                        <a href="contacts" data-animation="slideInRight" data-duration="2s"
+                            data-delay=".9s" class="theme-btn bookbtn hover-black" style="background-color:white;">
                             Explore More
                             <i class="fa-solid fa-arrow-right-long"></i>
                         </a>
@@ -155,7 +162,7 @@
                
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-black" style="background-color:white;color:black;">
+                        data-delay=".9s" class="theme-btn bookbtn hover-black" style="background-color:white;">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -186,10 +193,10 @@
                         </div>
                     </div>
                     <div class="col-lg-10 col-md-10 col-sm-10">
-                        <h6 class="text-white">Business Setup Plan
+                        <h6 class="text-white">Choosing the Right Structure                        
                         </h6>
                         <p class="mt-3 text-white">
-                            Create a comprehensive business setup plan that details your goals, strategic thinking, and projected financials.
+                        Business structure comes in different sizes and shapes. We’ll help you choose the most suitable legal structure for your offshore company – be it a Free Zone entity or an International Business Company (IBC).
                         </p>
                     </div>
                 </div>
@@ -210,16 +217,30 @@
                 <div class="row mt-3">
                     <div class="col-lg-2 col-md-2 col-sm-2">
                         <div class="images-part noimg">
-                            <img src="frontend/assets/img/service/no4.png" alt="Images">
+                            <img src="frontend/assets/img/service/no3.webp" alt="Images">
                         </div>
                     </div>
                     <div class="col-lg-10 col-md-10 col-sm-10">
                         <h6 class="text-white">
-                            Infrastructure Setup
-
+                        Document Preparation and Submission                        
                         </h6>
                         <p class="mt-3 text-white">
-                            Find the necessary facilities and workspace for your company's activities.
+                        Now it’s time to assemble the required documents and paperwork. Don’t worry about getting lost in a sea of paperwork – our skilled crew will assist you in preparing and submitting all the necessary documents to the relevant authorities, ensuring a smooth process.
+                        </p>
+                    </div>
+                </div>
+                <div class="row mt-3">
+                    <div class="col-lg-2 col-md-2 col-sm-2">
+                        <div class="images-part noimg">
+                            <img src="frontend/assets/img/service/no4.png" alt="Images">
+                        </div>
+                    </div>
+                    <div class="col-lg-10 col-md-10 col-sm-10">
+                        <h6 class="text-white">Licensing and Registration
+                         
+                        </h6>
+                        <p class="mt-3 text-white">
+                        We’ll help you through the licensing process, ensuring compliance with all legal requirements. Our team will handle the company registration on your behalf, keeping you updated at every stage of the process.
                         </p>
                     </div>
                 </div>
@@ -230,11 +251,12 @@
                         </div>
                     </div>
                     <div class="col-lg-10 col-md-10 col-sm-10">
-                        <h6 class="text-white">Workforce Estimation
+                        <h6 class="text-white">Office Space Solutions
+                       
 
                         </h6>
                         <p class="mt-3 text-white">
-                            Establish the number of people your company will require and make plans for their hiring.
+                        Choose from a range of office solutions that suit your needs and provide a prestigious registered address for your offshore company.
                         </p>
                     </div>
                 </div>
@@ -245,295 +267,92 @@
                         </div>
                     </div>
                     <div class="col-lg-10 col-md-10 col-sm-10">
-                        <h6 class="text-white">Capital Deposit
+                        <h6 class="text-white">Post-Formation Support and PRO Services
+                         
                         </h6>
                         <p class="mt-3 text-white">
-                            Fund the appropriate bank account with the minimum capital the authorities have mandated.
+                        The journey doesn’t end with formation – we’re here for the post formation support. Our dedicated PRO services team will assist you with all government-related matters, visa processing, and ongoing compliance to keep your business setup process stress-free & smooth.
                         </p>
                     </div>
                 </div>
-                <div class="row mt-3">
-                    <div class="col-lg-2 col-md-2 col-sm-2">
-                        <div class="images-part noimg">
-                            <img src="frontend/assets/img/service/no7.webp" alt="Images">
-                        </div>
-                    </div>
-                    <div class="col-lg-10 col-md-10 col-sm-10">
-                        <h6 class="text-white">Registration and Licensing
-
-                        </h6>
-                        <p class="mt-3 text-white">
-                            Complete your business's registration and licensing procedures with the appropriate authorities.
-                        </p>
-                    </div>
-
-
-                </div>
-                <div class="row mt-3">
-                    <div class="col-lg-2 col-md-2 col-sm-2">
-                        <div class="images-part noimg">
-                            <img src="frontend/assets/img/service/no8.webp" alt="Images">
-                        </div>
-                    </div>
-                    <div class="col-lg-10 col-md-10 col-sm-10">
-                        <h6 class="text-white">Documents
-                        </h6>
-                        <p class="mt-3 text-white">
-                            Sign the formation documents in front of free zone officials, whether they are an individual, a corporation, or both.
-                        </p>
-                    </div>
-
-                </div>
-
-
             </div>
 
 
         </div>
     </div>
 </div>
-<div class="container mt-4">
-    <div class="col-lg-7">
-        <h3>
-            Types of Licenses in Sharjah Free Zone
-        </h3>
+
+<div class="">
+    <div class="container card prcard p-lg-5 mb-5" style="background-color:iceblue;">
+        <h2 class="pb-5">
+        How Shuraa Business Setup Helps You
+        </h2>
         <p class="mt-3">
-            A business licence is required to open a firm in the UAE. Three primary Sharjah free zone license categories are:
+             With Shuraa Business Setup, you’ll have a trusted partner and a skilled team of experts to navigate the complexities of offshore company formation in Dubai. We’ll assist you through each step, ensuring a stress-free and successful journey:
         </p>
+        <div class="row mt-4" style="display:flex;justify-content:center;">
 
-    </div>
-    <div class="card prcard plg-5 mb-5 mt-4">
-        <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm-12">
-                <img src="frontend/assets/img/service/shafree1.webp" class="img-fluid uaepic">
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 m-auto">
-                <h4>Commercial License
-                </h4>
-                <p class="mt-4">
-                    A document provided by free zone authorities that is ideal for dealing and selling products. This group includes activities including logistics, automobile rentals, and real estate services.
-                </p>
-                <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
-                        Explore More
-                        <i class="fa-solid fa-arrow-right-long"></i>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="card prcard p-lg-5 mb-5">
-        <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm-12">
-                <img src="frontend/assets/img/service/shafree2.webp" class="img-fluid uaepic">
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 m-auto">
-                <h4>Trading License
-                </h4>
-                <p class="mt-4">
-                    For manufacturing and industrial companies with a local office. It involves making furniture, packing, metal casing, and food products.
-                </p>
-                <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
-                        Explore More
-                        <i class="fa-solid fa-arrow-right-long"></i>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="card prcard p-lg-5 mb-5">
-        <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm-12">
-                <img src="frontend/assets/img/service/shafree3.webp" class="img-fluid uaepic">
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 m-auto">
-                <h4>Professional License
-                </h4>
-                <p class="mt-4">
-                    Service providers, professionals, artists, and craftspeople require a professional licence. includes services such as law companies, management consulting, auditing, accounting, education, and medical care.
-                </p>
-                <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
-                        Explore More
-                        <i class="fa-solid fa-arrow-right-long"></i>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="p-lg-5" style="background-color:#ff8202;">
-    <h3 class="text-white">
-    Benefits of Business Setup in the Sharjah Free Zone?
-    </h3>
-    <div class="container pb-5 pt-5">
-        <div class="card pb-4">
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-12 md-mb-50 ">
-                    <div class="tickrow mt-3">
-                        <div>
-                            <div class="images-part noimg">
-                                <img src="frontend/assets/img/service/tick.png" alt="Images">
-                            </div>
-                        </div>
-                        <div>
-
-                            <h6>100% Repatriation of Capital & Profits.
-                            </h6>
-                            <p class="mt-2">
-                            Seamless and efficient company registration process, tailored to your business needs.
-                            </p>
-
-                        </div>
+            <div class="col-lg-3 col-md-3 col-sm-12 m-auto">
+                <div class="card  p-4 mb-3" style="background-color:#ff8202">
+                    <div class="shaimg text-center">
+                        <img src="frontend/assets/img/service/offshore1.webp">
                     </div>
-                    <div class="tickrow mt-3">
-                        <div>
-                            <div class="images-part noimg">
-                                    <img src="frontend/assets/img/service/tick.png" alt="Images">
-                                </div>
-                        </div>
-                        <div>
-                            <h6 >Free Transfer of Funds
-                            </h6>
-                            <p class="mt-2 ">
-                            Facilitates seamless & unrestricted movement of funds. Convenient for businesses to conduct international transactions.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="tickrow mt-3">
-                        <div>
-                            <div class="images-part noimg">
-                                <img src="frontend/assets/img/service/tick.png" alt="Images">
-                            </div>
-                        </div>
-                        <div>
-                            <h6 >No Currency Restrictions
-                            </h6>
-                            <p class="mt-2e">
-                            No limitations on currency conversions or transactions. Engage in global trade with ease.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="tickrow mt-3">
-                        <div>
-                            <div class="images-part noimg">
-                                <img src="frontend/assets/img/service/tick.png" alt="Images">
-                            </div>
-                        </div>
-                        <div>
-                            <h6>
-                            24-Hour Licensing Services
-                            </h6>
-                            <p class="mt-2">
-                            Streamlined and efficient licensing services. Enabling you to start operations as soon as possible.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="tickrow mt-3">
-                        <div>
-                            <div class="images-part noimg">
-                                <img src="frontend/assets/img/service/tick.png" alt="Images">
-                            </div>
-                        </div>
-                        <div>
-                            <h6>Low-Cost Labor & Warehouse
-                            </h6>
-                            <p class="mt-2">
-                            Availability of skilled yet affordable labour and warehouse facilities within the Sharjah Free Zone.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12  md-pl-15 m-auto">
-                <div class="tickrow mt-3">
-                    <div>
-                        <div class="images-part noimg">
-                            <img src="frontend/assets/img/service/tick.png" alt="Images">
-                        </div>
-                    </div>
-                    <div>
-
-                        <h6 >Research
+                    <div class="mt-3">
+                        <h6 class="text-white">
+                        Personalized Consultation
                         </h6>
-                        <p class="mt-2 ">
-                            100% Foreign OwnershipOpportunity to own your businesses entirely. Maintain full control and decision-making authority.
-                        </p>
-
-                    </div>
-                </div>
-                <div class="tickrow mt-3">
-                    <div>
-                        <div class="images-part noimg">
-                            <img src="frontend/assets/img/service/tick.png" alt="Images">
-                        </div>
-                    </div>
-                    <div>
-                        <h6>Workforce Estimation
-
-                        </h6>
-                        <p class="mt-3">
-                            Establish the number of people your company will require and make plans for their hiring.
+                        <p class="text-white pt-3">
+                        Our experts will understand your unique requirements and tailor a solution that aligns with your business goals.
                         </p>
                     </div>
                 </div>
-                <div class="tickrow mt-3">
-                    <div>
-                        <div class="images-part noimg">
-                            <img src="frontend/assets/img/service/tick.png" alt="Images">
-                        </div>
+            </div>
+            <div class="col-lg-3 col-md-3 m-auto">
+                <div class="card  p-4 mb-3" style="background-color:#ff8202">
+                    <div class="shaimg text-center">
+                        <img src="frontend/assets/img/service/offshore2.webp">
                     </div>
-                    <div>
-                        <h6>
-                            Low-Cost Abundant Energy Supply.
+                    <div class="mt-3">
+                        <h6 class="text-white">
+                        Expert Guidance
                         </h6>
-                        <p class="mt-2">
-                        Benefit from a readily available and cost-effective energy supply. Reduce operational expenses.
+                        <p class="text-white pt-3">
+                        Benefit from the knowledge and experience of our consultants, lawyers, and company formation experts.
+                    </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3 m-auto">
+                <div class="card  p-4 mb-3" style="background-color:#ff8202">
+                    <div class="shaimg text-center">
+                        <img src="frontend/assets/img/service/offshore3.webp">
+                    </div>
+                    <div class="mt-3">
+                        <h6 class="text-white">
+                        Streamlined Process
+                        </h6>
+                        <p class="text-white pt-3">
+                        We take care of the paperwork, document preparation, and submission, saving you time and effort.
+                    </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3 m-auto">
+                <div class="card p-4 mb-3" style="background-color:#ff8202">
+                    <div class="shaimg text-center">
+                        <img src="frontend/assets/img/service/offshore4.webp">
+                    </div>
+                    <div class="mt-3">
+                        <h6 class="text-white">
+                        Timely Updates
+                        </h6>
+                        <p class="text-white pt-3">
+                            Stay informed at every stage with regular updates on the progress of your offshore company setup in Dubai.
                         </p>
                     </div>
                 </div>
-                <div class="tickrow mt-3">
-                    <div>
-                        <div class="images-part noimg">
-                            <img src="frontend/assets/img/service/tick.png" alt="Images">
-                        </div>
-                    </div>
-                    <div>
-                        <h6>Exemptions of Import and Export
-                        </h6>
-                        <p class="mt-3">
-                        Enjoy a 100% exemption on import and export duties. Fosters a favourable trade environment.
-                        </p>
-                    </div>
-                </div>
-                <div class="tickrow mt-3">
-                    <div>
-                        <div class="images-part noimg">
-                            <img src="frontend/assets/img/service/tick.png" alt="Images">
-                        </div>
-                    </div>
-                    <div">
-                        <h6>
-                        Affordable Lease Rents
-
-                        </h6>
-                        <p class="mt-2">
-                        Lower cost of leasing commercial spaces in the free zone. An attractive choice for businesses seeking cost-effective solutions
-                        </p>
-                    </div>
-                </div>
-              
-               
-
-
             </div>
             
-          
-
-
         </div>
     </div>
 </div>
@@ -545,7 +364,7 @@
                 <div class="col-lg-12  md-mb-50">
                     <div class="sec-title">
                         <h2 class="title pb-30">
-                            FreeZone Company Formation in Sharjah; FAQs
+                            Offshore Company Formation in Sharjah; FAQs
                         </h2>
 
                     </div>
@@ -557,32 +376,32 @@
                             <div class="card">
                                 <div class="card-header active">
                                     <a class="card-link" href="#" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseOne" aria-expanded="true">Q: What is the major difference between a FreeZone business setup and other types of company formation?</a>
+                                        data-bs-target="#collapseOne" aria-expanded="true">Q: What is the major difference between a Offshore business setup and other types of company formation?</a>
                                 </div>
                                 <div id="collapseOne" class="collapse " data-bs-parent="#accordion">
                                     <div class="card-body pt-2">
-                                        <p>There are many differences between a FreeZone company and other forms of business setup in Sharjah. Firstly, FreeZone companies are allowed to do business anywhere in the Sharjah and outside the Sharjah.</p>
-                                        <p>Previously foreign investors or entrepreneurs were not allowed to form a business in the Sharjah FreeZone with 100% ownership. It was mandatory to have a local sponsor with 51% of company shares allotted to them. This obligation has been revoked as per the new Dubai company law. This allows foreign entrepreneurs to own 100% of their company shares in the Dubai FreeZone.</p>
-                                        <p>Another major advantage differentiating FreeZone companies from others is the office space requirement and setup. Physical office space is required to obtain a FreeZone business setup license in Sharjah. FreeZone businesses have the advantage of setting up office spaces anywhere that suits them.</p>
-                                        <p>FreeZone companies also do not have any restrictions when it comes to visa eligibility. The number of visas issued is directly proportional to the area of workspace/office space that the company has.</p>
-                                        <p>Sharjah FreeZone companies also have business aids, tax exemptions, and other benefits in compliance with the latest laws.</p>
+                                        <p>There are many differences between a Offshore Company and other forms of business setup in Sharjah. Firstly, Offshore companies are allowed to do business anywhere in the Sharjah and outside the Sharjah.</p>
+                                        <p>Previously foreign investors or entrepreneurs were not allowed to form a business in the Sharjah Offshore with 100% ownership. It was mandatory to have a local sponsor with 51% of company shares allotted to them. This obligation has been revoked as per the new Dubai company law. This allows foreign entrepreneurs to own 100% of their company shares in the Dubai Offshore.</p>
+                                        <p>Another major advantage differentiating Offshore companies from others is the office space requirement and setup. Physical office space is required to obtain a Offshore business setup license in Sharjah. Offshore businesses have the advantage of setting up office spaces anywhere that suits them.</p>
+                                        <p>Offshore companies also do not have any restrictions when it comes to visa eligibility. The number of visas issued is directly proportional to the area of workspace/office space that the company has.</p>
+                                        <p>Sharjah Offshore companies also have business aids, tax exemptions, and other benefits in compliance with the latest laws.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="card">
                                 <div class="card-header">
                                     <a class="card-link collapsed" href="#" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseTwo" aria-expanded="false">Q: What are the procedures of FreeZone Company Formation?</a>
+                                        data-bs-target="#collapseTwo" aria-expanded="false">Q: What are the procedures of Offshore Company Formation?</a>
                                 </div>
                                 <div id="collapseTwo" class="collapse" data-bs-parent="#accordion">
                                     <div class="card-body pt-2">
-                                        <p>You must follow the following procedure for FreeZone company formation in Sharjah. </p>
+                                        <p>You must follow the following procedure for Offshore Company formation in Sharjah. </p>
                                         <li>Complete the prerequisites for a Local Liability Company (LLC) or Local business startup if you choose to start an LLC.</li>
                                         <li>Business name approval from the Department of Economic Development (DED)</li>
                                         <li>Apply for a business license with the Department of Economic Development.</li>
                                         <li>Enquire about visa eligibility and its requirements</li>
                                         <li>Find a registration consultant as the trusted business solution partner.</li>
-                                        <p>The best thing you can do is to avail yourself services of our trusted FreeZone business setup consultants to reduce your burden and fast-forward the process.</p>
+                                        <p>The best thing you can do is to avail yourself services of our trusted Offshore business setup consultants to reduce your burden and fast-forward the process.</p>
                                     </div>
                                 </div>
                             </div>
@@ -590,11 +409,11 @@
                                 <div class="card-header">
 
                                     <a class="card-link collapsed" href="#" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseThree" aria-expanded="false">Q: Which are the documents required for FreeZone business setup?</a>
+                                        data-bs-target="#collapseThree" aria-expanded="false">Q: Which are the documents required for Offshore business setup?</a>
                                 </div>
                                 <div id="collapseThree" class="collapse" data-bs-parent="#accordion" style="">
                                     <div class="card-body pt-2">
-                                        <p>Here is the list of documents that you will initially need to apply for FreeZone business setup: </p>
+                                        <p>Here is the list of documents that you will initially need to apply for Offshore business setup: </p>
                                         <li>Trade Name (At least Three name choices)</li>
                                         <li>Business Activity</li>
                                         <li>Passport copy of the shareholders.</li>
@@ -608,11 +427,11 @@
                                 <div class="card-header">
 
                                     <a class="card-link collapsed" href="#" data-bs-toggle="collapse"
-                                        data-bs-target="#collapsefour" aria-expanded="false">Q: How does Sharjah’s amended company law benefit FreeZone business setup?</a>
+                                        data-bs-target="#collapsefour" aria-expanded="false">Q: How does Sharjah’s amended company law benefit Offshore business setup?</a>
                                 </div>
                                 <div id="collapsefour" class="collapse" data-bs-parent="#accordion">
                                     <div class="card-body pt-2">
-                                        <p>The latest amendments in Sharjah company laws benefit foreign businesses set up on the FreeZone in various ways. The law allows the foreign entrepreneur to have 100% ownership as opposed to the mandatory local sponsor requirement. Another major benefit is the significant tax exemption and government-funded business aid.</p>
+                                        <p>The latest amendments in Sharjah company laws benefit foreign businesses set up on the Offshore in various ways. The law allows the foreign entrepreneur to have 100% ownership as opposed to the mandatory local sponsor requirement. Another major benefit is the significant tax exemption and government-funded business aid.</p>
                                     </div>
                                 </div>
                             </div>

@@ -1166,6 +1166,9 @@ Version: 1.0.0
   .pb-170 {
     padding-bottom: 80px;
   }
+  .formcard1{
+    left:0px !important;
+  }
 }
 
 .pb-230 {
@@ -1418,7 +1421,7 @@ Version: 1.0.0
   color: var(--theme);
 }
 .bookbtn{
-  color: white;
+
 }
 
 .gt-btn {
@@ -2037,6 +2040,7 @@ input {
   font-family: "Plus Jakarta Sans", sans-serif;
   transition: 0.4s ease-in-out;
   border-radius: 0px;
+ 
 }
 select:focus,
 .single-select:focus,
@@ -2056,6 +2060,7 @@ select::-moz-placeholder,
 textarea::-moz-placeholder,
 input::-moz-placeholder {
   color: var(--body-color);
+  
 }
 select::-moz-placeholder, .single-select::-moz-placeholder, .form-control::-moz-placeholder, .form-select::-moz-placeholder, textarea::-moz-placeholder, input::-moz-placeholder {
   color: var(--body-color);
@@ -2067,6 +2072,7 @@ select::placeholder,
 textarea::placeholder,
 input::placeholder {
   color: var(--body-color);
+
 }
 
 .form-text {
@@ -2170,6 +2176,8 @@ select.style-white2:after {
 .single-select {
   background-image: none !important;
 }
+
+
 
 textarea.form-control,
 textarea {
@@ -4354,8 +4362,9 @@ h6 {
 
 .contact-form-items .form-clt span {
   color: var(--white);
-  margin-bottom: 20px;
+  margin: 10px;
   display: inline-block;
+  padding-left: 7px;
 }
 .contact-form-items .form-clt input,
 .contact-form-items .form-clt textarea {
@@ -7483,7 +7492,7 @@ h6 {
   border: 1px solid var(--border-color) !important;
   padding-bottom: 8px !important;
   border: none;
-  border-radius:7px;
+  border-radius:2px;
   padding: 0;
   margin-top: 44px;
 }
@@ -14548,6 +14557,7 @@ input.main-search-input::placeholder {
         background-position: center;
         background-repeat: no-repeat;
     }
+   
 
     .flip-card-back {
        
@@ -14919,4 +14929,18 @@ body{
    color:#ff8202;
    font-size:22px;
    margin-right: 5px;
+}
+
+.formcard1{
+  background-color:#13171c;
+  position: relative;
+  left: 15px;
+}
+li{
+  color: black;
+  padding-top: 5px;
+  
+}
+.listul li{
+  color:white !important;
 }

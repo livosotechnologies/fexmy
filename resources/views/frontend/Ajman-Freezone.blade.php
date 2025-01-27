@@ -1,18 +1,24 @@
 @extends('frontend.layouts.app')
 @section('content')
-<div class="breadcrumb-wrapper bg-cover" style="background-image: url('frontend/assets/img/service/Dubai-FreeZone.jpg');">
+<div class="breadcrumb-wrapper bg-cover" style="background-image: url('frontend/assets/img/service/UAE-Mainland.jpg');">
 
     <div class="container">
         <div class="col-lg-6">
             <div class="page-heading">
-                <h3 class="wow fadeInUp text-white text-start" data-wow-delay=".3s">
+                <h2 class="wow fadeInUp text-white text-start" data-wow-delay=".3s">
                     Business Setup in
                     Ajman Freezone
-                </h3>
+                </h2>
                 <h6 class="wow fadeInUp text-white text-start pt-4" data-wow-delay=".3s">
                     Ajman is one of the seven emirates that comprise the United Arab Emirates
                 </h6>
-
+                <div class="pt-3 text-start">
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
+                        data-delay=".9s" class="theme-btn hover-white">
+                        Explore More
+                        <i class="fa-solid fa-arrow-right-long"></i>
+                    </a>
+                </div>
             </div>
         </div>
     </div>
@@ -64,7 +70,7 @@
                 Ajman also has minimal start-up expenses, a welcoming business environment, and abundant of cheap workers.                 </p>
                 <div class="pt-3">
                         <a href="/about" data-animation="slideInRight" data-duration="2s"
-                            data-delay=".9s" class="theme-btn hover-black" style="background-color:white;color:black;">
+                            data-delay=".9s" class="theme-btn bookbtn hover-black" style="background-color:white;">
                             Explore More
                             <i class="fa-solid fa-arrow-right-long"></i>
                         </a>
@@ -89,7 +95,7 @@
                 <div class="col-lg-3 col-md-3 col-sm-12">
                     <div class="pt-3">
                         <a href="/about" data-animation="slideInRight" data-duration="2s"
-                            data-delay=".9s" class="theme-btn hover-black" style="background-color:white;color:black;">
+                            data-delay=".9s" class="theme-btn bookbtn hover-black" style="background-color:white;">
                             Explore More
                             <i class="fa-solid fa-arrow-right-long"></i>
                         </a>
@@ -114,7 +120,7 @@
 
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-black" style="background-color:white;color:black;">
+                        data-delay=".9s" class="theme-btn bookbtn hover-black" style="background-color:white;">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>

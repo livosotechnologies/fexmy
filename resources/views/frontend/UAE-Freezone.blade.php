@@ -5,14 +5,20 @@
     <div class="container">
         <div class="col-lg-6">
             <div class="page-heading">
-                <h3 class="wow fadeInUp text-white text-start" data-wow-delay=".3s">
+                <h2 class="wow fadeInUp text-white text-start" data-wow-delay=".3s">
                     Free Zone
                     Business Setup in UAE
-                </h3>
+                </h2>
                 <h6 class="wow fadeInUp text-white text-start pt-4" data-wow-delay=".3s">
                     Step into the World of Opportunities with a Free Zone Business
                 </h6>
-
+                <div class="pt-3 text-start">
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
+                        data-delay=".9s" class="theme-btn hover-white">
+                        Explore More
+                        <i class="fa-solid fa-arrow-right-long"></i>
+                    </a>
+                </div>
             </div>
         </div>
     </div>

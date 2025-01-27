@@ -1,18 +1,24 @@
 @extends('frontend.layouts.app')
 @section('content')
-<div class="breadcrumb-wrapper bg-cover" style="background-image: url('frontend/assets/img/service/uae-mainland.jpg');">
+<div class="breadcrumb-wrapper bg-cover" style="background-image: url('frontend/assets/img/service/UAE-mainland.jpg');">
 
     <div class="container">
         <div class="col-lg-6">
             <div class="page-heading">
-                <h3 class="wow fadeInUp text-white text-start" data-wow-delay=".3s">
+                <h2 class="wow fadeInUp text-white text-start" data-wow-delay=".3s">
                     Offshore Company Formation
                     In UAE
-                </h3>
+                </h2>
                 <h6 class="wow fadeInUp text-white text-start pt-4" data-wow-delay=".3s">
                     Start your own business in UAE from AED 18,000*
                 </h6>
-
+                <div class="pt-3 text-start">
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
+                        data-delay=".9s" class="theme-btn hover-white">
+                        Explore More
+                        <i class="fa-solid fa-arrow-right-long"></i>
+                    </a>
+                </div>
             </div>
         </div>
     </div>
@@ -137,7 +143,7 @@
                 <div class="col-lg-3 col-md-3 col-sm-12">
                     <div class="pt-3">
                         <a href="/about" data-animation="slideInRight" data-duration="2s"
-                            data-delay=".9s" class="theme-btn hover-black" style="background-color:white;color:black;">
+                            data-delay=".9s" class="theme-btn bookbtn hover-black" style="background-color:white;">
                             Explore More
                             <i class="fa-solid fa-arrow-right-long"></i>
                         </a>
@@ -162,7 +168,7 @@
 
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-black" style="background-color:white;color:black;">
+                        data-delay=".9s" class="theme-btn bookbtn hover-black" style="background-color:white;">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -476,7 +482,7 @@
                 <div class="col-lg-12  md-mb-50">
                     <div class="sec-title">
                         <h2 class="title pb-30">
-                            FreeZone Company Formation in Ras-al-khaimah; FAQs
+                            Offshore Company Formation in Ras-al-khaimah; FAQs
                         </h2>
 
                     </div>
@@ -488,32 +494,32 @@
                             <div class="card">
                                 <div class="card-header active">
                                     <a class="card-link" href="#" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseOne" aria-expanded="true">Q: What is the major difference between a FreeZone business setup and other types of company formation?</a>
+                                        data-bs-target="#collapseOne" aria-expanded="true">Q: What is the major difference between a Offshore business setup and other types of company formation?</a>
                                 </div>
                                 <div id="collapseOne" class="collapse " data-bs-parent="#accordion">
                                     <div class="card-body pt-2">
-                                        <p>There are many differences between a FreeZone company and other forms of business setup in Ras-al-khaimah. Firstly, FreeZone companies are allowed to do business anywhere in the Ras-al-khaimah and outside the Ras-al-khaimah.</p>
-                                        <p>Previously foreign investors or entrepreneurs were not allowed to form a business in the Ras-al-khaimah FreeZone with 100% ownership. It was mandatory to have a local sponsor with 51% of company shares allotted to them. This obligation has been revoked as per the new Dubai company law. This allows foreign entrepreneurs to own 100% of their company shares in the Dubai FreeZone.</p>
-                                        <p>Another major advantage differentiating FreeZone companies from others is the office space requirement and setup. Physical office space is required to obtain a FreeZone business setup license in Ras-al-khaimah. FreeZone businesses have the advantage of setting up office spaces anywhere that suits them.</p>
-                                        <p>FreeZone companies also do not have any restrictions when it comes to visa eligibility. The number of visas issued is directly proportional to the area of workspace/office space that the company has.</p>
-                                        <p>Ras-al-khaimah FreeZone companies also have business aids, tax exemptions, and other benefits in compliance with the latest laws.</p>
+                                        <p>There are many differences between a Offshore Company and other forms of business setup in Ras-al-khaimah. Firstly, Offshore companies are allowed to do business anywhere in the Ras-al-khaimah and outside the Ras-al-khaimah.</p>
+                                        <p>Previously foreign investors or entrepreneurs were not allowed to form a business in the Ras-al-khaimah Offshore with 100% ownership. It was mandatory to have a local sponsor with 51% of company shares allotted to them. This obligation has been revoked as per the new Dubai company law. This allows foreign entrepreneurs to own 100% of their company shares in the Dubai Offshore.</p>
+                                        <p>Another major advantage differentiating Offshore companies from others is the office space requirement and setup. Physical office space is required to obtain a Offshore business setup license in Ras-al-khaimah. Offshore businesses have the advantage of setting up office spaces anywhere that suits them.</p>
+                                        <p>Offshore companies also do not have any restrictions when it comes to visa eligibility. The number of visas issued is directly proportional to the area of workspace/office space that the company has.</p>
+                                        <p>Ras-al-khaimah Offshore companies also have business aids, tax exemptions, and other benefits in compliance with the latest laws.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="card">
                                 <div class="card-header">
                                     <a class="card-link collapsed" href="#" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseTwo" aria-expanded="false">Q: What are the procedures of FreeZone Company Formation?</a>
+                                        data-bs-target="#collapseTwo" aria-expanded="false">Q: What are the procedures of Offshore Company Formation?</a>
                                 </div>
                                 <div id="collapseTwo" class="collapse" data-bs-parent="#accordion">
                                     <div class="card-body pt-2">
-                                        <p>You must follow the following procedure for FreeZone company formation in Ras-al-khaimah. </p>
+                                        <p>You must follow the following procedure for Offshore Company formation in Ras-al-khaimah. </p>
                                         <li>Complete the prerequisites for a Local Liability Company (LLC) or Local business startup if you choose to start an LLC.</li>
                                         <li>Business name approval from the Department of Economic Development (DED)</li>
                                         <li>Apply for a business license with the Department of Economic Development.</li>
                                         <li>Enquire about visa eligibility and its requirements</li>
                                         <li>Find a registration consultant as the trusted business solution partner.</li>
-                                        <p>The best thing you can do is to avail yourself services of our trusted FreeZone business setup consultants to reduce your burden and fast-forward the process.</p>
+                                        <p>The best thing you can do is to avail yourself services of our trusted Offshore business setup consultants to reduce your burden and fast-forward the process.</p>
                                     </div>
                                 </div>
                             </div>
@@ -521,11 +527,11 @@
                                 <div class="card-header">
 
                                     <a class="card-link collapsed" href="#" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseThree" aria-expanded="false">Q: Which are the documents required for FreeZone business setup?</a>
+                                        data-bs-target="#collapseThree" aria-expanded="false">Q: Which are the documents required for Offshore business setup?</a>
                                 </div>
                                 <div id="collapseThree" class="collapse" data-bs-parent="#accordion" style="">
                                     <div class="card-body pt-2">
-                                        <p>Here is the list of documents that you will initially need to apply for FreeZone business setup: </p>
+                                        <p>Here is the list of documents that you will initially need to apply for Offshore business setup: </p>
                                         <li>Trade Name (At least Three name choices)</li>
                                         <li>Business Activity</li>
                                         <li>Passport copy of the shareholders.</li>
@@ -539,11 +545,11 @@
                                 <div class="card-header">
 
                                     <a class="card-link collapsed" href="#" data-bs-toggle="collapse"
-                                        data-bs-target="#collapsefour" aria-expanded="false">Q: How does Ras-al-khaimah’s amended company law benefit FreeZone business setup?</a>
+                                        data-bs-target="#collapsefour" aria-expanded="false">Q: How does Ras-al-khaimah’s amended company law benefit Offshore business setup?</a>
                                 </div>
                                 <div id="collapsefour" class="collapse" data-bs-parent="#accordion">
                                     <div class="card-body pt-2">
-                                        <p>The latest amendments in Ras-al-khaimah company laws benefit foreign businesses set up on the FreeZone in various ways. The law allows the foreign entrepreneur to have 100% ownership as opposed to the mandatory local sponsor requirement. Another major benefit is the significant tax exemption and government-funded business aid.</p>
+                                        <p>The latest amendments in Ras-al-khaimah company laws benefit foreign businesses set up on the Offshore in various ways. The law allows the foreign entrepreneur to have 100% ownership as opposed to the mandatory local sponsor requirement. Another major benefit is the significant tax exemption and government-funded business aid.</p>
                                     </div>
                                 </div>
                             </div>
@@ -569,7 +575,7 @@
             </h6>
             <div class="pt-3">
                 <a href="/about" data-animation="slideInRight" data-duration="2s"
-                    data-delay=".9s" class="theme-btn hover-black" style="background-color:white;color:black;">
+                    data-delay=".9s" class="theme-btn bookbtn hover-black" style="background-color:white;">
                     Explore More
                     <i class="fa-solid fa-arrow-right-long"></i>
                 </a>
