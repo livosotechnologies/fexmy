@@ -217,6 +217,38 @@ Route::get('golden-visa', function () {
 });
 
 
+//serveses pages routes
+
+Route::get('Business-Licenses', function () {
+    return view('frontend/Business-Licenses');
+});
+Route::get('Commercial-trade-license', function () {
+    return view('frontend/Commercial-trade-license');
+});
+Route::get('Industrial-license', function () {
+    return view('frontend/Industrial-license');
+});
+Route::get('professional-trade-license', function () {
+    return view('frontend/professional-trade-license');
+});
+
+
+//other service 
+Route::get('bank-account-opening-dubai', function () {
+    return view('frontend/bank-account-opening-dubai');
+});
+Route::get('VAT-registration', function () {
+    return view('frontend/VAT-registration');
+});
+Route::get('trademark-registration', function () {
+    return view('frontend/Trademark-registration');
+});
+Route::get('auditing-services-dubai', function () {
+    return view('frontend/Auditing-services-dubai');
+});
+
+
+
 
 //Banner
 Route::get('/banner', [App\Http\Controllers\HomeController::class, 'view'])->name('banner.index');

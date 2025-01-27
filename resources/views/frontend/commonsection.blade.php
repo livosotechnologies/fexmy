@@ -8,8 +8,7 @@
                 The clock is ticking, and opportunities are knocking at your door. Embrace the limitless potential of  Free Zones with FexMy Business Setup by your side.
             </h6>
             <div class="pt-3">
-                <a href="contacts" data-animation="slideInRight" data-duration="2s"
-                    data-delay=".9s" class="theme-btn bookbtn hover-black" style="background-color:white;">
+
                     Explore More
                     <i class="fa-solid fa-arrow-right-long"></i>
                 </a>
