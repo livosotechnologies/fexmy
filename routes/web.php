@@ -92,6 +92,13 @@ Route::get('Business-Licenses', function () {
 Route::get('Commercial-trade-license', function () {
     return view('frontend/Commercial-trade-license');
 });
+Route::get('Industrial-license', function () {
+    return view('frontend/Industrial-license');
+});
+Route::get('professional-trade-license', function () {
+    return view('frontend/professional-trade-license');
+});
+
 
 
 

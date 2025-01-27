@@ -47,8 +47,9 @@
                         solution for setting up and flourishing business in Dubai.
                     </p>
                     <p class="pb-2">
-                        We advise on the right kind of license for your business, help you acquire the license and give
-                        reminders for renewal of license. In the unfortunate case, where you need to get your trade
+                        We advise on the right kind of license ur business, help you acquire the license and give
+                        reminders for renewal of license. In the unfortunate case,for yo where you need to get your
+                        trade
                         license cancelled Shuraa Business Setup expedites the process minimizing your fines and costs.
                     </p>
 
@@ -72,102 +73,10 @@
     </div>
 </div>
 
-
-<div class="journeysec1">
-    <div class="col-lg-10 m-auto p-5">
-        <div class="card journeysec2 m-auto p-lg-5">
-            <div class="row">
-                <div class="col-lg-9 col-md-9 col-sm-12">
-                    <h4 class="text-white">
-                        Simplify Your Dubai Business Setup </h4>
-
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-12">
-                    <div class="pt-3">
-                        <a href="/contacts" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
-                            class="theme-btn hover-black" style="background-color:white;">
-                            Explore More
-                            <i class="fa-solid fa-arrow-right-long"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-    </div>
-</div>
-<div class="container">
-    <div class="card prcard p-lg-5 mb-5 mt-4" style="background-color:#ff8202">
-        <div class="row">
-
-            <div class="col-lg-6 col-md-6 col-sm-12">
-                <h4 class="text-white">
-                    What Benefits Do Business Trade
-                    Licenses Provide in Dubai?
-                </h4>
-                <div class="pt-5">
-
-                    <ul class="listul text-white">
-                        <li>
-                            <i class="fa-solid fa-check"></i>
-                            Ability to sponsor dependents
-                        </li>
-                        <li>
-                            <i class="fa-solid fa-check"></i>
-                            Ability to trade in a wide range of goods and services
-                        </li>
-                        <li>
-                            <i class="fa-solid fa-check"></i>
-                            Access to government support programs
-                        </li>
-                        <li>
-                            <i class="fa-solid fa-check"></i>
-                            Credibility and legitimacy
-                        </li>
-
-                        <li>
-                            <i class="fa-solid fa-check"></i>
-                            Friendly business environment
-                        </li>
-
-
-
-
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 m-auto">
-                <img src="frontend/assets/img/service/dubai1.jpg" class="img-fluid uaepic">
-            </div>
-        </div>
-    </div>
-</div>
-
 <div class="rs-about pt-100  md-pt-70 md-pb-70" style="background-color:#ff8202;">
     <div class="container custom pb-50">
         <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm-12 md-mb-50 m-auto">
-                <h2 class="text-white">
-                    How to set up business in
-                </h2>
-                <p class="mt-3 text-white">
-                    Business setup in is an exciting adventure, and our team is here to make it
-                    seamless and stress-free.
-                </p>
-                <!-- <p class="mt-3 text-white">
-                    We walk alongside you throughout the entire process, offering our support & assistance at every
-                    turn. When you partner with FexMy, you gain more than just a service provider – you gain a strategic
-                    ally that is genuinely invested in your success.
-                </p> -->
-                <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
-                        class="theme-btn hover-black" style="background-color:white;">
-                        Explore More
-                        <i class="fa-solid fa-arrow-right-long"></i>
-                    </a>
-                </div>
 
-            </div>
             <div class="col-lg-6 col-md-6 col-sm-12  md-pl-15 m-auto scrollable-col">
                 <div class="row mt-3">
                     <div class="col-lg-2 col-md-2 col-sm-2">
@@ -298,11 +207,52 @@
 
 
             </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 md-mb-50 m-auto rounded"
+                style="background-color:#c36300;border-radius:6px;box-shadow: rgb(0 0 0 / 25%) 0px 50px 100px -20px, rgb(255 0 0 / 30%) 0px 30px 60px -30px, rgb(0 0 0 / 35%) 0px -2px 6px 0px inset;">
 
+                <div class="m-4" style="">@include('frontend/commonform')
+                </div>
+
+            </div>
 
         </div>
+
+    </div>
+
+</div>
+
+<div>
+    @include('frontend/Containt')
+</div>
+
+
+<div class="journeysec1">
+    <div class="col-lg-10 m-auto p-5">
+        <div class="card journeysec2 m-auto p-lg-5" style="background-color:#ff8202;">
+            <div class="row">
+                <div class="col-lg-9 col-md-9 col-sm-12">
+                    <h4 class="text-white">
+                        Simplify Your Dubai Business Setup </h4>
+
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-12">
+                    <div class="pt-3">
+                        <a href="/contacts" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
+                            class="theme-btn hover-black" style="background-color:white;">
+                            Explore More
+                            <i class="fa-solid fa-arrow-right-long"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </div>
 </div>
+
+
+
+
 <div class="container mt-4">
     <div class="col-lg-7 ">
         <h3>
@@ -503,7 +453,7 @@
 
 <div class="container">
     <div id="rs-faq" class="rs-faq pt-5 pb-100 md-pt-70 md-pb-70">
-        <div class="container">
+        <div class="container" ">
             <div class="row y-middle">
                 <div class="col-lg-12  md-mb-50">
                     <div class="sec-title">
@@ -529,12 +479,12 @@
                                         <p>There are many differences between a FreeZone company and other forms of
                                             business setup in Sharjah. Firstly, FreeZone companies are allowed to do
                                             business anywhere in the Sharjah and outside the Sharjah.</p>
-                                        <p>Previously foreign investors or entrepreneurs were not allowed to form a
+                                        <p> foreign investors or entrepreneurs were not allowed to form a
                                             business in the Sharjah FreeZone with 100% ownership. It was mandatory to
                                             have a local sponsor with 51% of company shares allotted to them. This
                                             obligation has been revoked as per the new Dubai company law. This allows
                                             foreign entrepreneurs to own 100% of their company shares in the Dubai
-                                            FreeZone.</p>
+                                            FreeZone</p>
                                         <p>Another major advantage differentiating FreeZone companies from others is the
                                             office space requirement and setup. Physical office space is required to
                                             obtain a FreeZone business setup license in Sharjah. FreeZone businesses
@@ -603,10 +553,11 @@
                                 <div id="collapsefour" class="collapse" data-bs-parent="#accordion">
                                     <div class="card-body pt-2">
                                         <p>The latest amendments in Sharjah company laws benefit foreign businesses set
-                                            up on the FreeZone in various ways. The law allows the foreign entrepreneur
+                                            up on the FreeZoneou in varis ways. The law allows the foreign entrepreneur
                                             to have 100% ownership as opposed to the mandatory local sponsor
                                             requirement. Another major benefit is the significant tax exemption and
-                                            government-funded business aid.</p>
+                                            government-funded business aid.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
