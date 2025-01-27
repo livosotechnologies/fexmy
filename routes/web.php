@@ -100,6 +100,21 @@ Route::get('professional-trade-license', function () {
 });
 
 
+//other service 
+Route::get('bank-account-opening-dubai', function () {
+    return view('frontend/bank-account-opening-dubai');
+});
+Route::get('VAT-registration', function () {
+    return view('frontend/VAT-registration');
+});
+Route::get('trademark-registration', function () {
+    return view('frontend/Trademark-registration');
+});
+Route::get('auditing-services-dubai', function () {
+    return view('frontend/Auditing-services-dubai');
+});
+
+
 
 
 //Banner
