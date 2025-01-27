@@ -21,6 +21,9 @@ Route::get('/subservicedetail/{id}', [App\Http\Controllers\FrontendController::c
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('dashboard');
 
 //new route
+Route::get('why-us', function () {
+    return view('frontend/why-us');
+});
 Route::get('visa', function () {
     return view('frontend/visa');
 });
@@ -196,7 +199,22 @@ Route::get('gti-visa-Australia', function () {
     return view('frontend/gti-visa-Australia');
 });
 
-
+//service route
+Route::get('bank-account-opening', function () {
+    return view('frontend/bank-account-opening');
+});
+Route::get('pro-services-dubai', function () {
+    return view('frontend/pro-services-dubai');
+});
+Route::get('pro-services–sharjah', function () {
+    return view('frontend/pro-services–sharjah');
+});
+Route::get('pro-services-ajman', function () {
+    return view('frontend/pro-services-ajman');
+});
+Route::get('golden-visa', function () {
+    return view('frontend/golden-visa');
+});
 
 
 

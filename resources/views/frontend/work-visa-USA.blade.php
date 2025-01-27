@@ -249,11 +249,11 @@
                
                 <!-- Why Choose Section Start -->
                 <br>
-                <a href="/contacts" data-animation="slideInRight" data-duration="2s"
+                <!-- <a href="/contacts" data-animation="slideInRight" data-duration="2s"
                             data-delay=".9s" class="theme-btn  hover-black" >
                             Contact Us
                             <i class="fa-solid fa-arrow-right-long"></i>
-                        </a>
+                        </a> -->
             </div>
 
         </div>

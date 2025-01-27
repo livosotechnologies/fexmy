@@ -1266,13 +1266,13 @@
                         </div>
                     </div>
                     <!-- Cart Section End -->
-                    <div class="text-center">
+                    <!-- <div class="text-center">
                     <a href="/contacts" data-animation="slideInRight" data-duration="2s"
                             data-delay=".9s" class="theme-btn  hover-black" >
                             Contact Us
                             <i class="fa-solid fa-arrow-right-long"></i>
                         </a>
-                    </div>
+                    </div> -->
                 </div>
                 <!-- Why Choose Section Start -->
                 <br>

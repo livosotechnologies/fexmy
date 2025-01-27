@@ -23,7 +23,7 @@
         </div>
     </div>
 </div>
-<div class="rs-about pt-30  md-pt-70 md-pb-70">
+<div class="rs-about pt-10  md-pt-70 md-pb-70">
     <div class="container custom pb-50">
         <div class="row">
             <div class="col-lg-6  md-pl-15 m-auto">
