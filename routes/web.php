@@ -84,6 +84,7 @@ Route::get('Jebel-ali-Offshore', function () {
 Route::get('Ras-al-khaimah-Offshore', function () {
     return view('frontend/Ras-al-khaimah-Offshore');
 });
+
 Route::get('Bank-Gurantee', function () {
     return view('frontend/Bank-Gurantee');
 });
