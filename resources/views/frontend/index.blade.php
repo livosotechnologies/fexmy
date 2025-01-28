@@ -144,7 +144,7 @@
                             </div>
                             <div class="about-author">
                                 <div class="about-button wow fadeInUp" data-wow-delay=".8s">
-                                    <a href="/about" class="theme-btn">
+                                    <a href="/about" class="bookbtn theme-btn hover-black">
                                         Explore More
                                         <i class="fa-solid fa-arrow-right-long"></i>
                                     </a>
@@ -373,14 +373,14 @@
                 <div class="carousel-item active">
                     <div class="row y-middle">
                         <!-- Left Content Section -->
-                        <div class="col-lg-6 pr-70 md-pr-15 md-mb-50">
+                        <div class="col-lg-6 pr-70 md-pr-15 md-mb-50 m-auto">
                             <div class="sec-title2 mb-30">
                                 <div class="sub-text">Our Expertise</div>
                                 <h2 class="title mb-23">We provide tailored solutions for <span>business growth.</span></h2>
                                 <p class="desc mb-0">Our experienced team ensures that every step you take in business is aligned with your growth strategy, leading you toward success and prosperity.</p>
                                 <div class="mt-3">
                                 <a href="/about" data-animation="slideInRight" data-duration="2s"
-                                            data-delay=".9s" class="theme-btn hover-white">
+                                            data-delay=".9s" class="theme-btn bookbtn hover-black">
                                             Explore More
                                             <i class="fa-solid fa-arrow-right-long"></i>
                                         </a>
@@ -408,7 +408,7 @@
                                     who are so beguiled and demoralized by data business theme 2021.</p>
                                     <div class="mt-3">
                                 <a href="/about" data-animation="slideInRight" data-duration="2s"
-                                            data-delay=".9s" class="theme-btn hover-white">
+                                            data-delay=".9s" class="theme-btn bookbtn hover-black">
                                             Explore More
                                             <i class="fa-solid fa-arrow-right-long"></i>
                                         </a>
@@ -440,7 +440,7 @@
                                 <p class="desc mb-0">We focus on strategic solutions that give businesses the tools they need to flourish in competitive markets, bringing them long-term success.</p>
                                 <div class="mt-3">
                                 <a href="/about" data-animation="slideInRight" data-duration="2s"
-                                            data-delay=".9s" class="theme-btn hover-white">
+                                            data-delay=".9s" class="theme-btn bookbtn hover-black">
                                             Explore More
                                             <i class="fa-solid fa-arrow-right-long"></i>
                                         </a>

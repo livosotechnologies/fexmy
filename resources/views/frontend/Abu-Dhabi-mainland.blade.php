@@ -15,7 +15,7 @@
                 </h6>
                 <div class="pt-3 text-start">
                     <a href="contacts" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-white">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -66,7 +66,7 @@
                     </ul>
                     <div class="pt-3">
                         <a href="/about" data-animation="slideInRight" data-duration="2s"
-                            data-delay=".9s" class="theme-btn bookbtn" style="background-color:white;">
+                            data-delay=".9s" class="theme-btn  bookbtn1 hover-black" style="background-color:white;">
                             Explore More
                             <i class="fa-solid fa-arrow-right-long"></i>
                         </a>
@@ -198,7 +198,7 @@
                 </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -217,7 +217,7 @@
                     We assist you in securing your business name and obtaining the necessary initial approvals from government authorities. </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -236,7 +236,7 @@
                     Our team handles the complex process of obtaining the Abu Dhabi mainland license and permits for your specific business activity. </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -255,7 +255,7 @@
                     We ensure all legal documents and contracts are professionally drafted and comply with the AbuDhabi’s regulatory requirements. </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -274,7 +274,7 @@
                     Our experts guide you through the process of opening a corporate bank account to facilitate your financial transactions. </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -294,7 +294,7 @@
                 </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -314,7 +314,7 @@
                 </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>

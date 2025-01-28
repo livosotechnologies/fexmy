@@ -95,8 +95,8 @@
                         </div>
                         <div class="about-author">
                             <div class="about-button wow fadeInUp" data-wow-delay=".5s">
-                                <a href="/about" class="theme-btn">
-                                    Explore More
+                                <a href="/contacts" class="theme-btn bookbtn hover-black">
+                                   Contact Us
                                     <i class="fa-solid fa-arrow-right-long"></i>
                                 </a>
                             </div>
@@ -124,8 +124,8 @@
                     Look no further for the best business setup services in Dubai! Read more about our journey and how we are eager to assist you in building your life in the UAE. Check out our story
                 </p>
                 <div class="mt-4">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-black" style="background-color:white;color:#F98600;">
+                    <a href="/contacts" data-animation="slideInRight" data-duration="2s"
+                        data-delay=".9s" class="theme-btn bookbtn1 hover-black" >
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -248,14 +248,14 @@
     </div>
     <div class="ms-lg-5 pt-5">
         <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm-12">
+            <div class="col-lg-6 col-md-6 col-sm-12 m-auto">
                 <h1>Refer. Earn. Repeat.</h1>
                 <p class="mt-3 text-white">
                     Look no further for the best business setup services in Dubai! Read more about our journey and how we are eager to assist you in building your life in the UAE. Check out our story
                 </p>
                 <div class="mt-4">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-black" style="background-color:white;color:#F98600;">
+                    <a href="/contacts" data-animation="slideInRight" data-duration="2s"
+                        data-delay=".9s" class="theme-btn bookbtn1 hover-black" >
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -406,7 +406,7 @@
                         <h2 class="title pb-22">
                             We work to make you grow
                         </h2>
-                        <span class="sub-text big">We ensure deep commitment towards working across organisations
+                        <span class="sub-text big text-black">We ensure deep commitment towards working across organisations
                             and offer niche business setup services in Dubai and
                             across the UAE. We develop a speedy route to enter the UAE market for several
                             multinationals as well as SMEs. </span>

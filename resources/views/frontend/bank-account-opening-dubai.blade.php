@@ -15,7 +15,7 @@
 
                 <div class="pt-3 text-start">
                     <a href="contacts" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
-                        class="theme-btn hover-black" style="background-color:white;">
+                        class="theme-btn bookbtn hover-white" >
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -38,8 +38,7 @@
                     </p>
                     <p class="pb-2">
                     Being an international business hub, Dubai is a bustling city where a lot of financial activities take place. In order to facilitate these financial activities, many financial institutions operate in Dubai and UAE. The banking sector in the UAE has a unique relevance of being the largest in the middle-east. You can open a bank account in Dubai, UAE for your personal purposes as well as business purpose.
-
-Opening a bank account in Dubai for non-residents is also not a difficult task. If you are not a resident of UAE, you can open a personal bank account in UAE with specific limitations on the choice of banks and the features they offer. However, this limitation is not a major concern as many prominent banks in UAE offer non-resident bank accounts. Most banks in the UAE permit non-residents to open savings bank accounts only. Kiltons consultants provide bank account opening services in UAE making it easier for people to open bank accounts in Dubai and other Emirates.
+                    Opening a bank account in Dubai for non-residents is also not a difficult task. If you are not a resident of UAE, you can open a personal bank account in UAE with specific limitations on the choice of banks and the features they offer. However, this limitation is not a major concern as many prominent banks in UAE offer non-resident bank accounts. Most banks in the UAE permit non-residents to open savings bank accounts only. Kiltons consultants provide bank account opening services in UAE making it easier for people to open bank accounts in Dubai and other Emirates.
                     </p>
                     <p class="pb-2">
                         <!-- With a wealth of experience and a passion for growth, Shuraa Business Setup is your one-stop
@@ -103,10 +102,6 @@ Opening a bank account in Dubai for non-residents is also not a difficult task. 
                             <i class="fa-solid fa-check"></i>
                             Friendly business environment
                         </li>
-
-
-
-
                     </ul>
                 </div>
             </div>
@@ -173,8 +168,8 @@ Opening a bank account in Dubai for non-residents is also not a difficult task. 
                     </div>
                     <div class="col-lg-10 col-md-10 col-sm-10 ">
 
-                        <h3 class="text-white">Choose a business name
-                        </h3>
+                        <h4 class="text-white">Choose a business name
+                        </h4>
                         <p class="mt-3 text-white">
                             Plan and thoroughly study your business nature before choosing the best free zone for your
                             sector.
@@ -189,8 +184,8 @@ Opening a bank account in Dubai for non-residents is also not a difficult task. 
                         </div>
                     </div>
                     <div class="col-lg-10 col-md-10 col-sm-10">
-                        <h3 class="text-white">Define your legal structure
-                        </h3>
+                        <h4 class="text-white">Define your legal structure
+                        </h4>
                         <p class="mt-3 text-white">
                             Create a comprehensive business setup plan that details your goals, strategic thinking, and
                             projected financials.
@@ -204,8 +199,8 @@ Opening a bank account in Dubai for non-residents is also not a difficult task. 
                         </div>
                     </div>
                     <div class="col-lg-10 col-md-10 col-sm-10">
-                        <h3 class="text-white">Define your business activities
-                        </h3>
+                        <h4 class="text-white">Define your business activities
+                        </h4>
                         <p class="mt-3 text-white">
                             Make a decision on an original company name, then reserve it with the selected free zone.
                         </p>
@@ -218,11 +213,11 @@ Opening a bank account in Dubai for non-residents is also not a difficult task. 
                         </div>
                     </div>
                     <div class="col-lg-10 col-md-10 col-sm-10">
-                        <h3 class="text-white">
+                        <h4 class="text-white">
 
                             Complete the application form
 
-                        </h3>
+                        </h4>
                         <p class="mt-3 text-white">
                             Find the necessary facilities and workspace for your company's activities.
                         </p>
@@ -235,9 +230,9 @@ Opening a bank account in Dubai for non-residents is also not a difficult task. 
                         </div>
                     </div>
                     <div class="col-lg-10 col-md-10 col-sm-10">
-                        <h3 class="text-white">Get additional approvals
+                        <h4 class="text-white">Get additional approvals
 
-                        </h3>
+                        </h4>
                         <p class="mt-3 text-white">
                             Establish the number of people your company will require and make plans for their hiring.
                         </p>
@@ -250,8 +245,8 @@ Opening a bank account in Dubai for non-residents is also not a difficult task. 
                         </div>
                     </div>
                     <div class="col-lg-10 col-md-10 col-sm-10">
-                        <h3 class="text-white">Gather the required documents
-                        </h3>
+                        <h4 class="text-white">Gather the required documents
+                        </h4>
                         <p class="mt-3 text-white">
                             Fund the appropriate bank account with the minimum capital the authorities have mandated.
                         </p>
@@ -264,9 +259,9 @@ Opening a bank account in Dubai for non-residents is also not a difficult task. 
                         </div>
                     </div>
                     <div class="col-lg-10 col-md-10 col-sm-10">
-                        <h3 class="text-white">Submit your application
+                        <h4 class="text-white">Submit your application
 
-                        </h3>
+                        </h4>
                         <p class="mt-3 text-white">
                             Complete your business's registration and licensing procedures with the appropriate
                             authorities.
@@ -282,8 +277,8 @@ Opening a bank account in Dubai for non-residents is also not a difficult task. 
                         </div>
                     </div>
                     <div class="col-lg-10 col-md-10 col-sm-10">
-                        <h3 class="text-white">Pay the license fees
-                        </h3>
+                        <h4 class="text-white">Pay the license fees
+                        </h4>
                         <p class="mt-3 text-white">
                             Sign the formation documents in front of free zone officials, whether they are an
                             individual, a corporation, or both.
@@ -327,7 +322,7 @@ Opening a bank account in Dubai for non-residents is also not a difficult task. 
                 </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
-                        class="theme-btn bookbtn hover-white">
+                        class="theme-btn bookbtn hover-black">
                         BOOK A FREE CONSULTATION
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -351,7 +346,7 @@ Opening a bank account in Dubai for non-residents is also not a difficult task. 
                     law firms, marketing & designing, auditing & accounting companies, etc.
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
-                        class="theme-btn bookbtn hover-white">
+                        class="theme-btn bookbtn hover-black">
                         BOOK A FREE CONSULTATION
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -375,7 +370,7 @@ Opening a bank account in Dubai for non-residents is also not a difficult task. 
                 </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
-                        class="theme-btn bookbtn hover-white">
+                        class="theme-btn bookbtn hover-black">
                         BOOK A FREE CONSULTATION
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -421,8 +416,8 @@ Opening a bank account in Dubai for non-residents is also not a difficult task. 
                         </h6>
                         <p class="pt-3">
                         1) Proof of identity and residence for all shareholders or partners
-2) Lease agreement for the business premises
-3) Business plan
+                        2) Lease agreement for the business premises
+                        3) Business plan
                 </div>
                 </div>
             </div>

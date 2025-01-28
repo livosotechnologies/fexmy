@@ -15,7 +15,7 @@
 
                 <div class="pt-3 text-start">
                     <a href="contacts" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
-                        class="theme-btn hover-black" style="background-color:white;">
+                        class="theme-btn bookbtn hover-white" >
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -329,7 +329,7 @@
                 </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
-                        class="theme-btn bookbtn hover-white">
+                        class="theme-btn bookbtn hover-black">
                         BOOK A FREE CONSULTATION
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -353,7 +353,7 @@
                     law firms, marketing & designing, auditing & accounting companies, etc.
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
-                        class="theme-btn bookbtn hover-white">
+                        class="theme-btn bookbtn hover-black">
                         BOOK A FREE CONSULTATION
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -377,7 +377,7 @@
                 </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
-                        class="theme-btn bookbtn hover-white">
+                        class="theme-btn bookbtn hover-black">
                         BOOK A FREE CONSULTATION
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>

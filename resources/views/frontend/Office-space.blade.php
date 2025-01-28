@@ -14,7 +14,7 @@
 
                 <div class="pt-3 text-start">
                     <a href="contacts" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn  hover-white">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -67,41 +67,41 @@
                 <ul class="list-unstyled feature-list">
                     <li class="mb-3">
                         
-                        <i class="fa-solid fa-check fa-check-circle-fill rounded-circle p-1 me-2" style="background-color:#ff8202"></i>
+                        <i class="fa-solid fa-check fa-check-circle-fill rounded-circle p-1 me-2" ></i>
                         Provide cost-effective office spaces for rent in Dubai and other Emirates. We offer attractive and flexible payment schemes based on your priorities.
                     </li>
                     <li class="mb-3">
-                        <i class="fa-solid fa-check fa-check-circle-fill rounded-circle p-1 me-2" style="background-color:#ff8202"></i>
+                        <i class="fa-solid fa-check fa-check-circle-fill rounded-circle p-1 me-2" ></i>
 
                         Prepare the documents required for signing the rent contract.
                     </li>
                     <li class="mb-3">
-                        <i class="fa-solid fa-check fa-check-circle-fill rounded-circle p-1 me-2" style="background-color:#ff8202"></i>
+                        <i class="fa-solid fa-check fa-check-circle-fill rounded-circle p-1 me-2" ></i>
 
                         Acts as a link between the Department of Economic Development and the client to pursue all compliance-related formalities in the most professional manner. Kiltons rental services include Tenancy agreement and EJARI.
                     </li>
                     <li class="mb-3">
-                        <i class="fa-solid fa-check fa-check-circle-fill rounded-circle p-1 me-2" style="background-color:#ff8202"></i>
+                        <i class="fa-solid fa-check fa-check-circle-fill rounded-circle p-1 me-2" ></i>
 
                         Responsible and cost-effective Business Centre facilitation in Dubai and other Emirates.
                     </li>
                     <li class="mb-3">
-                        <i class="fa-solid fa-check fa-check-circle-fill rounded-circle p-1 me-2" style="background-color:#ff8202"></i>
+                        <i class="fa-solid fa-check fa-check-circle-fill rounded-circle p-1 me-2" ></i>
 
                         Fully-furnished and semi-furnished offices with all the necessary amenities.
                     </li>
                     <li class="mb-3">
-                        <i class="fa-solid fa-check fa-check-circle-fill rounded-circle p-1 me-2" style="background-color:#ff8202"></i>
+                        <i class="fa-solid fa-check fa-check-circle-fill rounded-circle p-1 me-2" ></i>
 
                         Offices are futuristically designed and are equipped with the most modern technology.
                     </li>
                     <li class="mb-3">
-                        <i class="fa-solid fa-check fa-check-circle-fill rounded-circle p-1 me-2" style="background-color:#ff8202"></i>
+                        <i class="fa-solid fa-check fa-check-circle-fill rounded-circle p-1 me-2" ></i>
 
                         Complete assistance and guidance throughout the process.
                     </li>
                     <li class="mb-3">
-                        <i class="fa-solid fa-check fa-check-circle-fill rounded-circle p-1 me-2" style="background-color:#ff8202"></i>
+                        <i class="fa-solid fa-check fa-check-circle-fill rounded-circle p-1 me-2" ></i>
 
                         From startups to established corporate houses – Fastcrop office rental services serve the purpose.
                     </li>
@@ -123,8 +123,8 @@
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-12">
                     <div class="pt-3">
-                        <a href="/about" data-animation="slideInRight" data-duration="2s"
-                            data-delay=".9s" class="theme-btn bookbtn hover-black" style="background-color:white;">
+                        <a href="/contacts" data-animation="slideInRight" data-duration="2s"
+                            data-delay=".9s" class="theme-btn bookbtn1 hover-black" style="background-color:white;">
                             Explore More
                             <i class="fa-solid fa-arrow-right-long"></i>
                         </a>
@@ -152,7 +152,7 @@
                     </p>
                     <div class="pt-3 text-start">
                         <a href="contacts" data-animation="slideInRight" data-duration="2s"
-                            data-delay=".9s" class="theme-btn hover-white">
+                            data-delay=".9s" class="theme-btn bookbtn hover-black">
                             Get Started Today
                             <i class="fa-solid fa-arrow-right-long"></i>
                         </a>

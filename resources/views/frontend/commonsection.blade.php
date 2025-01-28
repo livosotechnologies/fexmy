@@ -7,12 +7,12 @@
             <h6 class="pt-3 text-white">
                 The clock is ticking, and opportunities are knocking at your door. Embrace the limitless potential of  Free Zones with FexMy Business Setup by your side.
             </h6>
-            <div class="pt-3">
-
-                    Explore More
-                    <i class="fa-solid fa-arrow-right-long"></i>
-                </a>
-            </div>
+            <div class="about-button wow fadeInUp mt-3" data-wow-delay=".8s">
+                                    <a href="/about" class="bookbtn1 theme-btn hover-black">
+                                        Explore More
+                                        <i class="fa-solid fa-arrow-right-long"></i>
+                                    </a>
+                                </div>
         </div>
     </div>
 </div>
@@ -36,7 +36,7 @@
                 <div class="container">
                   
                     <div class="row">
-                        <div class="col-lg-4 col-md-6 ">
+                        <div class="col-lg-4 col-md-6 mb-3">
                             <div class="flip-card">
                                 <!-- Front of the card (only the country name) -->
                                 <div class="flip-card-inner">
@@ -79,19 +79,19 @@
                                             </ul>
                                         </div>
 
-                                    <div class="m-auto">
+                                    <!-- <div class="m-auto">
                                     <a href="/contacts" data-animation="slideInRight" data-duration="2s"
                                             data-delay=".9s" class="theme-btn bookbtn1 hover-black" >
                                             Contact Us
                                             <i class="fa-solid fa-arrow-right-long"></i>
                                         </a>
-                                    </div>
+                                    </div> -->
                                     
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 md-mb-30">
+                        <div class="col-lg-4 col-md-6 mb-3">
                             <div class="flip-card">
                                 <!-- Front of the card (only the country name) -->
                                 <div class="flip-card-inner">
@@ -134,19 +134,19 @@
                                     </ul>
                                         </div>
 
-                                        <div class="m-auto">
+                                        <!-- <div class="m-auto">
                                         <a href="/contacts" data-animation="slideInRight" data-duration="2s"
                                             data-delay=".9s" class="theme-btn bookbtn1 hover-black" >
                                             Contact Us
                                             <i class="fa-solid fa-arrow-right-long"></i>
                                         </a>
-                                    </div>
+                                    </div> -->
                                     
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 md-mb-30">
+                        <div class="col-lg-4 col-md-6 mb-3">
                             <div class="flip-card">
                                 <!-- Front of the card (only the country name) -->
                                 <div class="flip-card-inner">
@@ -189,13 +189,13 @@
                                     </ul>
                                         </div>
 
-                                        <div class="m-auto">
+                                        <!-- <div class="m-auto">
                                         <a href="/contacts" data-animation="slideInRight" data-duration="2s"
                                             data-delay=".9s" class="theme-btn bookbtn1 hover-black" >
                                             Contact Us
                                             <i class="fa-solid fa-arrow-right-long"></i>
                                         </a>
-                                    </div>
+                                    </div> -->
                                     
                                     </div>
                                 </div>
@@ -218,9 +218,7 @@
             <div class="row gy-5 gx-70 d-flex align-items-center mb-20">
                 <div class="col-xl-6">
                     <div class="section-title mxw-560 z-5">
-                        <div class="subtitle text-white wow fadeInUp" data-wow-delay=".3s"> <img
-                                src="{{asset('frontend/assets/img/icon/arrowLeftWhite.svg')}}" alt="icon"> <span class="text-white">PROJECTS
-                            </span><img src="assets/img/icon/arrowRightWhite.svg" alt="icon"></div>
+
                         <h2 class="title text-white wow fadeInUp" data-wow-delay=".6s">Our Services <br>
                            Our Services
                         </h2>

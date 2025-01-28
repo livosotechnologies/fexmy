@@ -1421,7 +1421,8 @@ Version: 1.0.0
   color: var(--theme);
 }
 .bookbtn{
-
+  background: var(--theme);
+  color:white;
 }
 
 .gt-btn {
@@ -14904,6 +14905,10 @@ body{
    min-height: 180px;
    max-height: auto;
 }
+.auditcard{
+  min-height: 320px;
+  max-height: auto;
+}
 .shaimg{
   width: 70px;
 }
@@ -14943,4 +14948,14 @@ li{
 }
 .listul li{
   color:white !important;
+}
+.rounded-circle{
+  background-color: #ff8202;
+  color:white;
+}
+.visacover{
+  padding-top: 60px;
+}
+.bookbtn1{
+  background-color: white;
 }

@@ -3,7 +3,7 @@
 <div class="breadcrumb-wrapper bg-cover" style="background-image: url('frontend/assets/img/service/UAE-Mainland.jpg');">
 
     <div class="container">
-        <div class="col-lg-6">
+        <div class="col-lg-6 ">
             <div class="page-heading">
                 <h2 class="wow fadeInUp text-white text-start" data-wow-delay=".3s">
 
@@ -15,7 +15,7 @@
 
                 <div class="pt-3 text-start">
                     <a href="contacts" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
-                        class="theme-btn hover-black" style="background-color:white;">
+                        class="theme-btn bookbtn hover-white" >
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -114,7 +114,7 @@
     <div class="col-lg-10 m-auto p-5">
         <div class="card journeysec2 m-auto p-lg-5">
             <div class="row">
-                <div class="col-lg-9 col-md-9 col-sm-12">
+                <div class="col-lg-9 col-md-9 col-sm-12 m-auto">
                     <h4 class="text-white">
                         Simplify Your Dubai Business Setup </h4>
 

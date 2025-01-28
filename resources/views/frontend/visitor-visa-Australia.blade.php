@@ -1,7 +1,7 @@
 
 @extends('frontend.layouts.app')
 @section('content')
-<div class="breadcrumb-wrapper bg-cover" style="background-image: url('https://fexmy.co/assets/images/appointment/uae.jpg'); ">
+<div class="breadcrumb-wrapper bg-cover visacover" style="background-image: url('https://fexmy.co/assets/images/appointment/uae.jpg'); ">
 
     <div class="row">
         <div class="col-lg-6">
@@ -82,11 +82,11 @@
                     <li>Hotel booking confirmation</li>
                     <br>
                 </div>
-                 <a href="/contacts" data-animation="slideInRight" data-duration="2s"
+                 <!-- <a href="/contacts" data-animation="slideInRight" data-duration="2s"
                             data-delay=".9s" class="theme-btn  hover-black" >
                             Contact Us
                             <i class="fa-solid fa-arrow-right-long"></i>
-                        </a>
+                        </a> -->
             </div>
 
 

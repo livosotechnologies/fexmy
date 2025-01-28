@@ -14,7 +14,7 @@
                 </h6>
                 <div class="pt-3 text-start">
                     <a href="contacts" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-white">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -23,14 +23,14 @@
         </div>
     </div>
 </div>
-<div class="rs-about pt-30  md-pt-70 md-pb-70">
+<div class="rs-about pt-50  md-pt-70 md-pb-70">
     <div class="container custom pb-50">
         <div class="row">
             <div class="col-lg-6  md-pl-15 m-auto">
                 <div class="sec-title">
-                    <h4 class="title pb-2" style="color:#ff8202">
+                    <h3 class="title pb-2" style="color:#ff8202">
                         Dubai Offshore Company Formation
-                    </h4>
+                    </h3>
                     <p class="title pb-2">
                         Offshore companies in the UAE are only issued a Certificate of Incorporation, not an operating license. This makes Dubai offshore company formation or setting up in any other UAE jurisdiction straightforward, but understanding the registration procedures and rules is crucial.
                     </p>
@@ -143,7 +143,7 @@
                 <div class="col-lg-3 col-md-3 col-sm-12">
                     <div class="pt-3">
                         <a href="/about" data-animation="slideInRight" data-duration="2s"
-                            data-delay=".9s" class="theme-btn bookbtn hover-black" style="background-color:white;">
+                            data-delay=".9s" class="theme-btn bookbtn1 hover-black" style="background-color:white;">
                             Explore More
                             <i class="fa-solid fa-arrow-right-long"></i>
                         </a>
@@ -168,7 +168,7 @@
 
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn bookbtn hover-black" style="background-color:white;">
+                        data-delay=".9s" class="theme-btn bookbtn1 hover-black" style="background-color:white;">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -306,7 +306,7 @@
                 </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -327,7 +327,7 @@
                 </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -348,7 +348,7 @@
                 </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -564,25 +564,7 @@
 
 
 <!--<< Map Section Start >>-->
-<div class="journeysec1">
-    <div class="col-lg-8 m-auto p-5">
-        <div class="card journeysec2 m-auto p-lg-5 text-center">
-            <h4 class="text-white">
-                Embark on Your Journey to Success Today!
-            </h4>
-            <h6 class="pt-3 text-white">
-                The clock is ticking, and opportunities are knocking at your door. Embrace the limitless potential of Ras-al-khaimah Free Zones with FexMy Business Setup by your side.
-            </h6>
-            <div class="pt-3">
-                <a href="/about" data-animation="slideInRight" data-duration="2s"
-                    data-delay=".9s" class="theme-btn bookbtn hover-black" style="background-color:white;">
-                    Explore More
-                    <i class="fa-solid fa-arrow-right-long"></i>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
+
 
 
 

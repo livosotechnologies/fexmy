@@ -14,7 +14,7 @@
                 </h6>
                 <div class="pt-3 text-start">
                     <a href="contacts" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn  hover-white">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -142,7 +142,7 @@
                 </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -162,7 +162,7 @@
              </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -182,7 +182,7 @@
             </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -201,7 +201,7 @@
                 Determine the suitable office space, either through purchasing or leasing, depending on your business’s needs.  </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -222,7 +222,7 @@
              </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -243,7 +243,7 @@
              </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>

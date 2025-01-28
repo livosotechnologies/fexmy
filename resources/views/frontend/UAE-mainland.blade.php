@@ -16,7 +16,7 @@
                 </h6>
                 <div class="pt-3 text-start">
                     <a href="contacts" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-white">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -91,7 +91,7 @@
                 </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -110,7 +110,7 @@
                     Additionally referred to as common organisations, they are committed to a certain vocation to carry out the professional practise specific to their field. </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -129,7 +129,7 @@
                     One of the most well-known forms of business entities is the limited liability company (LLC), which may be formed with the participation of at least two investors and up to a maximum of fifty. The percentage of individual shares determines how much responsibility each accomplice must take. </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -148,7 +148,7 @@
                     The UAE allows financial experts from outside to establish a delegate office without the presence of an investor. A delegate office refrains from corporate operating activities and is more inclined to do research and develop promotional activities. </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>

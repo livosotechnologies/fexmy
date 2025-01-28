@@ -13,7 +13,7 @@
 
                 <div class="pt-3 text-start">
                     <a href="contacts" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-white">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -22,7 +22,7 @@
         </div>
     </div>
 </div>
-<div class="rs-about pt-30  md-pt-70 md-pb-70">
+<div class="rs-about pt-20  md-pt-70 md-pb-70">
     <div class="container custom pb-50">
         <div class="row">
             <div class="col-lg-6  md-pl-15 m-auto">
@@ -95,8 +95,8 @@
                             <p class="margin-0 pt-15">By partnering with Fexmys service agents, there’s no need to spend time searching for and building a rapport with an individual. Instead, we’ll provide a premier corporate nominee to act as your 51% local sponsor in Dubai. </p>
                             <p class="margin-0 pt-15">Our main objective is to give you 100% financial and operational control, while protecting your shareholder rights in your Limited Liability Company company. The agreements and documents we use are drafted by first-tier legal counsel, and have been tried and tested for over a decade. We’ll make sure you’re armed with all the documentation you need to protect your business and secure the financial rights of your business. </p>
                         <div class="btn-part mt-45 md-mt-30 ">
-                            <a href="about.html" data-animation="slideInRight" data-duration="2s"
-                                data-delay=".9s" class="theme-btn hover-white">
+                            <a href="contacts" data-animation="slideInRight" data-duration="2s"
+                                data-delay=".9s" class="theme-btn bookbtn hover-black">
                                 Contact Us
                                 <i class="fa-solid fa-arrow-right-long"></i>
                             </a>
@@ -124,8 +124,8 @@
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-12">
                     <div class="pt-3">
-                        <a href="/about" data-animation="slideInRight" data-duration="2s"
-                            data-delay=".9s" class="theme-btn bookbtn hover-black" style="background-color:white;">
+                        <a href="/contacts" data-animation="slideInRight" data-duration="2s"
+                            data-delay=".9s" class="theme-btn bookbtn1 hover-black" style="background-color:white;">
                             Explore More
                             <i class="fa-solid fa-arrow-right-long"></i>
                         </a>

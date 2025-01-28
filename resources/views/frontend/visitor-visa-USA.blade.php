@@ -1,7 +1,7 @@
 
 @extends('frontend.layouts.app')
 @section('content')
-<div class="breadcrumb-wrapper bg-cover" style="background-image: url('https://fexmy.co/assets/images/appointment/uae.jpg'); ">
+<div class="breadcrumb-wrapper bg-cover visacover" style="background-image: url('https://fexmy.co/assets/images/appointment/uae.jpg'); ">
 
     <div class="row">
         <div class="col-lg-6">

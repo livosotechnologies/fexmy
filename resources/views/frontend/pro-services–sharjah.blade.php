@@ -103,8 +103,8 @@
                 </ul>
 
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                    <a href="/contacts" data-animation="slideInRight" data-duration="2s"
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Get Started Today!
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>

@@ -14,7 +14,7 @@
                 </h6>
                 <div class="pt-3 text-start">
                     <a href="contacts" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn  hover-white">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -23,7 +23,7 @@
         </div>
     </div>
 </div>
-<div class="rs-about pt-100  md-pt-70 md-pb-70">
+<div class="rs-about pt-20  md-pt-70 md-pb-70">
     <div class="container custom pb-50">
         <div class="row">
             <div class="col-lg-6 md-mb-50">
@@ -126,7 +126,7 @@
                     <div class="col-lg-3 col-md-3 col-sm-12" >
                 <div class="pt-3">
                         <a href="/about" data-animation="slideInRight" data-duration="2s"
-                            data-delay=".9s" class="theme-btn bookbtn hover-black" style="background-color:white;">
+                            data-delay=".9s" class="theme-btn bookbtn1 hover-black" style="background-color:white;">
                             Explore More
                             <i class="fa-solid fa-arrow-right-long"></i>
                         </a>
@@ -140,7 +140,7 @@
 <div class="rs-about pt-20  md-pt-70 md-pb-70">
     <div class="container custom pb-50">
         <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm-12 md-mb-50">
+            <div class="col-lg-6 col-md-6 col-sm-12 md-mb-50 m-auto">
                 <h2>                   
                    How to set up business in Dubai Free Zone
                 </h2>
@@ -152,7 +152,7 @@
                 </p>
                 <div class="pt-3">
                     <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>

@@ -14,7 +14,7 @@
                 </h6>
                 <div class="pt-3 text-start">
                     <a href="contacts" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-white">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -28,11 +28,11 @@
         <div class="row">
             <div class="col-lg-6  md-pl-15 m-auto">
                 <div class="sec-title">
-                    <h4 class="title pb-2" style="color:#ff8202">
+                    <h3 class="title pb-2" style="color:#ff8202">
                         Discover why choosing RAK for your business
                         setup is the right call
 
-                    </h4>
+                    </h3>
                     <p class="title pb-2">
                         With its flourishing economy and outstanding development, Ras Al Khaimah attracts a stream of foreign investors. The reasons are clear: progressive government policies, cutting-edge infrastructure, a thriving economy, and harmonious trade relations with neighboring nations.
                     </p>
@@ -132,8 +132,8 @@
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-12">
                     <div class="pt-3">
-                        <a href="/about" data-animation="slideInRight" data-duration="2s"
-                            data-delay=".9s" class="theme-btn bookbtn hover-black" style="background-color:white;">
+                        <a href="/contacts" data-animation="slideInRight" data-duration="2s"
+                            data-delay=".9s" class="theme-btn bookbtn1 hover-black" style="background-color:white;">
                             Explore More
                             <i class="fa-solid fa-arrow-right-long"></i>
                         </a>
@@ -157,8 +157,8 @@
                 </p>
 
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn bookbtn hover-black" style="background-color:white;">
+                    <a href="/contacts" data-animation="slideInRight" data-duration="2s"
+                        data-delay=".9s" class="theme-btn bookbtn1 hover-black" style="background-color:white;">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -295,8 +295,8 @@
                     A document provided by free zone authorities that is ideal for dealing and selling products. This group includes activities including logistics, automobile rentals, and real estate services.
                 </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                    <a href="/contacts" data-animation="slideInRight" data-duration="2s"
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -316,8 +316,8 @@
                     For manufacturing and industrial companies with a local office. It involves making furniture, packing, metal casing, and food products.
                 </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                    <a href="/contacts" data-animation="slideInRight" data-duration="2s"
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -337,8 +337,8 @@
                     Service providers, professionals, artists, and craftspeople require a professional licence. includes services such as law companies, management consulting, auditing, accounting, education, and medical care.
                 </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                    <a href="/contacts" data-animation="slideInRight" data-duration="2s"
+                        data-delay=".9s" class="theme-btn bookbtn hover-black">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>

@@ -12,7 +12,7 @@
 
                 <div class="pt-3 text-start">
                     <a href="contacts" data-animation="slideInRight" data-duration="2s"
-                        data-delay=".9s" class="theme-btn hover-white">
+                        data-delay=".9s" class="theme-btn bookbtn hover-white">
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -140,7 +140,7 @@
         </p>
         <div class="pt-3 text-center">
             <a href="contacts" data-animation="slideInRight" data-duration="2s"
-                data-delay=".9s" class="theme-btn hover-black">
+                data-delay=".9s" class="theme-btn bookbtn hover-black">
                 Conatct Us
                 <i class="fa-solid fa-arrow-right-long"></i>
             </a>
@@ -161,8 +161,8 @@
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-12">
                     <div class="pt-3">
-                        <a href="/about" data-animation="slideInRight" data-duration="2s"
-                            data-delay=".9s" class="theme-btn bookbtn hover-black" style="background-color:white;">
+                        <a href="/contacts" data-animation="slideInRight" data-duration="2s"
+                            data-delay=".9s" class="theme-btn bookbtn1 hover-black" >
                             Explore More
                             <i class="fa-solid fa-arrow-right-long"></i>
                         </a>

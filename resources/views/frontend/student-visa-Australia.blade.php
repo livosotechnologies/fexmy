@@ -1,7 +1,7 @@
 
 @extends('frontend.layouts.app')
 @section('content')
-<div class="breadcrumb-wrapper bg-cover" style="background-image: url('https://fexmy.co/assets/images/appointment/uae.jpg'); ">
+<div class="breadcrumb-wrapper bg-cover visacover" style="background-image: url('https://fexmy.co/assets/images/appointment/uae.jpg'); ">
 
     <div class="row">
         <div class="col-lg-6">
@@ -137,7 +137,7 @@
                             tuition fees.</p>
 
                         <!-- Cart Section Start -->
-                        <div class="rs-cart pt-1 pb-100 md-pt-70 md-pb-70">
+                        <div class="rs-cart pt-1 pb-30 md-pt-70 md-pb-70">
                             <div class="container">
                                 <div class="cart-wrap">
                                     <form>
@@ -289,7 +289,7 @@
 
                         <h3 class="sec-title pt-3 pb-3">TOP AUSTRALIAN UNIVERSITIES:</h3>
                         <!-- Cart Section Start -->
-                        <div class="rs-cart pt-1 pb-100 md-pt-70 md-pb-70">
+                        <div class="rs-cart pt-1 pb-30 md-pt-70 md-pb-70">
                             <div class="container">
                                 <div class="cart-wrap">
                                     <form>
@@ -450,9 +450,7 @@
                         <!-- Why Choose Section Start -->
                         <br>
                     </div>
-                    <div class="btn-part blog" style="text-align: center;"><a class="readon price price2"
-                            href="#">Apply Now</a></div>
-                </div>
+                 
 
 
             </div>
@@ -460,7 +458,7 @@
     </div>
 
 </div>
-<div class="rs-about pt-100  md-pt-70 md-pb-70">
+<div class="rs-about   md-pt-70 md-pb-70">
     <div class="container custom pb-50">
         <div class="row">
             <div class="col-lg-12">

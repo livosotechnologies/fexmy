@@ -14,7 +14,7 @@
 
                 <div class="pt-3 text-start">
                     <a href="contacts" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
-                        class="theme-btn hover-black" style="background-color:white;">
+                        class="theme-btn bookbtn hover-white" >
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -388,7 +388,7 @@
         <div class="row mt-4" style="display:flex;justify-content:center;">
 
             <div class="col-lg-4 col-sm-12 m-auto">
-                <div class="card p-4 mb-3">
+                <div class="card auditcard p-4 mb-3">
                     <div class="shaimg text-center">
                         <img src="frontend/assets/img/service/sharjah1.png">
                     </div>
@@ -402,7 +402,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-sm-12 m-auto">
-                <div class="card p-4 mb-3">
+                <div class="card auditcard p-4 mb-3">
                     <div class="shaimg text-center">
                         <img src="frontend/assets/img/service/sharjah2.png">
                     </div>
@@ -412,13 +412,13 @@
                         </h6>
                         <p class="pt-3">
                         1) Proof of identity and residence for all shareholders or partners
-2) Lease agreement for the business premises
-3) Business plan
+                        2) Lease agreement for the business premises
+                        3) Business plan
                 </div>
                 </div>
             </div>
             <div class="col-lg-4 col-sm-12 m-auto">
-                <div class="card p-4 mb-3">
+                <div class="card auditcard p-4 mb-3">
                     <div class="shaimg text-center">
                         <img src="frontend/assets/img/service/sharjah3.png">
                     </div>
@@ -431,7 +431,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-sm-12 m-auto">
-                <div class="card p-4 mb-3">
+                <div class="card auditcard p-4 mb-3">
                     <div class="shaimg text-center">
                         <img src="frontend/assets/img/service/sharjah4.png">
                     </div>
@@ -446,7 +446,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-sm-12 m-auto">
-                <div class="card p-4 mb-3">
+                <div class="card auditcard p-4 mb-3">
                     <div class="shaimg text-center">
                         <img src="frontend/assets/img/service/sharjah5.png">
                     </div>
@@ -461,7 +461,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-sm-12 m-auto">
-                <div class="card p-4 mb-3">
+                <div class="card auditcard p-4 mb-3">
                     <div class="shaimg text-center">
                         <img src="frontend/assets/img/service/sharjah6.png">
                     </div>

@@ -46,22 +46,18 @@
                                 <span class="moicon"><i class="fa-solid fa-caret-down"></i></span>
                                 
                             </a>
-                            <ul class="dropdown-menu    ">
+                            <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="UAE-Mainland">UAE Mainland</a></li>
                                 <li><a class="dropdown-item" href="Dubai-mainland">Dubai Mainland</a></li>
-                                <li><a class="dropdown-item" href="Abu-Dhabi-mainland">Abu Dhabi Mainlande</a></li>
+                                <li><a class="dropdown-item" href="Abu-Dhabi-mainland">Abu Dhabi Mainland</a></li>
                                 <li><a class="dropdown-item" href="Ajman-mainland">Ajman Mainland</a></li>
                                 <li><a class="dropdown-item" href="Sharjah-mainland">Sharjah Mainland</a></li>
-                                <li><a class="dropdown-item" href="UAE-Freezone">Abu Dhabi Mainlande</a></li>
                             </ul>
                         </li>
                         <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#"
                                 role="button">Free Zone Company
                                 <span class="moicon"><i class="fa-solid fa-caret-down"></i></span></a>
                             <ul class="dropdown-menu">
-                             
-
-
                                 <li><a class="dropdown-item" href="UAE-Freezone">UAE Free Zone</a></li>
                                 <li><a class="dropdown-item" href="Dubai-Freezone">Dubai Free Zone</a></li>
                                 <li><a class="dropdown-item" href="IFZA-Freezone">IFZA</a></li>
@@ -83,7 +79,7 @@
                                 <li><a class="dropdown-item" href="Jebel-ali-Offshore">Jebel Ali Offshore</a></li>
                                 <li><a class="dropdown-item" href="Ras-al-khaimah-Offshore">Ras AI Khaimah
                                         Offshore</a></li>
-                                <li><a class="dropdown-item" href="Ajman-Offshore">Ajman Offshore</a></li>
+                               
                             </ul>
                         </li>
                         <li class="">
@@ -116,12 +112,13 @@
 
                         </li>
                         <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#" role="button">PRO
-                                Services
+                                Pro Services
                                 <span class="moicon"><i class="fa-solid fa-caret-down"></i></span></a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="#">Professional Licensee</a></li>
-                                <li><a class="dropdown-item" href="#">Commercial License</a></li>
-                                <li><a class="dropdown-item" href="#">Industrial License</a></li>
+                                <li><a class="dropdown-item" href="pro-services-dubai">Pro-Services Abu Dhabi</a></li>
+                                <li><a class="dropdown-item" href="pro-services–sharjah">Pro-Services Sharjah</a></li>
+                                <li><a class="dropdown-item" href="pro-services-ajman">Pro-Services Ajman</a></li>
+                                <li><a class="dropdown-item" href="golden-visa">Golden-visa</a></li>
                             </ul>
                         </li>
                         <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#"
