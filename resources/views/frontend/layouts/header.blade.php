@@ -27,7 +27,7 @@
                     <ul class="dropdown-menu ">
                         <li><a class="dropdown-item" href="/about">About Us</a>
                     </li>
-                        <li><a class="dropdown-item" href="#">Why Us</a></li>
+                        <li><a class="dropdown-item" href="/why-us">Why Us</a></li>
                     </ul>
                 </li>
 
@@ -87,10 +87,10 @@
                             </ul>
                         </li>
                         <li class="">
-                            <a class="dropdown-item " href="#" role="button">Office Space</a>
+                            <a class="dropdown-item " href="/office-space" role="button">Office Space</a>
                         </li>
                         <li class="">
-                            <a class="dropdown-item " href="#" role="button">Sponsorship</a>
+                            <a class="dropdown-item " href="/sponsership" role="button">Sponsorship</a>
                         </li>
                     </ul>
                 </li>
@@ -125,14 +125,14 @@
                             </ul>
                         </li>
                         <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#"
-                                role="button">OTHER SERVICES
+                                role="button">Other Services
                                 <span class="moicon"><i class="fa-solid fa-caret-down"></i></span></a>
                             <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="bank-account-opening-dubai">Bank Account Opening</a></li>
                         <li><a class="dropdown-item" href="VAT-registration">VAT registration</a></li>
                         <li><a class="dropdown-item" href="trademark-registration">Trademark Registration</a></li>
-                        <li><a class="dropdown-item" href="Local-Sponshorship">Local Sponshorship</a></li>
-                        <li><a class="dropdown-item" href="Business-Activities">Business Activities</a></li>
+                        <li><a class="dropdown-item" href="/local-sponsorship">Local Sponshorship</a></li>
+                       
                         <li><a class="dropdown-item" href="Bank-Gurantee">Bank Guarantee</a></li>
                         <li><a class="dropdown-item" href="auditing-services-dubai">Auditing services</a></li>
                             </ul>
@@ -142,10 +142,11 @@
 
                 <!-- Visa Dropdown -->
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle  rounded-xl" href="#" role="button" data-bs-toggle="dropdown"
+                    <!-- <a  href="visa" class="nav-link dropdown-toggle  rounded-xl"  role="button" data-bs-toggle="dropdown"
                         aria-expanded="false">
                         VISA
-                    </a>
+                    </a> -->
+                    <a href="visa" class="nav-link dropdown-toggle  rounded-xl">VISA</a>
                     <!-- <ul class="dropdown-menu border">
                         <li><a class="dropdown-item" href="#">Tourist Visa</a></li>
                         <li><a class="dropdown-item" href="#">Business Visa</a></li>
@@ -155,13 +156,13 @@
 
                 <!-- Other Services -->
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle  rounded-xl" href="#" role="button" data-bs-toggle="dropdown"
-                        aria-expanded="false">OTHER SERVICES
-                        <span class="dropdown-icon"><i class="fa-solid fa-caret-down"></i></span>
+                    <a href="contacts" class="nav-link dropdown-toggle  rounded-xl"  role="button"  style="background-color: #ff8202; color: #ffffff ! important;"
+                       >FREE CONSULTATION 
+                        <!-- <span class="dropdown-icon"><i class="fa-solid fa-caret-down"></i></span> -->
                     </a>
                         
 
-                    <ul class="dropdown-menu border">
+                    <!-- <ul class="dropdown-menu border">
                         <li><a class="dropdown-item" href="bank-account-opening-dubai">Bank Account Opening</a></li>
                         <li><a class="dropdown-item" href="VAT-registration">VAT registration</a></li>
                         <li><a class="dropdown-item" href="trademark-registration">Trademark Registration</a></li>
@@ -169,11 +170,11 @@
                         <li><a class="dropdown-item" href="Business-Activities">Business Activities</a></li>
                         <li><a class="dropdown-item" href="Bank-Guarantee">Bank Guarantee</a></li>
                         <li><a class="dropdown-item" href="auditing-services-dubai">Auditing services</a></li>
-                    </ul>
+                    </ul> -->
                 </li>
 
             </ul>
-            @if (Route::has('login'))
+            <!-- @if (Route::has('login'))
                 <nav class="-mx-3 flex flex-1 justify-end">
                     @auth
                         <a href="{{ url('/home') }}" class="">
@@ -185,7 +186,7 @@
                         </a>
                     @endauth
                 </nav>
-            @endif
+            @endif -->
         </div>
     </div>
 </nav>

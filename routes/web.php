@@ -84,6 +84,17 @@ Route::get('Jebel-ali-Offshore', function () {
 Route::get('Ras-al-khaimah-Offshore', function () {
     return view('frontend/Ras-al-khaimah-Offshore');
 });
+Route::get('office-space', function () {
+    return view('frontend/Office-space');
+});
+Route::get('sponsership', function () {
+    return view('frontend/sponsership');
+});
+Route::get('local-sponsorship', function () {
+    return view('frontend/Local-sponsorship');
+});
+
+
 
 Route::get('Bank-Gurantee', function () {
     return view('frontend/Bank-Gurantee');
