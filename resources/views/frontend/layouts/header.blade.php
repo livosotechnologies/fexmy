@@ -25,9 +25,9 @@
                         <span class="dropdown-icon"><i class="fa-solid fa-caret-down"></i></span>
                     </a>
                     <ul class="dropdown-menu ">
-                        <li><a class="dropdown-item" href="#">About Us</a>
+                        <li><a class="dropdown-item" href="/about">About Us</a>
                     </li>
-                        <li><a class="dropdown-item" href="#">Why Us</a></li>
+                        <li><a class="dropdown-item" href="/why-us">Why Us</a></li>
                     </ul>
                 </li>
 
@@ -41,51 +41,56 @@
                     <ul class="dropdown-menu">
                         <!-- Mainland Company Nested Dropdown -->
                         <li class="dropdown-submenu">
-                            <a class="dropdown-item dropdown-toggle " href="#" role="button">
+                            <a class="dropdown-item dropdown-toggle " href="" role="button">
                                 Mainland Company
                                 <span class="moicon"><i class="fa-solid fa-caret-down"></i></span>
                                 
                             </a>
                             <ul class="dropdown-menu    ">
-                                <li><a class="dropdown-item" href="UAE-Free-Zone">UAE Free Zone</a></li>
-                                <li><a class="dropdown-item" href="Dubai-Mainland">Dubai Free Zone</a></li>
-                                <li><a class="dropdown-item" href="IFZA">IFZA</a></li>
-                                <li><a class="dropdown-item" href="Abu Dhabi Free Zone">Abu Dhabi Free Zone</a></li>
-                                <li><a class="dropdown-item" href="Abu Dhabi Free Zone">Abu Dhabi Free Zone</a></li>
-                                <li><a class="dropdown-item" href="Ajman-FreeZone">Ras AI Khaimah Free Zone</a></li>
+                            <li><a class="dropdown-item" href="UAE-Mainland">UAE Mainland</a></li>
+                                <li><a class="dropdown-item" href="Dubai-mainland">Dubai Mainland</a></li>
+                                <li><a class="dropdown-item" href="Abu-Dhabi-mainland">Abu Dhabi Mainlande</a></li>
+                                <li><a class="dropdown-item" href="Ajman-mainland">Ajman Mainland</a></li>
+                                <li><a class="dropdown-item" href="Sharjah-mainland">Sharjah Mainland</a></li>
+                                <li><a class="dropdown-item" href="UAE-Freezone">Abu Dhabi Mainlande</a></li>
                             </ul>
                         </li>
                         <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#"
                                 role="button">Free Zone Company
                                 <span class="moicon"><i class="fa-solid fa-caret-down"></i></span></a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="UAE-Mainland">UAE Mainland</a></li>
-                                <li><a class="dropdown-item" href="Dubai-Mainland">Dubai Mainland</a></li>
-                                <li><a class="dropdown-item" href="Abudhabi-Mainland">Abu Dhabi Mainlande</a></li>
-                                <li><a class="dropdown-item" href="Ajman-Mainland">Ajman Mainland</a></li>
-                                <li><a class="dropdown-item" href="Sharjah-Mainland">Sharjah Mainland</a></li>
-                                <li><a class="dropdown-item" href="/company/careers">Abu Dhabi Mainlande</a></li>
+                             
+
+
+                                <li><a class="dropdown-item" href="UAE-Freezone">UAE Free Zone</a></li>
+                                <li><a class="dropdown-item" href="Dubai-Freezone">Dubai Free Zone</a></li>
+                                <li><a class="dropdown-item" href="IFZA-Freezone">IFZA</a></li>
+                                <li><a class="dropdown-item" href="Abudhabi-Freezone">Abu Dhabi Free Zone</a></li>
+                                <li><a class="dropdown-item" href="Sharjah-Freezone">Sharjah-Freezone</a></li>
+                                <li><a class="dropdown-item" href="Ras-al-khaimah-Freezone">Ras AI Khaimah Free Zone</a></li>
+                                <li><a class="dropdown-item" href="RAKEZ-Freezone">RAKEZ-Freezone</a></li>
+                                <li><a class="dropdown-item" href="Ajman-Freezone">Ajman-Freezone</a></li>
                             </ul>
                         </li>
                         <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#"
                                 role="button">Offshore Company
                                 <span class="moicon"><i class="fa-solid fa-caret-down"></i></span></a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="UAE-FreeZone">UAE Free Zone </a></li>
+                                <!-- <li><a class="dropdown-item" href="UAE-FreeZone">UAE Free Zone </a></li> -->
                                 <li><a class="dropdown-item" href="UAE-Offshore">UAE Offshore </a></li>
                                 <li><a class="dropdown-item" href="Dubai-Offshore">Dubai Offshore </a></li>
-                                <li><a class="dropdown-item" href="IFZA-Offshore">IFZA Offshore</a></li>
-                                <li><a class="dropdown-item" href="JebelAli-Offshore">Jebel Ali Offshore</a></li>
-                                <li><a class="dropdown-item" href="Ras-AI-Khaimah-Offshore">Ras AI Khaimah
+                                <li><a class="dropdown-item" href="Ajman-Offshore">Ajman Offshore</a></li>
+                                <li><a class="dropdown-item" href="Jebel-ali-Offshore">Jebel Ali Offshore</a></li>
+                                <li><a class="dropdown-item" href="Ras-al-khaimah-Offshore">Ras AI Khaimah
                                         Offshore</a></li>
                                 <li><a class="dropdown-item" href="Ajman-Offshore">Ajman Offshore</a></li>
                             </ul>
                         </li>
                         <li class="">
-                            <a class="dropdown-item " href="#" role="button">Office Space</a>
+                            <a class="dropdown-item " href="/office-space" role="button">Office Space</a>
                         </li>
                         <li class="">
-                            <a class="dropdown-item " href="#" role="button">Sponsorship</a>
+                            <a class="dropdown-item " href="/sponsership" role="button">Sponsorship</a>
                         </li>
                     </ul>
                 </li>
@@ -101,11 +106,11 @@
                         <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#"
                                 role="button">License
                                 <span class="moicon"><i class="fa-solid fa-caret-down"></i></span></a>
-
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="#">Professional License</a></li>
-                                <li><a class="dropdown-item" href="#">Commercial License</a></li>
-                                <li><a class="dropdown-item" href="#">Industrial License</a></li>
+                                <li><a class="dropdown-item" href="Business-Licenses">Business Licenses</a></li>
+                                <li><a class="dropdown-item" href="Commercial-trade-license">Commercial Trade License</a></li>
+                                <li><a class="dropdown-item" href="Industrial-license">Industrial License</a></li>
+                                <li><a class="dropdown-item" href="professional-trade-license">Professional Trade License</a></li>
 
                             </ul>
 
@@ -114,23 +119,22 @@
                                 Services
                                 <span class="moicon"><i class="fa-solid fa-caret-down"></i></span></a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="#">Professional License</a></li>
+                                <li><a class="dropdown-item" href="#">Professional Licensee</a></li>
                                 <li><a class="dropdown-item" href="#">Commercial License</a></li>
                                 <li><a class="dropdown-item" href="#">Industrial License</a></li>
                             </ul>
                         </li>
                         <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#"
-                                role="button">Offshore Company
+                                role="button">Other Services
                                 <span class="moicon"><i class="fa-solid fa-caret-down"></i></span></a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="UAE-FreeZone">UAE Free Zone </a></li>
-                                <li><a class="dropdown-item" href="UAE-Offshore">UAE Offshore </a></li>
-                                <li><a class="dropdown-item" href="Dubai-Offshore">Dubai Offshore </a></li>
-                                <li><a class="dropdown-item" href="IFZA-Offshore">IFZA Offshore</a></li>
-                                <li><a class="dropdown-item" href="JebelAli-Offshore">Jebel Ali Offshore</a></li>
-                                <li><a class="dropdown-item" href="Ras-AI-Khaimah-Offshore">Ras AI Khaimah
-                                        Offshore</a></li>
-                                <li><a class="dropdown-item" href="Ajman-Offshore">Ajman Offshore</a></li>
+                            <li><a class="dropdown-item" href="bank-account-opening-dubai">Bank Account Opening</a></li>
+                        <li><a class="dropdown-item" href="VAT-registration">VAT registration</a></li>
+                        <li><a class="dropdown-item" href="trademark-registration">Trademark Registration</a></li>
+                        <li><a class="dropdown-item" href="/local-sponsorship">Local Sponshorship</a></li>
+                       
+                        <li><a class="dropdown-item" href="Bank-Gurantee">Bank Guarantee</a></li>
+                        <li><a class="dropdown-item" href="auditing-services-dubai">Auditing services</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -138,10 +142,11 @@
 
                 <!-- Visa Dropdown -->
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle  rounded-xl" href="#" role="button" data-bs-toggle="dropdown"
+                    <!-- <a  href="visa" class="nav-link dropdown-toggle  rounded-xl"  role="button" data-bs-toggle="dropdown"
                         aria-expanded="false">
                         VISA
-                    </a>
+                    </a> -->
+                    <a href="visa" class="nav-link dropdown-toggle  rounded-xl">VISA</a>
                     <!-- <ul class="dropdown-menu border">
                         <li><a class="dropdown-item" href="#">Tourist Visa</a></li>
                         <li><a class="dropdown-item" href="#">Business Visa</a></li>
@@ -151,13 +156,13 @@
 
                 <!-- Other Services -->
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle  rounded-xl" href="#" role="button" data-bs-toggle="dropdown"
-                        aria-expanded="false">OTHER SERVICES
-                        <span class="dropdown-icon"><i class="fa-solid fa-caret-down"></i></span>
+                    <a href="contacts" class="nav-link dropdown-toggle  rounded-xl"  role="button"  style="background-color: #ff8202; color: #ffffff ! important;"
+                       >FREE CONSULTATION 
+                        <!-- <span class="dropdown-icon"><i class="fa-solid fa-caret-down"></i></span> -->
                     </a>
                         
 
-                    <ul class="dropdown-menu border">
+                    <!-- <ul class="dropdown-menu border">
                         <li><a class="dropdown-item" href="bank-account-opening-dubai">Bank Account Opening</a></li>
                         <li><a class="dropdown-item" href="VAT-registration">VAT registration</a></li>
                         <li><a class="dropdown-item" href="trademark-registration">Trademark Registration</a></li>
@@ -165,11 +170,11 @@
                         <li><a class="dropdown-item" href="Business-Activities">Business Activities</a></li>
                         <li><a class="dropdown-item" href="Bank-Guarantee">Bank Guarantee</a></li>
                         <li><a class="dropdown-item" href="auditing-services-dubai">Auditing services</a></li>
-                    </ul>
+                    </ul> -->
                 </li>
 
             </ul>
-            @if (Route::has('login'))
+            <!-- @if (Route::has('login'))
                 <nav class="-mx-3 flex flex-1 justify-end">
                     @auth
                         <a href="{{ url('/home') }}" class="">
@@ -181,7 +186,7 @@
                         </a>
                     @endauth
                 </nav>
-            @endif
+            @endif -->
         </div>
     </div>
 </nav>
