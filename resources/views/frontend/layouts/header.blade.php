@@ -107,7 +107,7 @@
                                 role="button">License
                                 <span class="moicon"><i class="fa-solid fa-caret-down"></i></span></a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="Business-Licenses">Business Licenses</a></li>
+                                <li><a class="dropdown-item" href="Business-Licenses">Business Licensess</a></li>
                                 <li><a class="dropdown-item" href="Commercial-trade-license">Commercial Trade License</a></li>
                                 <li><a class="dropdown-item" href="Industrial-license">Industrial License</a></li>
                                 <li><a class="dropdown-item" href="professional-trade-license">Professional Trade License</a></li>
