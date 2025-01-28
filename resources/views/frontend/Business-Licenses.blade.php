@@ -7,7 +7,7 @@
             <div class="page-heading">
                 <h2 class="wow fadeInUp text-white text-start" data-wow-delay=".3s">
 
-                    Business Trade License in Dubai
+                   What Business  License in Dubai
                 </h2>
                 <h6 class="wow fadeInUp text-white text-start pt-4" data-wow-delay=".3s">
                     Dubai Business Trade Licenses Made Easy - Partner with Shuraa!

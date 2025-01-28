@@ -1,112 +1,41 @@
 @extends('frontend.layouts.app')
 @section('content')
 
-<style>
-     .custom-heading {
-            color: #ff8202;
-            margin-bottom: 1.5rem;
-            font-weight: bold;
-        }   
-        .text-content {
-            color: #333333;
-        }
-        .text-muted {
-            color: #666666 !important;
-        }
-        a {
-            color: #0056b3;
-            text-decoration: none;
-        }
-        a:hover {
-            color: #003366;
-            text-decoration: underline;
-        }
-        .process-card {
-            transition: transform 0.3s ease;
-            border-color: #ff8202;
-        }
-        .process-card:hover {
-            transform: translateY(-5px);
-        }
-        .card-title {
-            color: #ff8202 !important;
-        }
-        .alert-custom {
-            background-color: #fff3e6;
-            border-color: #ff8202;
-            color: #333333;
-        }
-    </style>
 
-<style>
-        :root {
-            --primary-orange: #ff8202;
-            --dark-text: #333333;
-            --light-gray: #f8f9fa;
-        }        
-        .custom-heading {
-            color: var(--primary-orange);
-            font-weight: 700;
-            position: relative;
-            padding-bottom: 10px;
-        }
-        
-        .custom-heading::after {
-            content: '';
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            width: 60px;
-            height: 3px;
-            background-color: var(--primary-orange);
-        }
-        
-        .feature-card {
-            border: none;
-            border-radius: 15px;
-            transition: transform 0.3s ease;
-            background: var(--light-gray);
-        }
-        
-        .feature-card:hover {
-            transform: translateY(-5px);
-        }
-        
-        .step-number {
-            background: var(--primary-orange);
-            color: white;
-            width: 40px;
-            height: 40px;
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-weight: bold;
-            margin-bottom: 1rem;
-        }
-        
-        .info-box {
-            background: rgba(255, 130, 2, 0.1);
-            border-left: 4px solid var(--primary-orange);
-            padding: 20px;
-            border-radius: 0 10px 10px 0;
-            margin: 20px 0;
-        }
-        
-        .nav-pills .nav-link.active {
-            background-color: var(--primary-orange);
-        }
-        
-        .nav-pills .nav-link {
-            color: var(--dark-text);
-        }
-    </style>
+<div class="breadcrumb-wrapper bg-cover" style="background-image: url('frontend/assets/img/service/UAE-Mainland.jpg');">
+
+    <div class="container">
+        <div class="col-lg-6">
+            <div class="page-heading">
+                <h2 class="wow fadeInUp text-white text-start" data-wow-delay=".3s">
+
+                   What Industrial  License in Dubai
+                </h2>
+                <h6 class="wow fadeInUp text-white text-start pt-4" data-wow-delay=".3s">
+                    Dubai Industrial Trade Licenses Made Easy - Partner with Shuraa!
+                </h6>
+
+                <div class="pt-3 text-start">
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
+                        class="theme-btn hover-black" style="background-color:white;">
+                        Explore More
+                        <i class="fa-solid fa-arrow-right-long"></i>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
 
 <div class="container py-5 mt-4">
         <!-- Hero Section -->
         <div class="row mb-5">
             <div class="col-lg-8 mx-auto text-center">
-                <h1 class="display-4 mb-4 custom-heading">What Is An Industrial License In Dubai?</h1>
+                <h1 class="display-4 mb-4 custom-heading-license">What Is An Industrial License In Dubai?</h1>
                 <div class="info-box text-start mb-5">
                     <p class="lead mb-0">
                         Dubai Industrial Trade License is issued to organizations that convert natural resources or alter raw materials into manufactured products.
@@ -135,7 +64,7 @@
                         <h3 class="h4 mb-0">Requirements</h3>
                     </div>
                     <p class="text-muted">
-                        If you need to know more about obtaining an industrial license in the UAE call Shuraa Business Setup.
+                        If you need to know more about obtaining an industrial license in the UAE call Shuraa Industrial Setup.
                     </p>
                 </div>
             </div>
@@ -144,7 +73,7 @@
         <!-- Process Section -->
         <div class="row mb-5">
             <div class="col-12">
-                <h2 class="custom-heading mb-5">HOW TO GET AN INDUSTRIAL LICENSE IN DUBAI?</h2>
+                <h2 class="custom-heading-license mb-5">HOW TO GET AN INDUSTRIAL LICENSE IN DUBAI?</h2>
                 <div class="row g-4">
                     <div class="col-md-6">
                         <div class="card border-0 shadow-sm h-100">
@@ -340,14 +269,11 @@
 
 
 
-
-
-
 <div class="container py-5">
         <!-- Hero Section -->
         <div class="row mb-5">
             <div class="col-12">
-                <h1 class="custom-heading display-4">Cost Of Industrial-license In Dubai</h1>
+                <h1 class="custom-heading-license display-4">Cost Of Industrial-license In Dubai</h1>
                 <div class="card shadow-sm">
                     <div class="card-body text-content">
                         <p class="lead mb-4">In Dubai, the fees for obtaining a Industrial-license vary depending on the specific business activity and individual requirements. We can provide an overview of the general charges to help you understand the total cost.</p>
@@ -363,7 +289,7 @@
         <!-- Renewal Process Section -->
         <div class="row mb-5">
             <div class="col-12">
-                <h2 class="custom-heading">How To Renew Your Dubai Industrial Trade License</h2>
+                <h2 class="custom-heading-license">How To Renew Your Dubai Industrial Trade License</h2>
                 <div class="row g-4">
                     <div class="col-md-4">
                         <div class="card h-100 process-card shadow-sm">
@@ -400,7 +326,7 @@
         <!-- Services Section -->
         <div class="row">
             <div class="col-12">
-                <h2 class="custom-heading">Get Your Industrial-license In Dubai With Ease</h2>
+                <h2 class="custom-heading-license">Get Your Industrial-license In Dubai With Ease</h2>
                 <div class="card shadow-sm">
                     <div class="card-body text-content">
                         <p class="mb-4">If you're <a href="#">planning to start a business in the UAE</a>, you can rely on Shuraa for assistance.</p>
