@@ -6,7 +6,7 @@
         <div class="col-lg-6">
             <div class="page-heading">
                 <h2 class="wow fadeInUp text-white text-start" data-wow-delay=".3s">
-                Find a Local Sponsor in the UAE
+                Find a Local Sponsor in the UAEE
                 </h2>
                 <h6 class="wow fadeInUp text-white text-start pt-4" data-wow-delay=".3s">
                 Our corporate nominee sponsorship programme allows you to have 100% beneficial ownership and 100% operational and financial control.                </h6>
