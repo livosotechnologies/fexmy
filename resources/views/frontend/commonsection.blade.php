@@ -9,7 +9,7 @@
             </h6>
             <div class="about-button wow fadeInUp mt-3" data-wow-delay=".8s">
                                     <a href="/contacts" class="bookbtn1 theme-btn hover-black">
-                                        contacts us
+                                        contact us
                                         <i class="fa-solid fa-arrow-right-long"></i>
                                     </a>
                                 </div>
