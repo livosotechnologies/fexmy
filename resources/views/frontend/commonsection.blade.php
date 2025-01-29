@@ -220,7 +220,7 @@
                     <div class="section-title mxw-560 z-5">
 
                         <h2 class="title text-white wow fadeInUp" data-wow-delay=".6s">Our Services <br>
-                           Our Services
+                          
                         </h2>
                     </div>
                 </div>
@@ -242,9 +242,9 @@
                                     <div class="project-content style3">
                                         
                                         <h4>
-                                            <a href="project-details.html">Company Registration</a>
+                                            <a href="UAE-Mainland">Company Registration</a>
                                         </h4>
-                                        <a href="project-details.html" class="arrow-icon-2">
+                                        <a href="UAE-Mainland" class="arrow-icon-2">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                     </div>
@@ -258,9 +258,9 @@
                                     <div class="project-content style3">
                                        
                                         <h4>
-                                            <a href="project-details.html">TradeMark Registration</a>
+                                            <a href="trademark-registration">TradeMark Registration</a>
                                         </h4>
-                                        <a href="project-details.html" class="arrow-icon-2">
+                                        <a href="trademark-registration" class="arrow-icon-2">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                     </div>
@@ -274,9 +274,9 @@
                                     <div class="project-content style3">
                                       
                                         <h4>
-                                            <a href="project-details.html">Family Visa</a>
+                                            <a href="visa">Family Visa</a>
                                         </h4>
-                                        <a href="project-details.html" class="arrow-icon-2">
+                                        <a href="visa" class="arrow-icon-2">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                     </div>
@@ -290,9 +290,9 @@
                                     <div class="project-content style3">
                                        
                                         <h4>
-                                            <a href="project-details.html">Office Space</a>
+                                            <a href="office-space">Office Space</a>
                                         </h4>
-                                        <a href="project-details.html" class="arrow-icon-2">
+                                        <a href="office-space" class="arrow-icon-2">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                     </div>
@@ -306,9 +306,9 @@
                                     <div class="project-content style3">
                                        
                                         <h4>
-                                            <a href="project-details.html">Trade License</a>
+                                            <a href="Commercial-trade-license">Trade License</a>
                                         </h4>
-                                        <a href="project-details.html" class="arrow-icon-2">
+                                        <a href="Commercial-trade-license" class="arrow-icon-2">
                                             <i class="fa-solid fa-arrow-right"></i>
                                         </a>
                                     </div>

@@ -65,7 +65,7 @@
                         </li>
                     </ul>
                     <div class="pt-3">
-                        <a href="/about" data-animation="slideInRight" data-duration="2s"
+                        <a href="contacts" data-animation="slideInRight" data-duration="2s"
                             data-delay=".9s" class="theme-btn  bookbtn1 hover-black" style="background-color:white;">
                             Explore More
                             <i class="fa-solid fa-arrow-right-long"></i>
@@ -197,9 +197,9 @@
                     Our company formation consultants in Abu Dhabi help you choose the most suitable legal structure for your business, whether it’s a Limited Liability Company (LLC), Sole Proprietorship, joint ventures, public shareholding company, or others.
                 </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
                         data-delay=".9s" class="theme-btn bookbtn hover-black">
-                        Explore More
+                        Get a Free Consultation
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>
@@ -216,9 +216,9 @@
                 <p class="mt-4">
                     We assist you in securing your business name and obtaining the necessary initial approvals from government authorities. </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
                         data-delay=".9s" class="theme-btn bookbtn hover-black">
-                        Explore More
+                        Get a Free Consultation
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>
@@ -235,9 +235,9 @@
                 <p class="mt-4">
                     Our team handles the complex process of obtaining the Abu Dhabi mainland license and permits for your specific business activity. </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
                         data-delay=".9s" class="theme-btn bookbtn hover-black">
-                        Explore More
+                        Get a Free Consultation
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>
@@ -254,9 +254,9 @@
                 <p class="mt-4">
                     We ensure all legal documents and contracts are professionally drafted and comply with the AbuDhabi’s regulatory requirements. </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
                         data-delay=".9s" class="theme-btn bookbtn hover-black">
-                        Explore More
+                        Get a Free Consultation
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>
@@ -273,9 +273,9 @@
                 <p class="mt-4">
                     Our experts guide you through the process of opening a corporate bank account to facilitate your financial transactions. </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
                         data-delay=".9s" class="theme-btn bookbtn hover-black">
-                        Explore More
+                        Get a Free Consultation
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>
@@ -293,9 +293,9 @@
                     We offer a variety of office space solutions to cater to your business needs, complete with tenancy contract support.
                 </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
                         data-delay=".9s" class="theme-btn bookbtn hover-black">
-                        Explore More
+                        Get a Free Consultation
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>
@@ -313,9 +313,9 @@
                     Our PRO executives take care of visa processing and immigration procedures for you and your employees, making the relocation process seamless.
                 </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
                         data-delay=".9s" class="theme-btn bookbtn hover-black">
-                        Explore More
+                        Get a Free Consultation
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>

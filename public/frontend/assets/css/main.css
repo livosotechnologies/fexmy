@@ -15054,3 +15054,32 @@ li{
 .nav-pills .nav-link {
   color: var(--dark-text);
 }
+/* footer css */
+
+.footersub-menu {
+  padding-left: 50px;
+  color: white !important;
+  transition: all 0.9s ease; 
+}
+@media (min-width: 768px) {
+  .footermenu-item:hover .footersub-menu {
+      display: block;
+  }
+
+  .footersub-menu {
+      display: none;
+      opacity: 0; 
+  }
+
+  .footermenu-item:hover .footersub-menu {
+      opacity: 1; 
+  }
+}
+
+.footersub-menu li {
+  color: white !important;  /* Ensure subpoints are also white */
+  padding-left: 20px;  /* You can adjust this for better indentation */
+}
+.logocls{
+  width:160px;
+}

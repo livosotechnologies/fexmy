@@ -1,8 +1,8 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
     <div class="container">
         <!-- Logo -->
-        <a class="navbar-brand" href="#">
-            Logo
+        <a class="navbar-brand" href="/">
+            <img src="{{asset('frontend/assets/img/service/logo.png')}}" class="logocls" >
         </a>
 
         <!-- Hamburger Button -->
@@ -111,8 +111,8 @@
                             </ul>
 
                         </li>
-                        <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#" role="button">PRO
-                                Pro Services
+                        <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#" role="button">Pro
+                                Services
                                 <span class="moicon"><i class="fa-solid fa-caret-down"></i></span></a>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="pro-services-dubai">Pro-Services Abu Dhabi</a></li>

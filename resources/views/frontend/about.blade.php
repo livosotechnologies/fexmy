@@ -126,7 +126,7 @@
                 <div class="mt-4">
                     <a href="/contacts" data-animation="slideInRight" data-duration="2s"
                         data-delay=".9s" class="theme-btn bookbtn1 hover-black" >
-                        Explore More
+                        Contact Us
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>
@@ -157,7 +157,7 @@
         <div class="col-lg-6  pt-5">
             <h1><b>Get everything you need!</h1>
             <p class="mt-3">
-                Shuraa Business Setup offers a comprehensive range of services curated for
+                FexMy Business Setup offers a comprehensive range of services curated for
                 your business specific needs.
             </p>
         </div>
@@ -262,7 +262,7 @@
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 text-center">
-                 <img src="https://www.shuraa.com/wp-content/uploads/2023/07/Refer-and-Earn.webp" class="img-fluid">
+                 <img src="https://www.fexmy.com/wp-content/uploads/2023/07/Refer-and-Earn.webp" class="img-fluid">
             </div>
         </div>
     </div>

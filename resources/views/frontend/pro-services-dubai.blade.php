@@ -131,7 +131,7 @@
 
                                 </ul>
 
-                                <p>Every stage of your business establishment journey will be assisted by Shuraa Business Setup. Their professionals provide one-on-one mentorship and advice on how to successfully navigate legal proceedings and expand your business. </p>
+                                <p>Every stage of your business establishment journey will be assisted by FexMy Business Setup. Their professionals provide one-on-one mentorship and advice on how to successfully navigate legal proceedings and expand your business. </p>
 
 
                                 <div class="pt-3">
@@ -191,7 +191,7 @@
 
                         <p>
                             Providing a single point of contact and delivering organised and planned PRO Support for your staff, families, and dependents as well
-                            as all licencing and regulatory government liaison requirements, Shuraa can provide Outsourced PRO Services and act as the Outsourced
+                            as all licencing and regulatory government liaison requirements, FexMy can provide Outsourced PRO Services and act as the Outsourced
                             PRO for your Company or Branch.
                         </p>
 

@@ -125,7 +125,7 @@
                     <div class="pt-3">
                         <a href="/contacts" data-animation="slideInRight" data-duration="2s"
                             data-delay=".9s" class="theme-btn bookbtn1 hover-black" style="background-color:white;">
-                            Explore More
+                            Contact Us
                             <i class="fa-solid fa-arrow-right-long"></i>
                         </a>
                     </div>
@@ -142,10 +142,10 @@
                 <div class="sec-title">
                     <h2 class="title pb-22" style="color:#ff8202">
                         Dubai Bank Account Opening
-                        Assistance with Shuraa
+                        Assistance with FexMy
                     </h2>
                     <p class="pt-3 pb-3">
-                        Our Business Support Services include Dubai bank account opening. Shuraa partners with major UAE banks. Our client service was excellent. Thus, we arrange a client-banker encounter. The banker will clarify bank requirements after reviewing the client profile. To give our clients the greatest experience.
+                        Our Business Support Services include Dubai bank account opening. FexMy partners with major UAE banks. Our client service was excellent. Thus, we arrange a client-banker encounter. The banker will clarify bank requirements after reviewing the client profile. To give our clients the greatest experience.
                     </p>
                     <p class="pb-2">
                         We help our client open a Dubai bank account. We have a local banking network. We scheduled a client meeting with UAE banks. Our bank account opening is free. We help only clients who set up a Dubai Mainland corporation with us. Complete banking procedure will follow their instructions. We ensure each client has a positive bank experience. Sometimes we function as a middleman to follow up with the bank.

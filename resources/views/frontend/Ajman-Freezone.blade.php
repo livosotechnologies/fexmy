@@ -69,7 +69,7 @@
                 <p class="mt-3 text-white">
                 Ajman also has minimal start-up expenses, a welcoming business environment, and abundant of cheap workers.                 </p>
                 <div class="pt-3">
-                        <a href="/about" data-animation="slideInRight" data-duration="2s"
+                        <a href="contacts" data-animation="slideInRight" data-duration="2s"
                             data-delay=".9s" class="theme-btn bookbtn1 hover-black" style="background-color:white;">
                             Explore More
                             <i class="fa-solid fa-arrow-right-long"></i>
@@ -94,7 +94,7 @@
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-12">
                     <div class="pt-3">
-                        <a href="/about" data-animation="slideInRight" data-duration="2s"
+                        <a href="contacts" data-animation="slideInRight" data-duration="2s"
                             data-delay=".9s" class="theme-btn bookbtn1 hover-black" style="background-color:white;">
                             Explore More
                             <i class="fa-solid fa-arrow-right-long"></i>
@@ -119,9 +119,9 @@
                 </p>
 
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
                         data-delay=".9s" class="theme-btn bookbtn1 hover-black" style="background-color:white;">
-                        Explore More
+                        Contact Us
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>
@@ -227,9 +227,9 @@
                     A document provided by free zone authorities that is ideal for dealing and selling products. This group includes activities including logistics, automobile rentals, and real estate services.
                 </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
                         data-delay=".9s" class="theme-btn bookbtn hover-black">
-                        Explore More
+                        Get a Free Consultation
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>
@@ -248,9 +248,9 @@
                     For manufacturing and industrial companies with a local office. It involves making furniture, packing, metal casing, and food products.
                 </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
                         data-delay=".9s" class="theme-btn bookbtn hover-black">
-                        Explore More
+                        Get a Free Consultation
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>
@@ -269,9 +269,9 @@
                     Service providers, professionals, artists, and craftspeople require a professional licence. includes services such as law companies, management consulting, auditing, accounting, education, and medical care.
                 </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
                         data-delay=".9s" class="theme-btn bookbtn hover-black">
-                        Explore More
+                        Get a Free Consultation
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>

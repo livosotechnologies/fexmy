@@ -41,13 +41,13 @@
                     Opening a bank account in Dubai for non-residents is also not a difficult task. If you are not a resident of UAE, you can open a personal bank account in UAE with specific limitations on the choice of banks and the features they offer. However, this limitation is not a major concern as many prominent banks in UAE offer non-resident bank accounts. Most banks in the UAE permit non-residents to open savings bank accounts only. Kiltons consultants provide bank account opening services in UAE making it easier for people to open bank accounts in Dubai and other Emirates.
                     </p>
                     <p class="pb-2">
-                        <!-- With a wealth of experience and a passion for growth, Shuraa Business Setup is your one-stop
+                        <!-- With a wealth of experience and a passion for growth, FexMy Business Setup is your one-stop
                         solution for setting up and flourishing business in Dubai.
                     </p>
                     <p class="pb-2">
                         We advise on the right kind of license for your business, help you acquire the license and give
                         reminders for renewal of license. In the unfortunate case, where you need to get your trade
-                        license cancelled Shuraa Business Setup expedites the process minimizing your fines and costs.
+                        license cancelled FexMy Business Setup expedites the process minimizing your fines and costs.
                     </p> -->
 
 

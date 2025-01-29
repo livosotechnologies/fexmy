@@ -36,9 +36,9 @@
                         a booming economy, and extensive global connectivity. The UAE is a top choice for investors seeking a second home and a successful business.
                         To simplify business operations and reduce administrative costs, turning to a trusted PRO Services provider is the answer. </p>
 
-                    <p class="service_text">Shuraa Business Setup offers unparalleled PRO Services in the UAE at competitive rates. Our experienced agents handle
+                    <p class="service_text">FexMy Business Setup offers unparalleled PRO Services in the UAE at competitive rates. Our experienced agents handle
                         all documentation, approvals, and formalities, ensuring your business runs easily </p>
-                    <p class="service_text">Outsourcing administrative tasks to a PRO Services agency saves time and money. Let Shuraa Business Setup manage your
+                    <p class="service_text">Outsourcing administrative tasks to a PRO Services agency saves time and money. Let FexMy Business Setup manage your
                         company’s PRO work while you focus on core business activities. </p>
                 </div>
             </div>

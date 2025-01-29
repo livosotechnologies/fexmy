@@ -90,9 +90,9 @@
                     Dubai offers opportunities to financial experts looking for a platform to expand their firm. You might use Mainland business creation to incorporate your branch office if you’re looking for a platform to expand. to learn more about the consolidation of branch offices.
                 </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
                         data-delay=".9s" class="theme-btn bookbtn hover-black">
-                        Explore More
+                        Get a Free Consultation
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>
@@ -109,9 +109,9 @@
                 <p class="mt-4">
                     Additionally referred to as common organisations, they are committed to a certain vocation to carry out the professional practise specific to their field. </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
                         data-delay=".9s" class="theme-btn bookbtn hover-black">
-                        Explore More
+                        Get a Free Consultation
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>
@@ -128,9 +128,9 @@
                 <p class="mt-4">
                     One of the most well-known forms of business entities is the limited liability company (LLC), which may be formed with the participation of at least two investors and up to a maximum of fifty. The percentage of individual shares determines how much responsibility each accomplice must take. </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
                         data-delay=".9s" class="theme-btn bookbtn hover-black">
-                        Explore More
+                        Get a Free Consultation
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>
@@ -147,9 +147,9 @@
                 <p class="mt-4">
                     The UAE allows financial experts from outside to establish a delegate office without the presence of an investor. A delegate office refrains from corporate operating activities and is more inclined to do research and develop promotional activities. </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
                         data-delay=".9s" class="theme-btn bookbtn hover-black">
-                        Explore More
+                        Get a Free Consultation
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>

@@ -161,9 +161,9 @@
                 </p>
                
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
                         data-delay=".9s" class="theme-btn bookbtn1 hover-black" style="background-color:white;">
-                        Explore More
+                        Contact Us
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>
@@ -285,10 +285,10 @@
 <div class="">
     <div class="container card prcard p-lg-5 mb-5" style="background-color:iceblue;">
         <h2 class="pb-5">
-        How Shuraa Business Setup Helps You
+        How FexMy Business Setup Helps You
         </h2>
         <p class="mt-3">
-             With Shuraa Business Setup, you’ll have a trusted partner and a skilled team of experts to navigate the complexities of offshore company formation in Dubai. We’ll assist you through each step, ensuring a stress-free and successful journey:
+             With FexMy Business Setup, you’ll have a trusted partner and a skilled team of experts to navigate the complexities of offshore company formation in Dubai. We’ll assist you through each step, ensuring a stress-free and successful journey:
         </p>
         <div class="row mt-4" style="display:flex;justify-content:center;">
 

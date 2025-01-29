@@ -101,9 +101,9 @@
                     For manufacturing, processing, packaging, assembling, and fabrication businesses.
                 </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
                         data-delay=".9s" class="theme-btn bookbtn hover-black">
-                        Explore More
+                        Get a Free Consultation
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>
@@ -121,9 +121,9 @@
                     For trading companies involved in import, export, and e-commerce.
                 </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
                         data-delay=".9s" class="theme-btn bookbtn hover-black">
-                        Explore More
+                        Get a Free Consultation
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>
@@ -141,9 +141,9 @@
                     For individual entrepreneurs offering professional services like consultancy, event management, and investment services.
                 </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
                         data-delay=".9s" class="theme-btn bookbtn hover-black">
-                        Explore More
+                        Get a Free Consultation
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>

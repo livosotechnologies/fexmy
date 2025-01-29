@@ -27,7 +27,7 @@
                 @foreach($banner as $banner)
                 <div class="swiper-slide">
                     <div class="slider-image bg-cover" style="background-image: url('{{ asset('storage/' . $banner->image) }}')">
-                        <div class="mask-shape" data-animation="slideInDown" data-duration="3s" data-delay="2s">
+                        <!-- <div class="mask-shape" data-animation="slideInDown" data-duration="3s" data-delay="2s">
                             <img src="{{asset('frontend/assets/img/hero/mask-shape-2.png')}}" alt="shape-img">
                         </div>
                         <div class="border-shape" data-animation="slideInRight" data-duration="3s" data-delay="2.2s">
@@ -38,7 +38,7 @@
                         </div>
                         <div class="frame" data-animation="slideInLeft" data-duration="3s" data-delay="2.2s">
                             <img src="{{asset('frontend/assets/img/frame.png')}}" alt="shape-img">
-                        </div>
+                        </div> -->
                     </div>
                     <div class="container">
                         <div class="row g-4 align-items-center">
@@ -207,80 +207,7 @@
     </div> -->
 
     <!-- Service Section Start -->
-    <section class="service-section-3 pb-0 fix section-padding bg-cover"
-        style="background-image: url('assets/img/service/service-bg-3.jpg');">
-        <div class="container">
-            <div class="row d-flex align-items-end justify-content-between mb-20">
-                <div class="col-xl-7">
-                    <div class="section-title mxw-650">
-                        <div class="subtitle"> <img src="{{asset('frontend/assets/img/icon/arrowLeft.svg')}}" alt="icon"> <span> What We Do
-                            </span><img src="{{asset('frontend/assets/img/icon/arrowRight.svg')}}" alt="icon"></div>
-                        <h2 class="title"> We Solve IT Problems With Technology</h2>
-                    </div>
-                </div>
 
-                <div class="col-xl-5 d-flex align-items-end justify-content-end">
-                    <div class="btn-wrapper" data-wow-delay=".9s">
-                        <a href="/services" class="theme-btn"> See all Services <i
-                                class="fa-solid fa-arrow-right-long"></i> </a>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                @foreach($service as $service)
-                <div class="col-xl-3 col-lg-4 col-md-6">
-                    <div class="service-card-items">
-                        <div class="service-image">
-                            <img src="{{ asset('storage/' . $service->image) }}" alt="service-img">
-                        </div>
-                        <!-- <div class="icon-2">
-                            <img src="{{asset('frontend/assets/img/service/icon/s-icon-1.svg')}}" alt="img">
-                        </div> -->
-                        <div class="service-content">
-                            <!-- <div class="icon">
-                                <img src="{{asset('frontend/assets/img/service/icon/s-icon-1.svg')}}" alt="img">
-                            </div> -->
-                            <h4>
-                                <a href="service-details.html">{{ $service->service_name }}</a>
-                            </h4>
-                            <p>
-                            {!! Str::limit($service->servce_detail,80) !!}
-                            </p>
-                            <a href="service-details.html" class="theme-btn-2 mt-3">
-                                read More
-                                <i class="fa-solid fa-arrow-right-long"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                @endforeach
-            </div>
-        </div>
-        <div class="cta-banner-2 section-padding">
-            <div class="container">
-                <div class="cta-wrapper-2 border-radius">
-                    <h3>
-                        Stay Connected With <br> Cutting Edge IT
-                    </h3>
-                    <div class="author-icon">
-                        <div class="icon">
-                            <i class="fa-solid fa-phone"></i>
-                        </div>
-                        <div class="content">
-                            <span>Call Us Now</span>
-                            <h4>
-                                <a href="tel:+2085550112">+208-555-0112</a>
-                            </h4>
-                        </div>
-                    </div>
-                    <a href="/contact" class="theme-btn bg-white">
-                        get A Quote
-                        <i class="fa-solid fa-arrow-right-long"></i>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <!-- Work Process Section Start -->
     <section class="work-process-section fix section-padding pt-0">

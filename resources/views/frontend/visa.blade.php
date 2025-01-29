@@ -50,7 +50,7 @@
                                     <div class="content">
                                         <p>Call Us 7/24</p>
                                         <h3>
-                                            <a href="tel:+2085550112">+208-555-0112</a>
+                                            <a href="tel:+2085550112">(+971) 58-513-8971</a>
                                         </h3>
                                     </div>
                                 </div>
@@ -72,7 +72,7 @@
                                     <div class="content">
                                         <p>Make a Quote</p>
                                         <h3>
-                                            <a href="mailto:infotech@gmail.com">Infotech@gmail.com</a>
+                                            <a href="mailto:info@Fexmy.co">info@Fexmy.co</a>
                                         </h3>
                                     </div>
                                 </div>
@@ -91,7 +91,7 @@
                                     <div class="content">
                                         <p>Location</p>
                                         <h3>
-                                            Near Otv Office, Patia
+                                            Dubai
                                         </h3>
                                     </div>
                                 </div>
@@ -110,10 +110,7 @@
                     <div class="col-lg-6">
                         <div class="contact-content">
                             <h2>Ready to Get Started?</h2>
-                            <p>
-                                Nullam varius, erat quis iaculis dictum, eros urna varius eros, ut blandit felis odio in
-                                turpis. Quisque rhoncus, eros in auctor ultrices,
-                            </p>
+                           
                             @include('frontend/commonform')
                         </div>
                     </div>

@@ -126,7 +126,7 @@
                     <div class="pt-3">
                         <a href="/contacts" data-animation="slideInRight" data-duration="2s"
                             data-delay=".9s" class="theme-btn bookbtn1 hover-black" style="background-color:white;">
-                            Explore More
+                             Contact Us
                             <i class="fa-solid fa-arrow-right-long"></i>
                         </a>
                     </div>

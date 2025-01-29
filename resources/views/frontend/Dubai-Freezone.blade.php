@@ -125,7 +125,7 @@
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-12" >
                 <div class="pt-3">
-                        <a href="/about" data-animation="slideInRight" data-duration="2s"
+                        <a href="contacts" data-animation="slideInRight" data-duration="2s"
                             data-delay=".9s" class="theme-btn bookbtn1 hover-black" style="background-color:white;">
                             Explore More
                             <i class="fa-solid fa-arrow-right-long"></i>
@@ -151,9 +151,9 @@
                 We walk alongside you throughout the entire process, offering our support & assistance at every turn. When you partner with FexMy, you gain more than just a service provider – you gain a strategic ally that is genuinely invested in your success.
                 </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s"
+                    <a href="contacts" data-animation="slideInRight" data-duration="2s"
                         data-delay=".9s" class="theme-btn bookbtn hover-black">
-                        Explore More
+                        Contact Us
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>
