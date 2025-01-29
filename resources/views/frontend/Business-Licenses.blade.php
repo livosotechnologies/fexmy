@@ -10,7 +10,7 @@
                    What Business  License in Dubai
                 </h2>
                 <h6 class="wow fadeInUp text-white text-start pt-4" data-wow-delay=".3s">
-                    Dubai Business Trade Licenses Made Easy - Partner with Shuraa!
+                    Dubai Business Trade Licenses Made Easy - Partner with FexMy!
                 </h6>
 
                 <div class="pt-3 text-start">
@@ -44,13 +44,13 @@
                         can be confusing and expensivee.
                     </p>
                     <p class="pb-2">
-                        With a wealth of experience and a passion for growth, Shuraa Business Setup is your one-stop
+                        With a wealth of experience and a passion for growth, FexMy Business Setup is your one-stop
                         solution for setting up and flourishing business in Dubai.
                     </p>
                     <p class="pb-2">
                         We advise on the right kind of license for your business, help you acquire the license and give
                         reminders for renewal of license. In the unfortunate case, where you need to get your trade
-                        license cancelled Shuraa Business Setup expedites the process minimizing your fines and costs.
+                        license cancelled FexMy Business Setup expedites the process minimizing your fines and costs.
                     </p>
 
 
@@ -158,9 +158,9 @@
                     ally that is genuinely invested in your success.
                 </p> -->
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
+                    <a href="/contacts" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
                         class="theme-btn hover-black" style="background-color:white;">
-                        Explore More
+                        Contact Us
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>
@@ -241,7 +241,7 @@
 
                         </h3>
                         <p class="mt-3 text-white">
-                            Establish the number of people your company will require and make plans for their hiring.
+                            Establish the numberr of people your company will require and make plans for their hiring.
                         </p>
                     </div>
                 </div>
@@ -328,9 +328,9 @@
                     products, rental services, brokerage firms, logistics firms, real estate, etc.
                 </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
+                    <a href="/contacts" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
                         class="theme-btn bookbtn hover-black">
-                        BOOK A FREE CONSULTATION
+                        Get A Free Consultation
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>
@@ -352,9 +352,9 @@
                     process. Professional licenses can undertake business activities such as management consultancies,
                     law firms, marketing & designing, auditing & accounting companies, etc.
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
+                    <a href="/contacts" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
                         class="theme-btn bookbtn hover-black">
-                        BOOK A FREE CONSULTATION
+                        Get A Free Consultation
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>
@@ -371,14 +371,14 @@
                 </h4>
                 <p class="mt-4">
                     Industrial Trade License in Dubai and across the UAE is issued to businesses involved in industrial
-                    and manufacturing activities. You need to have a physical office inside the country for this
+                    and manufacturing activitie. You need to have a physical office inside the country for this
                     license. Some of the notable activities are manufacturing any kind of products, casing products,
                     furnishing products and packaging products.
                 </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
+                    <a href="/contacts" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
                         class="theme-btn bookbtn hover-black">
-                        BOOK A FREE CONSULTATION
+                        Get A Free Consultation
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>

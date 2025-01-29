@@ -1,6 +1,5 @@
 @extends('frontend.layouts.app')
 @section('content')
-
 <div class="breadcrumb-wrapper bg-cover" style="background-image: url('frontend/assets/img/service/UAE-Mainland.jpg');">
 
     <div class="container">
@@ -8,15 +7,15 @@
             <div class="page-heading">
                 <h2 class="wow fadeInUp text-white text-start" data-wow-delay=".3s">
 
-                   What Professional  License in Dubai
+                   What professional  License in Dubai
                 </h2>
                 <h6 class="wow fadeInUp text-white text-start pt-4" data-wow-delay=".3s">
-                    Dubai Professional Trade Licenses Made Easy - Partner with Shuraa!
+                    Dubai Business Trade Licenses Made Easy - Partner with FexMy!
                 </h6>
 
                 <div class="pt-3 text-start">
                     <a href="contacts" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
-                        class="theme-btn hover-black" style="background-color:white;">
+                        class="theme-btn bookbtn hover-white" >
                         Explore More
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
@@ -26,9 +25,6 @@
         </div>
     </div>
 </div>
-
-
-
 
 <div class="container py-5 mt-4">
         <!-- Hero Section -->
@@ -63,7 +59,7 @@
                         <h3 class="h4 mb-0">Requirements</h3>
                     </div>
                     <p class="text-muted">
-                        If you need to know more about obtaining an Professional license in the UAE call Shuraa Professional Setup.
+                        If you need to know more about obtaining an Professional license in the UAE call FexMy Professional Setup.
                     </p>
                 </div>
             </div>
@@ -117,6 +113,9 @@
         </div>
     </div>
 
+
+
+    
 <div class="rs-about pt-100  md-pt-70 md-pb-70" style="background-color:#ff8202;">
     <div class="container custom pb-50">
         <div class="row">
@@ -266,11 +265,6 @@
 </div>
 
 
-
-
-
-
-
 <div class="container py-5">
         <!-- Hero Section -->
         <div class="row mb-5">
@@ -331,7 +325,7 @@
                 <h2 class="custom-heading-license-pl">Get Your Professional-license In Dubai With Ease</h2>
                 <div class="card shadow-sm">
                     <div class="card-body text-content">
-                        <p class="mb-4">If you're <a href="#">planning to start a business in the UAE</a>, you can rely on Shuraa for assistance.</p>
+                        <p class="mb-4">If you're <a href="#">planning to start a business in the UAE</a>, you can rely on FexMy for assistance.</p>
                         <div class="row g-4">
                             <div class="col-md-6">
                                 <div class="d-flex align-items-start">
@@ -362,4 +356,13 @@
         </div>
     </div>
 
+<!-- Contact Section Start -->
 
+
+<!--<< Map Section Start >>-->
+
+<!-- Services Section Start -->
+
+
+
+@endsection

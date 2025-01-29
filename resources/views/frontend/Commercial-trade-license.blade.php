@@ -9,7 +9,7 @@
                     Commercial Trade License in Dubai
                 </h2>
                 <h6 class="wow fadeInUp text-white text-start pt-4" data-wow-delay=".3s">
-                    Partner with Shuraa & Open a Door to Dubai's Thriving Business Environment.
+                    Partner with FexMy & Open a Door to Dubai's Thriving Business Environment.
                 </h6>
 
                 <div class="pt-3 text-start">
@@ -43,14 +43,14 @@
                         can be confusing and expensivee.
                     </p>
                     <p class="pb-2">
-                        With a wealth of experience and a passion for growth, Shuraa Business Setup is your one-stop
+                        With a wealth of experience and a passion for growth, FexMy Business Setup is your one-stop
                         solution for setting up and flourishing business in Dubai.
                     </p>
                     <p class="pb-2">
                         We advise on the right kind of license ur business, help you acquire the license and give
                         reminders for renewal of license. In the unfortunate case,for yo where you need to get your
                         trade
-                        license cancelled Shuraa Business Setup expedites the process minimizing your fines and costs.
+                        license cancelled FexMy Business Setup expedites the process minimizing your fines and costs.
                     </p>
 
 
@@ -281,7 +281,7 @@
                 <h3 class="custom-heading-license">Get Your Commercial License In Dubai With Ease</h3>
                 <div class="card shadow-sm">
                     <div class="card-body text-content">
-                        <p class="mb-4">If you're <a href="#">planning to start a business in the UAE</a>, you can rely on Shuraa for assistance.</p>
+                        <p class="mb-4">If you're <a href="#">planning to start a business in the UAE</a>, you can rely on FexMy for assistance.</p>
                         <div class="row g-4">
                             <div class="col-md-6">
                                 <div class="d-flex align-items-start">
@@ -367,9 +367,9 @@
                     products, rental services, brokerage firms, logistics firms, real estate, etc.
                 </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
+                    <a href="/contacts" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
                         class="theme-btn bookbtn hover-white">
-                        BOOK A FREE CONSULTATION
+                        Get A Free Consulation
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>
@@ -391,9 +391,9 @@
                     process. Professional licenses can undertake business activities such as management consultancies,
                     law firms, marketing & designing, auditing & accounting companies, etc.
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
+                    <a href="/contacts" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
                         class="theme-btn bookbtn hover-white">
-                        BOOK A FREE CONSULTATION
+                        Get A Free Consulation
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>
@@ -415,9 +415,9 @@
                     furnishing products and packaging products.
                 </p>
                 <div class="pt-3">
-                    <a href="/about" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
+                    <a href="/contacts" data-animation="slideInRight" data-duration="2s" data-delay=".9s"
                         class="theme-btn bookbtn hover-white">
-                        BOOK A FREE CONSULTATION
+                        Get A Free Consulation
                         <i class="fa-solid fa-arrow-right-long"></i>
                     </a>
                 </div>
