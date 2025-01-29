@@ -8,8 +8,8 @@
                 The clock is ticking, and opportunities are knocking at your door. Embrace the limitless potential of  Free Zones with FexMy Business Setup by your side.
             </h6>
             <div class="about-button wow fadeInUp mt-3" data-wow-delay=".8s">
-                                    <a href="/about" class="bookbtn1 theme-btn hover-black">
-                                        Explore More
+                                    <a href="/contacts" class="bookbtn1 theme-btn hover-black">
+                                        contacts us
                                         <i class="fa-solid fa-arrow-right-long"></i>
                                     </a>
                                 </div>

@@ -241,7 +241,7 @@
 
                         </h3>
                         <p class="mt-3 text-white">
-                            Establish the number of people your company will require and make plans for their hiring.
+                            Establish the numberr of people your company will require and make plans for their hiring.
                         </p>
                     </div>
                 </div>
