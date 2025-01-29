@@ -371,7 +371,7 @@
                 </h4>
                 <p class="mt-4">
                     Industrial Trade License in Dubai and across the UAE is issued to businesses involved in industrial
-                    and manufacturing activities. You need to have a physical office inside the country for this
+                    and manufacturing activitie. You need to have a physical office inside the country for this
                     license. Some of the notable activities are manufacturing any kind of products, casing products,
                     furnishing products and packaging products.
                 </p>
